@@ -1,0 +1,65 @@
+[
+  {
+    "type": "service",
+    "description": "(i) Transport of passengers, with or without accompanied belongings, by rail in first class or air conditioned coach.\n(ii) Transport of passengers, with or without accompanied belongings by-\n(a) air conditioned contract carriage other than motorcab;\n(b) air conditioned stage carriage;\n(c) radio taxi.\nExplanation.-\n(a) “contract carriage” has the meaning assigned to it in clause (7) of section 2 of the Motor Vehicles Act, 1988 (59 of 1988);\n(b) “stage carriage” has the meaning assigned to it in clause (40) of section 2 of the Motor Vehicles Act, 1988 (59 of 1988) ;\n(c) “radio taxi” means a taxi including a radio cab, by whatever name called, which is in two-way radio communication with a central control office and is enabled for tracking using Global Positioning System (GPS) or General Packet Radio Service (GPRS).\n(iii) Transport of passengers, with or without accompanied belongings, by air in economy class.\n(iv) Transport of passengers, with or without accompanied belongings, by air, embarking from or terminating in a Regional Connectivity Scheme Airport, as notified by the Ministry of Civil Aviation.\n(vi) Transport of passengers by motorcab where the cost of fuel is included in the consideration charged from the service recipient.",
+    "rate": 5,
+    "hsn": "Heading  9964",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "(i) Transport of goods by rail (other than services specified at item no. (iv)).\n(ii) Transport of goods in a vessel including services provided or agreed to be provided by a person located in non-taxable territory to a person located in non-taxable territory by way of transportation of goods by a vessel from a place outside India up to the customs station of clearance in India.\n(iii) Services of goods transport agency (GTA) in relation to transportation of goods (including used household goods for personal use).\nExplanation.- “goods transport agency” means any person who provides service in relation to transport of goods by road and issues consignment note, by whatever name called.",
+    "rate": 5,
+    "hsn": "Heading  9965",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "(i) Renting of motorcab where the cost of fuel is included in the consideration charged from the service recipient.",
+    "rate": 5,
+    "hsn": "Heading  9966",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "(i) Services of goods transport agency (GTA) in relation to transportation of goods (including used household goods for personal use).\nExplanation.- “goods transport agency” means any person who provides service in relation to transport of goods by road and issues consignment note, by whatever name called.",
+    "rate": 5,
+    "hsn": "Heading 9967",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "(iv) Leasing of aircrafts by an operator for operating scheduled air transport service or  scheduled air cargo service by way of transaction covered by clause (f) paragraph 5 of Schedule II of the Central Goods and Services Act, 2017.\nExplanation.- \n(a) “operator” means a person, organisation or enterprise engaged in or offering to engage in aircraft operations;\n(b) “scheduled air transport service” means an air transport service undertaken between the same two or more places operated according to a published time table or with flights so regular or frequent that they constitute a recognisable systematic series, each flight being open to use by members of the public;\n(c) “scheduled air cargo service” means air transportation of cargo or mail on a scheduled basis according to a published time table or with flights so regular or frequent that they constitute a recognisably systematic series, not open to use by passengers.",
+    "rate": 5,
+    "hsn": "Heading 9971",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "(v) Leasing of aircrafts by an operator for operating scheduled air transport service or  scheduled air cargo service by way of transaction covered by clause (f) paragraph 5 of Schedule II of the Central Goods and Services Act, 2017.\nExplanation.- \n(a) “operator” means a person, organisation or enterprise engaged in or offering to engage in aircraft operations;\n(b) “scheduled air transport service” means an air transport service undertaken between the same two or more places operated according to a published time table or with flights so regular or frequent that they constitute a recognisable systematic series, each flight being open to use by members of the public;\n(c) “scheduled air cargo service” means air transportation of cargo or mail on a scheduled basis according to a published time table or with flights so regular or frequent that they constitute a recognisably systematic series, not open to use by passengers.",
+    "rate": 5,
+    "hsn": "Heading 9973",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "(i) Selling of space for advertisement in print media.",
+    "rate": 5,
+    "hsn": "Heading 9983",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "(i) Supply of tour operators services.\nExplanation.-  \"tour operator\" means any person engaged in the business of planning, scheduling, organizing, arranging tours (which may include arrangements for accommodation, sightseeing or other similar services) by any mode of transport, and includes any person engaged in the business of operating tours.",
+    "rate": 5,
+    "hsn": "Heading  9985",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "(i) Services by way of job work in relation to-\n(a) Printing of newspapers;\n(b) Textile yarns (other than of man-made fibres) and textile fabrics;\n(c) Cut and polished diamonds; precious and semi-precious stones; or plain and studded jewellery of gold and other precious metals, falling under Chapter 71 in the First Schedule to the Customs Tariff Act, 1975 (51of 1975);\n(d) Printing of books (including Braille books), journals and periodicals;\n(e) Processing of hides, skins and leather falling under Chapter 41 in the First Schedule to the Customs Tariff Act, 1975 (51of 1975).\nExplanation.- “man made fibres” means staple fibres and filaments of organic polymers produced by manufacturing processes either,-\n(a) by polymerisation of organic monomers to produce polymers such as polyamides, polyesters, polyolefins or polyurethanes, or by chemical modification of polymers produced by this process [for example, poly(vinyl alcohol) prepared by the hydrolysis of poly(vinyl acetate)]; or \n(b) by dissolution or chemical treatment of natural organic polymers (for example, cellulose) to produce polymers such as cuprammonium rayon (cupro) or viscose rayon, or by chemical modification of natural organic polymers (for example, cellulose, casein and other proteins, or alginic acid), to produce polymers such as cellulose acetate or alginates.",
+    "rate": 5,
+    "hsn": "Heading 9988",
+    "lang": 1
+  }
+]

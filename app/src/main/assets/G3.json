@@ -1,0 +1,128 @@
+[
+  {
+    "type": "goods",
+    "description": "Pearls, natural or cultured, whether or not worked or graded but not strung, mounted or set; pearls, natural or cultured, temporarily strung for convenience of transport",
+    "rate": 3,
+    "hsn": 7101,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Diamonds, whether or not worked, but not mounted or set [other than Non-Industrial Unworked or simply sawn, cleaved or bruted]",
+    "rate": 3,
+    "hsn": 7102,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Precious stones (other than diamonds) and semi-precious stones, whether or not worked or graded but not strung, mounted or set; ungraded precious stones (other than diamonds) and semi-precious stones, temporarily strung for convenience of transport [other than Unworked or simply sawn or roughly shaped]",
+    "rate": 3,
+    "hsn": 7103,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Synthetic or reconstructed precious or semi-precious stones, whether or not worked or graded but not strung, mounted or set; ungraded synthetic or reconstructed precious or semi-precious stones, temporarily strung for convenience of transport [other than Unworked or simply sawn or roughly shaped]",
+    "rate": 3,
+    "hsn": 7104,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Dust and powder of natural or synthetic precious or semi-precious stones",
+    "rate": 3,
+    "hsn": 7105,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Silver (including silver plated with gold or platinum), unwrought or in semi-manufactured forms, or in powder form",
+    "rate": 3,
+    "hsn": 7106,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Base metals clad with silver, not further worked than semi-manufactured",
+    "rate": 3,
+    "hsn": 7107,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Gold (including gold plated with platinum) unwrought or in semi-manufactured forms, or in powder form",
+    "rate": 3,
+    "hsn": 7108,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Base metals or silver, clad with gold, not further worked than semi-manufactured",
+    "rate": 3,
+    "hsn": 7109,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Platinum, unwrought or in semi-manufactured forms, or in powder form",
+    "rate": 3,
+    "hsn": 7110,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Base metals, silver or gold, clad with platinum, not further worked than semi-manufactured",
+    "rate": 3,
+    "hsn": 7111,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Waste and scrap of precious metal or of metal clad with precious metal; other waste and scrap containing precious metal or precious metal compounds, of a kind used principally for the recovery of precious metal.",
+    "rate": 3,
+    "hsn": 7112,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Articles of jewellery and parts thereof, of precious metal or of metal clad with precious metal",
+    "rate": 3,
+    "hsn": 7113,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Articles of goldsmiths' or silversmiths' wares and parts thereof, of precious metal or of metal clad with precious metal",
+    "rate": 3,
+    "hsn": 7114,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other articles of precious metal or of metal clad with precious metal",
+    "rate": 3,
+    "hsn": 7115,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Articles of natural or cultured pearls, precious or semi-precious stones (natural, synthetic or reconstructed)",
+    "rate": 3,
+    "hsn": 7116,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Imitation jewellery",
+    "rate": 3,
+    "hsn": 7117,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Coin",
+    "rate": 3,
+    "hsn": 7118,
+    "lang": 1
+  }
+]

@@ -1,0 +1,1045 @@
+[
+  {
+    "type": "goods",
+    "description": "Live asses, mules and hinnies",
+    "rate": 0,
+    "hsn": 101,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Live bovine animals",
+    "rate": 0,
+    "hsn": 102,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Live swine",
+    "rate": 0,
+    "hsn": 103,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Live sheep and goats",
+    "rate": 0,
+    "hsn": 104,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Live poultry, that is to say, fowls of the species Gallus domesticus, ducks, geese, turkeys and guinea fowls.",
+    "rate": 0,
+    "hsn": 105,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other live animal such as Mammals, Birds, Insects",
+    "rate": 0,
+    "hsn": 106,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Meat of bovine animals, fresh and chilled.",
+    "rate": 0,
+    "hsn": 201,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Meat of bovine animals frozen [other than frozen and put up in unit container]",
+    "rate": 0,
+    "hsn": 202,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Meat of swine, fresh, chilled or frozen [other than frozen and put up in unit container]",
+    "rate": 0,
+    "hsn": 203,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Meat of sheep or goats, fresh, chilled or frozen [other than frozen and put up in unit container]",
+    "rate": 0,
+    "hsn": 204,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Meat of horses, asses, mules or hinnies, fresh, chilled or frozen [other than frozen and put up in unit container]",
+    "rate": 0,
+    "hsn": 205,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Edible offal of bovine animals, swine, sheep, goats, horses, asses, mules or hinnies, fresh, chilled or frozen [other than frozen and put up in unit container]",
+    "rate": 0,
+    "hsn": 206,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Meat and edible offal, of the poultry of heading 0105, fresh, chilled or frozen [other than frozen and put up in unit container]",
+    "rate": 0,
+    "hsn": 207,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other meat and edible meat offal, fresh, chilled or frozen [other than frozen and put up in unit container]",
+    "rate": 0,
+    "hsn": 208,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Pig fat, free of lean meat, and poultry fat, not rendered or otherwise extracted, fresh, chilled or frozen [other than frozen and put up in unit container]",
+    "rate": 0,
+    "hsn": 209,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Pig fat, free of lean meat, and poultry fat, not rendered or otherwise extracted, salted, in brine, dried or smoked [other than put up in unit containers]",
+    "rate": 0,
+    "hsn": 209,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Meat and edible meat offal, salted, in brine, dried or smoked; edible flours and meals of meat or meat offal, other than put up in unit containers",
+    "rate": 0,
+    "hsn": 210,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Fish seeds, prawn / shrimp seeds whether or not processed, cured or in frozen state [other than goods falling under Chapter 3 and attracting 5%]",
+    "rate": 0,
+    "hsn": 3,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Live fish.",
+    "rate": 0,
+    "hsn": 301,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Fish, fresh or chilled, excluding fish fillets and other fish meat of heading 0304",
+    "rate": 0,
+    "hsn": 302,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Fish fillets and other fish meat (whether or not minced), fresh or chilled.",
+    "rate": 0,
+    "hsn": 304,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Crustaceans, whether in shell or not, live, fresh or chilled; crustaceans, in shell, cooked by steaming or by boiling in water live, fresh or chilled.",
+    "rate": 0,
+    "hsn": 306,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Molluscs, whether in shell or not, live, fresh, chilled; aquatic invertebrates other than crustaceans and molluscs, live, fresh or chilled.",
+    "rate": 0,
+    "hsn": 307,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Aquatic invertebrates other than crustaceans and molluscs, live, fresh or chilled.",
+    "rate": 0,
+    "hsn": 308,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Fresh milk and pasteurised milk, including separated milk, milk and cream, not concentrated nor containing added sugar or other sweetening matter, excluding Ultra High Temperature (UHT) milk",
+    "rate": 0,
+    "hsn": 401,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Curd; Lassi; Butter milk",
+    "rate": 0,
+    "hsn": 403,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Chena or paneer, other than put up in unit containers and bearing a registered brand name;",
+    "rate": 0,
+    "hsn": 406,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Birds' eggs, in shell, fresh, preserved or cooked",
+    "rate": 0,
+    "hsn": 407,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Natural honey, other than put up in unit container and bearing a registered brand name",
+    "rate": 0,
+    "hsn": 409,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Human hair, unworked, whether or not washed or scoured; waste of human hair",
+    "rate": 0,
+    "hsn": 501,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "All goods i.e. Bones and horn-cores, unworked, defatted, simply prepared (but not cut to shape), treated with acid or gelatinised; powder and waste of these products",
+    "rate": 0,
+    "hsn": 506,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "All goods i.e. Hoof meal; horn meal; hooves, claws, nails and beaks; antlers; etc.",
+    "rate": 0,
+    "hsn": "0507 90",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Semen including frozen semen",
+    "rate": 0,
+    "hsn": 511,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Live trees and other plants; bulbs, roots and the like; cut flowers and ornamental foliage",
+    "rate": 0,
+    "hsn": 6,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Potatoes, fresh or chilled.",
+    "rate": 0,
+    "hsn": 701,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Tomatoes, fresh or chilled.",
+    "rate": 0,
+    "hsn": 702,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Onions, shallots, garlic, leeks and other alliaceous vegetables, fresh or chilled.",
+    "rate": 0,
+    "hsn": 703,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Cabbages, cauliflowers, kohlrabi, kale and similar edible brassicas, fresh or chilled.",
+    "rate": 0,
+    "hsn": 704,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Lettuce (Lactuca sativa) and chicory (Cichorium spp.), fresh or chilled.",
+    "rate": 0,
+    "hsn": 705,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Carrots, turnips, salad beetroot, salsify, celeriac, radishes and similar edible roots, fresh or chilled.",
+    "rate": 0,
+    "hsn": 706,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Cucumbers and gherkins, fresh or chilled.",
+    "rate": 0,
+    "hsn": 707,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Leguminous vegetables, shelled or unshelled, fresh or chilled.",
+    "rate": 0,
+    "hsn": 708,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other vegetables, fresh or chilled.",
+    "rate": 0,
+    "hsn": 709,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Dried vegetables, whole, cut, sliced, broken or in powder, but not further prepared.",
+    "rate": 0,
+    "hsn": 712,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Dried leguminous vegetables, shelled, whether or not skinned or split.",
+    "rate": 0,
+    "hsn": 713,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Manioc, arrowroot, salep, Jerusalem artichokes, sweet potatoes and similar roots and tubers with high starch or inulin content, fresh or chilled; sago pith.",
+    "rate": 0,
+    "hsn": 714,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Coconuts, fresh or dried, whether or not shelled or peeled",
+    "rate": 0,
+    "hsn": 801,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Brazil nuts, fresh, whether or not shelled or peeled",
+    "rate": 0,
+    "hsn": 801,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other nuts, Other nuts, fresh such as Almonds, Hazelnuts or filberts (Coryius spp.), walnuts, Chestnuts (Castanea spp.), Pistachios, Macadamia nuts, Kola nuts (Cola spp.), Areca nuts, fresh, whether or not shelled or peeled",
+    "rate": 0,
+    "hsn": 802,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Bananas, including plantains, fresh or dried",
+    "rate": 0,
+    "hsn": 803,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Dates, figs, pineapples, avocados, guavas, mangoes and mangosteens, fresh.",
+    "rate": 0,
+    "hsn": 804,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Citrus fruit, such as Oranges, Mandarins (including tangerines and satsumas); clementines, wilkings and similar citrus hybrids, Grapefruit, including pomelos, Lemons (Citrus limon, Citrus limonum) and limes (Citrus aurantifolia, Citrus latifolia), fresh.",
+    "rate": 0,
+    "hsn": 805,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Grapes, fresh",
+    "rate": 0,
+    "hsn": 806,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Melons (including watermelons) and papaws (papayas), fresh.",
+    "rate": 0,
+    "hsn": 807,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Apples, pears and quinces, fresh.",
+    "rate": 0,
+    "hsn": 808,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Apricots, cherries, peaches (including nectarines), plums and sloes, fresh.",
+    "rate": 0,
+    "hsn": 809,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other fruit such as strawberries, raspberries, blackberries, mulberries and loganberries, black, white or red currants and gooseberries, cranberries, bilberries and other fruits of the genus vaccinium, Kiwi fruit, Durians, Persimmons, Pomegranates, Tamarind, Sapota (chico), Custard-apple (ata), Bore, Lichi, fresh.",
+    "rate": 0,
+    "hsn": 810,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Peel of citrus fruit or melons (including watermelons), fresh.",
+    "rate": 0,
+    "hsn": 814,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "All goods of seed quality",
+    "rate": 0,
+    "hsn": 9,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Coffee beans, not roasted",
+    "rate": 0,
+    "hsn": 901,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Unprocessed green leaves of tea",
+    "rate": 0,
+    "hsn": 902,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Seeds of anise, badian, fennel, coriander, cumin or caraway; juniper berries [of seed quality]",
+    "rate": 0,
+    "hsn": 909,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Fresh ginger, other than in processed form",
+    "rate": 0,
+    "hsn": "0910 11 10",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Fresh turmeric, other than in processed form",
+    "rate": 0,
+    "hsn": "0910 30 10",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Wheat and meslin [other than those put up in unit container and bearing a registered brand name]",
+    "rate": 0,
+    "hsn": 1001,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Rye [other than those put up in unit container and bearing a registered brand name]",
+    "rate": 0,
+    "hsn": 1002,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Barley [other than those put up in unit container and bearing a registered brand name]",
+    "rate": 0,
+    "hsn": 1003,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Oats [other than those put up in unit container and bearing a registered brand name]",
+    "rate": 0,
+    "hsn": 1004,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Maize (corn) [other than those put up in unit container and bearing a registered brand name]",
+    "rate": 0,
+    "hsn": 1005,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Rice [other than those put up in unit container and bearing a registered brand name]",
+    "rate": 0,
+    "hsn": 1006,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Grain sorghum [other than those put up in unit container and bearing a registered brand name]",
+    "rate": 0,
+    "hsn": 1007,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Buckwheat, millet and canary seed; other cereals such as Jawar, Bajra, Ragi] [other than those put up in unit container and bearing a registered brand name]",
+    "rate": 0,
+    "hsn": 1008,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Wheat or meslin flour [other than those put up in unit container and bearing a registered brand name].",
+    "rate": 0,
+    "hsn": 1101,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Cereal flours other than of wheat or meslin, [maize (corn) flour, Rye flour, etc.] [other than those put up in unit container and bearing a registered brand name]",
+    "rate": 0,
+    "hsn": 1102,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Cereal groats, meal and pellets [other than those put up in unit container and bearing a registered brand name]",
+    "rate": 0,
+    "hsn": 1103,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Cereal grains hulled",
+    "rate": 0,
+    "hsn": 1104,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Flour, of potatoes [other than those put up in unit container and bearing a registered brand name]",
+    "rate": 0,
+    "hsn": 1105,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Flour, of the dried leguminous vegetables of heading 0713 (pulses) [other than guar meal 1106 10 10 and guar gum refined split 1106 10 90], of sago or of roots or tubers of heading 0714 or of the products of Chapter 8 i.e. of tamarind, of singoda, mango flour, etc. [other than those put up in unit container and bearing a registered brand name]",
+    "rate": 0,
+    "hsn": 1106,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "All goods of seed quality",
+    "rate": 0,
+    "hsn": 12,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Soya beans, whether or not broken, of seed quality.",
+    "rate": 0,
+    "hsn": 1201,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Ground-nuts, not roasted or otherwise cooked, whether or not shelled or broken, of seed quality.",
+    "rate": 0,
+    "hsn": 1202,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Linseed, whether or not broken, of seed quality.",
+    "rate": 0,
+    "hsn": 1204,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Rape or colza seeds, whether or not broken, of seed quality.",
+    "rate": 0,
+    "hsn": 1205,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Sunflower seeds, whether or not broken, of seed quality.",
+    "rate": 0,
+    "hsn": 1206,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other oil seeds and oleaginous fruits (i.e. Palm nuts and kernels, cotton seeds, Castor oil seeds, Sesamum seeds, Mustard seeds, Saffower (Carthamus tinctorius) seeds, Melon seeds, Poppy seeds, Ajams, Mango kernel, Niger seed, Kokam) whether or not broken, of seed quality.",
+    "rate": 0,
+    "hsn": 1207,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Seeds, fruit and spores, of a kind used for sowing.",
+    "rate": 0,
+    "hsn": 1209,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Hop cones, fresh.",
+    "rate": 0,
+    "hsn": 1210,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Plants and parts of plants (including seeds and fruits), of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purpose, fresh or chilled.",
+    "rate": 0,
+    "hsn": 1211,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Locust beans, seaweeds and other algae, sugar beet and sugar cane, fresh or chilled.",
+    "rate": 0,
+    "hsn": 1212,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Cereal straw and husks, unprepared, whether or not chopped, ground, pressed or in the form of pellets",
+    "rate": 0,
+    "hsn": 1213,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Swedes, mangolds, fodder roots, hay, lucerne (alfalfa), clover, sainfoin, forage kale, lupines, vetches and similar forage products, whether or not in the form of pellets.",
+    "rate": 0,
+    "hsn": 1214,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Lac and Shellac",
+    "rate": 0,
+    "hsn": 1301,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Betel leaves",
+    "rate": 0,
+    "hsn": "1404 90 40",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Jaggery of all types including Cane Jaggery (gur) and Palmyra Jaggery",
+    "rate": 0,
+    "hsn": "1701 or 1702",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Puffed rice, commonly known as Muri, flattened or beaten rice, commonly known as Chira, parched rice, commonly known as khoi, parched paddy or rice coated with sugar or gur, commonly known as Murki",
+    "rate": 0,
+    "hsn": 1904,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Pappad, by whatever name it is known, except when served for consumption",
+    "rate": 0,
+    "hsn": 1905,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Bread (branded or otherwise), except when served for consumption and pizza bread",
+    "rate": 0,
+    "hsn": 1905,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Prasadam supplied by religious places like temples, mosques, churches, gurudwaras, dargahs, etc.",
+    "rate": 0,
+    "hsn": 2106,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Water [other than aerated, mineral, purified, distilled, medicinal, ionic, battery, de-mineralized and water sold in sealed container]",
+    "rate": 0,
+    "hsn": 2201,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Non-alcoholic Toddy, Neera including date and palm neera",
+    "rate": 0,
+    "hsn": 2201,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Tender coconut water other than put up in unit container and bearing a registered brand name",
+    "rate": 0,
+    "hsn": "2202 90 90",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Aquatic feed including shrimp feed and prawn feed, poultry feed & cattle feed, including grass, hay & straw, supplement & husk of pulses, concentrates & additives, wheat bran & de-oiled cake",
+    "rate": 0,
+    "hsn": "2302, 2304, 2305, 2306, 2308, 2309",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Salt, all types",
+    "rate": 0,
+    "hsn": 2501,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Electrical energy",
+    "rate": 0,
+    "hsn": "2716 00 00",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Dicalcium phosphate (DCP) of animal feed grade conforming to IS specification No.5470 : 2002",
+    "rate": 0,
+    "hsn": 2835,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Human Blood and its components",
+    "rate": 0,
+    "hsn": 3002,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "All types of contraceptives",
+    "rate": 0,
+    "hsn": 3006,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "All goods and organic manure [other than put up in unit containers and bearing a registered brand name]",
+    "rate": 0,
+    "hsn": 3101,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Kajal [other than kajal pencil sticks], Kumkum, Bindi, Sindur, Alta",
+    "rate": 0,
+    "hsn": 3304,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Municipal waste, sewage sludge, clinical waste",
+    "rate": 0,
+    "hsn": 3825,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Plastic bangles",
+    "rate": 0,
+    "hsn": 3926,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Condoms and contraceptives",
+    "rate": 0,
+    "hsn": 4014,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Firewood or fuel wood",
+    "rate": 0,
+    "hsn": 4401,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Wood charcoal (including shell or nut charcoal), whether or not agglomerated",
+    "rate": 0,
+    "hsn": 4402,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Judicial, Non-judicial stamp papers, Court fee stamps when sold by the Government Treasuries or Vendors authorized by the Government",
+    "rate": 0,
+    "hsn": "4802 / 4907",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Postal items, like envelope, Post card etc., sold by Government",
+    "rate": 0,
+    "hsn": "4817 / 4907",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Rupee notes when sold to the Reserve Bank of India",
+    "rate": 0,
+    "hsn": "48 / 4907",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Cheques, lose or in book form",
+    "rate": 0,
+    "hsn": 4907,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Printed books, including Braille books",
+    "rate": 0,
+    "hsn": 4901,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Newspapers, journals and periodicals, whether or not illustrated or containing advertising material",
+    "rate": 0,
+    "hsn": 4902,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Children's picture, drawing or colouring books",
+    "rate": 0,
+    "hsn": 4903,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Maps and hydrographic or similar charts of all kinds, including atlases, wall maps, topographical plans and globes, printed",
+    "rate": 0,
+    "hsn": 4905,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Silkworm laying, cocoon",
+    "rate": 0,
+    "hsn": 5001,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Raw silk",
+    "rate": 0,
+    "hsn": 5002,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Silk waste",
+    "rate": 0,
+    "hsn": 5003,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Wool, not carded or combed",
+    "rate": 0,
+    "hsn": 5101,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Fine or coarse animal hair, not carded or combed",
+    "rate": 0,
+    "hsn": 5102,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Waste of wool or of fine or coarse animal hair",
+    "rate": 0,
+    "hsn": 5103,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Gandhi Topi",
+    "rate": 0,
+    "hsn": 52,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Khadi yarn",
+    "rate": 0,
+    "hsn": 52,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Jute fibres, raw or processed but not spun",
+    "rate": 0,
+    "hsn": 5303,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Coconut, coir fibre",
+    "rate": 0,
+    "hsn": 5305,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Indian National Flag",
+    "rate": 0,
+    "hsn": 63,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Human hair, dressed, thinned, bleached or otherwise worked",
+    "rate": 0,
+    "hsn": 6703,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Earthen pot and clay lamps",
+    "rate": 0,
+    "hsn": "6912 00 40",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Glass bangles (except those made from precious metals)",
+    "rate": 0,
+    "hsn": 7018,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Agricultural implements manually operated or animal driven i.e. Hand tools, such as spades, shovels, mattocks, picks, hoes, forks and rakes; axes, bill hooks and similar hewing tools; secateurs and pruners of any kind; scythes, sickles, hay knives, hedge shears, timber wedges and other tools of a kind used in agriculture, horticulture or forestry.",
+    "rate": 0,
+    "hsn": 8201,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Amber charkha",
+    "rate": 0,
+    "hsn": 8445,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Handloom [weaving machinery]",
+    "rate": 0,
+    "hsn": 8446,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Spacecraft (including satellites) and suborbital and spacecraft launch vehicles",
+    "rate": 0,
+    "hsn": "8802 60 00",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Parts of goods of heading 8801",
+    "rate": 0,
+    "hsn": 8803,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Hearing aids",
+    "rate": 0,
+    "hsn": 9021,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Indigenous handmade musical instruments",
+    "rate": 0,
+    "hsn": 92,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Muddhas made of sarkanda and phool bahari jhadoo",
+    "rate": 0,
+    "hsn": 9603,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Slate pencils and chalk sticks",
+    "rate": 0,
+    "hsn": 9609,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Slates",
+    "rate": 0,
+    "hsn": "9610 00 00",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Passenger baggage",
+    "rate": 0,
+    "hsn": 9803,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "(i)           Puja samagri namely,-   Rudraksha, rudraksha mala, tulsi kanthi mala, panchgavya (mixture of cowdung, desi ghee, milk and curd);   Sacred thread (commonly known as yagnopavit);   Wooden khadau;   Panchamrit,    Vibhuti sold by religious institutions,    Unbranded honey [proposed GST Nil]   Wick for diya.   Roli   Kalava (Raksha sutra)   Chandan tika",
+    "rate": 0,
+    "hsn": "Any chapter",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Supply of lottery by any person other than State Government, Union Territory or Local authority subject to the condition that the supply of such lottery has suffered appropriate central tax, State tax, Union territory tax or integrated tax, as the case may be, when supplied by State Government, Union Territory or local authority, as the case may be, to the lottery distributor or selling agent appointed by the State Government, Union Territory or local authority, as the case may be.",
+    "rate": 0,
+    "hsn": "-",
+    "lang": 1
+  }
+]

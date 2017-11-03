@@ -1,0 +1,1668 @@
+[
+  {
+    "type": "goods",
+    "description": "Live horses",
+    "rate": 12,
+    "hsn": "01012100, 010129",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Meat of bovine animals, frozen and put up in unit containers",
+    "rate": 12,
+    "hsn": 202,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Meat of swine, frozen and put up in unit containers",
+    "rate": 12,
+    "hsn": 203,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Meat of sheep or goats, frozen and put up in unit containers",
+    "rate": 12,
+    "hsn": 204,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Meat of horses, asses, mules or hinnies, frozen and put up in unit containers",
+    "rate": 12,
+    "hsn": 205,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Edible offal of bovine animals, swine, sheep, goats, horses, asses, mules or hinnies, frozen and put up in unit containers",
+    "rate": 12,
+    "hsn": 206,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Meat and edible offal, of the poultry of heading 0105, frozen and put up in unit containers",
+    "rate": 12,
+    "hsn": 207,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other meat and edible meat offal, frozen and put up in unit containers",
+    "rate": 12,
+    "hsn": 208,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Pig fat, free of lean meat, and poultry fat, not rendered or otherwise extracted, frozen and put up in unit containers",
+    "rate": 12,
+    "hsn": 209,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Pig fat, free of lean meat, and poultry fat, not rendered or otherwise extracted, salted, in brine, dried or smoked, put up in unit containers",
+    "rate": 12,
+    "hsn": 209,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Meat and edible meat offal, salted, in brine, dried or smoked put up in unit containers; edible flours and meals of meat or meat offal put up in unit containers",
+    "rate": 12,
+    "hsn": 210,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Butter and other fats (i.e. ghee, butter oil, etc.) and oils derived from milk; dairy spreads",
+    "rate": 12,
+    "hsn": 405,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Cheese",
+    "rate": 12,
+    "hsn": 406,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Brazil nuts, dried, whether or not shelled or peeled",
+    "rate": 12,
+    "hsn": 801,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other nuts, dried, whether or not shelled or peeled, such as Almonds, Hazelnuts or filberts (Coryius spp.), walnuts, Chestnuts (Castanea spp.), Pistachios, Macadamia nuts, Kola nuts (Cola spp.) [other than dried areca nuts]",
+    "rate": 12,
+    "hsn": 802,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Dates, figs, pineapples, avocados, guavas, mangoes and mangosteens, dried",
+    "rate": 12,
+    "hsn": 804,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Fruit, dried, other than that of headings 0801 to 0806; mixtures of nuts or dried fruits of Chapter 8",
+    "rate": 12,
+    "hsn": 813,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Starches; inulin",
+    "rate": 12,
+    "hsn": 1108,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Pig fats (including lard) and poultry fat, other than that of heading 0209 or 1503",
+    "rate": 12,
+    "hsn": 1501,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Fats of bovine animals, sheep or goats, other than those of heading 1503",
+    "rate": 12,
+    "hsn": 1502,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Lard stearin, lard oil, oleo stearin, oleo-oil and tallow oil, not emulsified or mixed or otherwise prepared",
+    "rate": 12,
+    "hsn": 1503,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Fats and oils and their fractions, of fish or marine mammals, whether or not refined, but not chemically modified",
+    "rate": 12,
+    "hsn": 1504,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Wool grease and fatty substances derived therefrom (including lanolin)",
+    "rate": 12,
+    "hsn": 1505,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other animal fats and oils and their fractions, whether or not refined, but not chemically modified",
+    "rate": 12,
+    "hsn": 1506,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Animal fats and oils and their fractions, partly or wholly hydrogenated, inter-esterified, re-esterified or elaidinised, whether or not refined, but not further prepared.",
+    "rate": 12,
+    "hsn": 1516,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Edible mixtures or preparations of  animal fats or animal oils or of fractions of different animal fats or animal oils of this Chapter, other than edible fats or oils or their fractions of heading 1516",
+    "rate": 12,
+    "hsn": 1517,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Animal fats and animal oils and their fractions, boiled, oxidised, dehydrated, sulphurised, blown, polymerised by heat in vacuum or in inert gas or otherwise chemically modified, excluding those of heading 1516; inedible mixtures or preparations of animal or vegetable fats or oils or of fractions of different fats or oils of this chapter, not elsewhere specified of included",
+    "rate": 12,
+    "hsn": 1518,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Sausages and similar products, of meat, meat offal or blood; food preparations based on these products",
+    "rate": 12,
+    "hsn": 1601,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other prepared or preserved meat, meat offal or blood",
+    "rate": 12,
+    "hsn": 1602,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Extracts and juices of meat, fish or crustaceans, molluscs or other aquatic invertebrates",
+    "rate": 12,
+    "hsn": 1603,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs",
+    "rate": 12,
+    "hsn": 1604,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Crustaceans, molluscs and other aquatic invertebrates prepared or preserved",
+    "rate": 12,
+    "hsn": 1605,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Vegetables, fruit, nuts and other edible parts of plants, prepared or preserved by vinegar or acetic acid",
+    "rate": 12,
+    "hsn": 2001,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Tomatoes prepared or preserved otherwise than by vinegar or acetic acid",
+    "rate": 12,
+    "hsn": 2002,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Mushrooms and truffles, prepared or preserved otherwise than by vinegar or acetic acid",
+    "rate": 12,
+    "hsn": 2003,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other vegetables prepared or preserved otherwise than by vinegar or acetic acid, frozen, other than products of heading 2006",
+    "rate": 12,
+    "hsn": 2004,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other vegetables prepared or preserved otherwise than by vinegar or acetic acid, not frozen, other than products of heading 2006",
+    "rate": 12,
+    "hsn": 2005,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Vegetables, fruit, nuts, fruit-peel and other parts of plants, preserved by sugar (drained, glacé or crystallised)",
+    "rate": 12,
+    "hsn": 2006,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Jams, fruit jellies, marmalades, fruit or nut purée and fruit or nut pastes, obtained by cooking, whether or not containing added sugar or other sweetening matter",
+    "rate": 12,
+    "hsn": 2007,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Fruit, nuts and other edible parts of plants, otherwise prepared or preserved, whether or not containing added sugar or other sweetening matter or spirit, not elsewhere specified or included; such as Ground-nuts, Cashew nut, roasted, salted or roasted and salted, Other roasted nuts and seeds, squash of Mango, Lemon, Orange, Pineapple or other fruits",
+    "rate": 12,
+    "hsn": 2008,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Fruit juices (including grape must) and vegetable juices, unfermented and not containing added spirit, whether or not containing added sugar or other sweetening matter.",
+    "rate": 12,
+    "hsn": 2009,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Roasted chicory and other roasted coffee substitutes, and extracts, essences and concentrates thereof",
+    "rate": 12,
+    "hsn": "2101 30",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Yeasts and prepared baking powders",
+    "rate": 12,
+    "hsn": 2102,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Sauces and preparations therefor [other than Curry paste; mayonnaise and salad dressings; mixed condiments and mixed seasoning",
+    "rate": 12,
+    "hsn": "2103 [other than 2103 90 10, 2103 90 30, 2103 90 40]",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Texturised vegetable proteins (soya bari) and Bari made of pulses including mungodi",
+    "rate": 12,
+    "hsn": 2106,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Namkeens, bhujia, mixture, chabena and   similar edible preparations in ready for consumption form",
+    "rate": 12,
+    "hsn": "2106 90",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Soya milk drinks",
+    "rate": 12,
+    "hsn": "2202 90 10",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Fruit pulp or fruit juice based drinks",
+    "rate": 12,
+    "hsn": "2202 90 20",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Tender coconut water put up in unit container and bearing a registered brand name",
+    "rate": 12,
+    "hsn": "2202 90 90",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Beverages containing milk",
+    "rate": 12,
+    "hsn": "2202 90 30",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Marble and travertine blocks",
+    "rate": 12,
+    "hsn": "2515 12 10",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Granite blocks",
+    "rate": 12,
+    "hsn": 2516,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Anaesthetics",
+    "rate": 12,
+    "hsn": 28,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Potassium Iodate",
+    "rate": 12,
+    "hsn": 28,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Steam",
+    "rate": 12,
+    "hsn": 28,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Micronutrients, which   are   covered   under serial number 1(f) of Schedule 1, Part (A) of the Fertilizer Control Order, 1985 and are manufactured by the manufacturers which    are    registered    under    the Fertilizer Control Order, 1985",
+    "rate": 12,
+    "hsn": 28,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Iodine",
+    "rate": 12,
+    "hsn": "2801 20",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Medicinal grade hydrogen peroxide",
+    "rate": 12,
+    "hsn": 2847,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Gibberellic acid",
+    "rate": 12,
+    "hsn": 29,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Glands and other organs for organo-therapeutic uses, dried, whether or not powdered; extracts of glands or other organs or of their secretions for organo-therapeutic uses; heparin and its salts; other human or animal substances prepared for therapeutic or prophylactic uses, not elsewhere specified or included",
+    "rate": 12,
+    "hsn": 3001,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Animal blood prepared for therapeutic, prophylactic or diagnostic uses; antisera and other blood fractions and modified immunological products, whether or not obtained by means of biotechnological processes; toxins, cultures of micro-organisms (excluding yeasts) and similar products",
+    "rate": 12,
+    "hsn": 3002,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of two or more constituents which have been mixed together for therapeutic or prophylactic uses, not put up in measured doses or in forms or packings for retail sale, including Ayurvaedic, Unani, Siddha, homoeopathic or Bio-chemic systems medicaments",
+    "rate": 12,
+    "hsn": 3003,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale, including Ayurvaedic, Unani, homoeopathic siddha or Bio-chemic systems medicaments, put up for retail sale",
+    "rate": 12,
+    "hsn": 3004,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Wadding, gauze, bandages and similar articles (for example, dressings, adhesive plasters, poultices), impregnated or coated with pharmaceutical substances or put up in forms or packings for retail sale for medical, surgical, dental or veterinary purposes",
+    "rate": 12,
+    "hsn": 3005,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Pharmaceutical goods specified in Note 4 to this Chapter [i.e. Sterile surgical catgut, similar sterile suture materials (including sterile absorbable surgical or dental yarns) and sterile tissue adhesives for surgical wound closure; sterile laminaria and sterile laminaria tents; sterile absorbable surgical or dental haemostatics; sterile surgical or denatal adhesion barriers, whether or not absorbable; Waste pharmaceuticals] [other than contraceptives]",
+    "rate": 12,
+    "hsn": 3006,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Fountain pen ink",
+    "rate": 12,
+    "hsn": 3215,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Ball pen ink",
+    "rate": 12,
+    "hsn": 3215,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Tooth powder",
+    "rate": 12,
+    "hsn": "3306 10 10",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Odoriferous preparations which operate by burning [other than agarbattis]",
+    "rate": 12,
+    "hsn": "3307 41 00",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "a.       Following goods namely:- Menthol and menthol crystals,  Peppermint (Mentha Oil),  Fractionated / de-terpenated mentha oil (DTMO),  De-mentholised oil (DMO),  Spearmint oil,  Mentha piperita oil",
+    "rate": 12,
+    "hsn": "29, 30, 3302",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Candles, tapers and the like",
+    "rate": 12,
+    "hsn": 3406,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Photographic plates and film for x-ray for medical use",
+    "rate": 12,
+    "hsn": 3701,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Photographic plates and films, exposed and developed, other than cinematographic film",
+    "rate": 12,
+    "hsn": 3705,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Photographic plates and films, exposed and developed, whether or not incorporating sound track or consisting only of sound track, other than feature films.",
+    "rate": 12,
+    "hsn": 3706,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Silicon wafers",
+    "rate": 12,
+    "hsn": 3818,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "All diagnostic kits and reagents",
+    "rate": 12,
+    "hsn": 3822,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Feeding bottles",
+    "rate": 12,
+    "hsn": 3926,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Plastic beads",
+    "rate": 12,
+    "hsn": 3926,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Latex Rubber Thread",
+    "rate": 12,
+    "hsn": 4007,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Nipples of feeding bottles",
+    "rate": 12,
+    "hsn": 4014,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Surgical rubber gloves or medical examination rubber gloves",
+    "rate": 12,
+    "hsn": 4015,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Leather further prepared after tanning or crusting, including parchment-dressed leather, of bovine (including buffalo) or equine animals, without hair on, whether or not split, other than leather of heading 4114",
+    "rate": 12,
+    "hsn": 4107,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Leather further prepared after tanning or crusting, including parchment-dressed leather, of sheep or lamb, without wool on, whether or not split, other than leather of heading 4114",
+    "rate": 12,
+    "hsn": 4112,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Leather further prepared after tanning or crusting, including parchment-dressed leather, of other animals, without wool or hair on, whether or not split, other than leather of heading 4114",
+    "rate": 12,
+    "hsn": 4113,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Chamois (including combination chamois) leather; patent leather and patent laminated leather; metallised leather",
+    "rate": 12,
+    "hsn": 4114,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Composition leather with a basis of leather or leather fibre, in slabs, sheets or strip, whether or not in rolls; parings and other waste of leather or of composition leather, not suitable for the manufacture of leather articles; leather dust, powder and flour",
+    "rate": 12,
+    "hsn": 4115,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Gloves specially designed for use in sports",
+    "rate": 12,
+    "hsn": 4203,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "a.    The following goods, namely: — Cement Bonded Particle Board; Jute Particle Board; Rice Husk Board; Glass-fibre Reinforced Gypsum Board (GRG) Sisal-fibre Boards; Bagasse Board; and Cotton Stalk Particle Board Particle/fibre board manufactured from agricultural crop residues",
+    "rate": 12,
+    "hsn": "44 or any Chapter",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Hoopwood; split poles; piles, pickets and stakes of wood, pointed but not sawn lengthwise; wooden sticks, roughly trimmed but not turned, bent or otherwise worked, suitable for the manufacture of walking-sticks, umbrellas, tool handles or the like",
+    "rate": 12,
+    "hsn": 4404,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Wood wool; wood flour",
+    "rate": 12,
+    "hsn": 4405,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Railway or tramway sleepers (cross-ties) of wood",
+    "rate": 12,
+    "hsn": 4406,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Sheets for veneering (including those obtained by slicing laminated wood), for plywood or for similar laminated wood and other wood, sawn lengthwise, sliced or peeled, whether or not planed, sanded, spliced or end-jointed, of a thickness not exceeding 6 mm [for match splints]",
+    "rate": 12,
+    "hsn": 4408,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Packing cases, boxes, crates, drums and similar packings, of wood; cable-drums of wood; pallets, box pallets and other load boards, of wood; pallet collars of wood",
+    "rate": 12,
+    "hsn": 4415,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Casks, barrels, vats, tubs and other coopers' products and parts thereof, of wood, including staves",
+    "rate": 12,
+    "hsn": 4416,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Tools, tool bodies, tool handles, broom or brush bodies and handles, of wood; boot or shoe lasts and trees, of wood",
+    "rate": 12,
+    "hsn": 4417,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Wood marquetry and inlaid wood; caskets and cases for jewellery or cutlery, and similar articles, of wood; statuettes and other ornaments, of wood; wooden articles of furniture not falling in Chapter 94",
+    "rate": 12,
+    "hsn": 4420,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other articles of wood; such as clothes hangers, Spools,  cops,  bobbins,  sewing thread reels and the like of turned wood for various textile machinery, Match splints, Pencil slats, Parts of wood,  namely oars,  paddles and rudders for ships, boats and other similar floating structures, Parts of domestic decorative articles used as tableware and kitchenware [other than Wood paving blocks, articles of densified wood not elsewhere included or specified, Parts of domestic decorative articles used as tableware and kitchenware]",
+    "rate": 12,
+    "hsn": 4421,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Natural cork, raw or simply prepared",
+    "rate": 12,
+    "hsn": 4501,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Plaits and similar products of plaiting materials, whether or not assembled into strips; plaiting materials, plaits and similar products of plaiting materials, bound together in parallel strands or woven, in sheet form, whether or not being finished articles (for example, mats matting, screens) of vegetables materials such as of Bamboo, of rattan, of Other Vegetable materials",
+    "rate": 12,
+    "hsn": 4601,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Basketwork, wickerwork and other articles, made directly to shape from plaiting materials or made up from goods of heading 4601; articles of loofah",
+    "rate": 12,
+    "hsn": 4602,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Mechanical wood pulp",
+    "rate": 12,
+    "hsn": 4701,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Chemical wood pulp, dissolving grades",
+    "rate": 12,
+    "hsn": 4702,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Chemical wood pulp, soda or sulphate, other than dissolving grades",
+    "rate": 12,
+    "hsn": 4703,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Chemical wood pulp, sulphite, other than dissolving grades",
+    "rate": 12,
+    "hsn": 4704,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Wood pulp obtained by a combination of mechanical and chemical pulping processes",
+    "rate": 12,
+    "hsn": 4705,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Pulps of fibres derived from recovered (waste and scrap) paper or paperboard or of other fibrous cellulosic material",
+    "rate": 12,
+    "hsn": 4706,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Recovered (waste and scrap) paper or paperboard",
+    "rate": 12,
+    "hsn": 4707,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Uncoated paper and paperboard, of a kind used for writing, printing or other graphic purposes, and non perforated punch-cards and punch tape paper, in rolls or rectangular (including square) sheets, of any size, other than paper of heading 4801 or 4803; hand-made paper and paperboard",
+    "rate": 12,
+    "hsn": 4802,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Uncoated kraft paper and paperboard, in rolls or sheets, other than that of heading 4802 or 4803",
+    "rate": 12,
+    "hsn": 4804,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other uncoated paper and paperboard, in rolls or sheets, not further worked or processed than as specified in Note 3 to this Chapter",
+    "rate": 12,
+    "hsn": 4805,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Greaseproof papers",
+    "rate": 12,
+    "hsn": "4806 20 00",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Glassine papers",
+    "rate": 12,
+    "hsn": "4806 40 10",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Composite paper and paperboard (made by sticking flat layers of paper or paperboard together with an adhesive), not surface-coated or impregnated, whether or not internally reinforced, in rolls or sheets",
+    "rate": 12,
+    "hsn": 4807,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Paper and paperboard, corrugated (with or without glued flat surface sheets), creped, crinkled, embossed or perforated, in rolls or sheets, other than paper of the kind described in heading 4803",
+    "rate": 12,
+    "hsn": 4808,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Paper and paperboard, coated on one or both sides with kaolin (China clay) or other inorganic substances, with or without a binder, and with no other coating, whether or not surface-coloured, surface-decorated or printed, in rolls or rectangular (including square) sheets of any size",
+    "rate": 12,
+    "hsn": 4810,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Aseptic packaging paper",
+    "rate": 12,
+    "hsn": 4811,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Boxes, pouches, wallets and writing compendiums, of paper or paperboard, containing an assortment of paper stationery",
+    "rate": 12,
+    "hsn": "4817 30",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Cartons, boxes and cases of corrugated paper or paper board",
+    "rate": 12,
+    "hsn": 4819,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Exercise book, graph book, & laboratory note book and notebooks",
+    "rate": 12,
+    "hsn": 4820,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Paper pulp moulded trays",
+    "rate": 12,
+    "hsn": 4823,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Paper splints for matches, whether or not waxed, Asphaltic roofing sheets",
+    "rate": 12,
+    "hsn": 48,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Music, printed or in manuscript, whether or not bound or illustrated",
+    "rate": 12,
+    "hsn": "4904 00 00",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Plans and drawings for architectural, engineering, industrial, commercial, topographical or similar purposes, being originals drawn by hand; hand-written texts; photographic reproductions on sensitised paper and carbon copies of the foregoing",
+    "rate": 12,
+    "hsn": "4906 00 00",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Unused postage, revenue or similar stamps of current or new issue in the country in which they have, or will have, a recognised face value; stamp-impressed paper; banknotes; cheque forms; stock, share or bond certificates and similar documents of title",
+    "rate": 12,
+    "hsn": 4907,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Transfers (decalcomanias)",
+    "rate": 12,
+    "hsn": 4908,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Printed or illustrated postcards; printed cards bearing personal greetings, messages or announcements, whether or not illustrated, with or without envelopes or trimmings",
+    "rate": 12,
+    "hsn": 4909,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Calendars of any kind, printed, including calendar blocks",
+    "rate": 12,
+    "hsn": 4910,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other printed matter, including printed pictures and photographs; such as Trade advertising material, Commercial catalogues and the like, printed Posters, Commercial catalogues, Printed inlay cards, Pictures, designs and photographs, Plan and drawings for architectural engineering, industrial, commercial, topographical or similar purposes reproduced with the aid of computer or any other devices",
+    "rate": 12,
+    "hsn": 4911,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Wadding of textile materials and articles thereof; such as Absorbent cotton wool",
+    "rate": 12,
+    "hsn": 5601,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Felt, whether or not impregnated, coated, covered or laminated",
+    "rate": 12,
+    "hsn": 5602,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Nonwovens, whether or not impregnated, coated, covered or laminated",
+    "rate": 12,
+    "hsn": 5603,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Rubber thread and cord, textile covered; textile yarn, and strip and the like of heading 5404 or 5405, impregnated, coated, covered or sheathed with rubber or plastics",
+    "rate": 12,
+    "hsn": 5604,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Metallised yarn, whether or not gimped, being textile yarn, or strip or the like of heading 5404 or 5405, combined with metal in the form of thread, strip or powder or covered with metal; such as Real zari thread (gold) and silver thread, combined with textile thread), Imitation zari thread",
+    "rate": 12,
+    "hsn": 5605,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Gimped yarn, and strip and the like of heading 5404 or 5405, gimped (other than those of heading 5605 and gimped horsehair yarn); chenille yarn (including flock chenille yarn); loop wale-yarn",
+    "rate": 12,
+    "hsn": 5606,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Twine, cordage, ropes and cables, whether or not plaited or braided and whether or not impregnated, coated, covered or sheathed with rubber or plastics",
+    "rate": 12,
+    "hsn": 5607,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Knotted netting of twine, cordage or rope; made up fishing nets and other made up nets, of textile materials",
+    "rate": 12,
+    "hsn": 5608,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Articles of yarn, strip or the like of heading 5404 or 5405, twine, cordage, rope or cables, not elsewhere specified or included",
+    "rate": 12,
+    "hsn": 5609,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Carpets and other textile floor coverings, knotted, whether or not made up",
+    "rate": 12,
+    "hsn": 5701,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Carpets and other textile floor coverings, woven, not tufted or flocked, whether or not made up, including “Kelem”, “Schumacks”, “Karamanie” and similar hand-woven rugs",
+    "rate": 12,
+    "hsn": 5702,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Carpets and other textile floor coverings, tufted, whether or not made up",
+    "rate": 12,
+    "hsn": 5703,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Carpets and other textile floor coverings, of felt, not tufted or flocked, whether or not made up",
+    "rate": 12,
+    "hsn": 5704,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other carpets and other textile floor coverings, whether or not made up; such as Mats and mattings including Bath Mats, where cotton predominates by weight, of Handloom, Cotton Rugs of handloom",
+    "rate": 12,
+    "hsn": 5705,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Woven pile fabrics and chenille fabrics, other than fabrics of heading 5802 or 5806",
+    "rate": 12,
+    "hsn": 5801,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Terry towelling and similar woven terry fabrics, other than narrow fabrics of heading 5806; tufted textile fabrics, other than products of heading 5703",
+    "rate": 12,
+    "hsn": 5802,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Gauze, other than narrow fabrics of heading 5806",
+    "rate": 12,
+    "hsn": 5803,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Tulles and other net fabrics, not including woven, knitted or crocheted fabrics; lace in the piece, in strips or in motifs, other than fabrics of headings 6002 to 6006",
+    "rate": 12,
+    "hsn": 5804,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Hand-woven tapestries of the type Gobelins, Flanders, Aubusson, Beauvais and the like, and needle-worked tapestries (for example, petit point, cross stitch), whether or not made up",
+    "rate": 12,
+    "hsn": 5805,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Narrow woven fabrics, other than goods of heading 5807; narrow fabrics consisting of warp without weft assembled by means of an adhesive (bolducs)",
+    "rate": 12,
+    "hsn": 5806,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Labels, badges and similar articles of textile materials, in the piece, in strips or cut to shape or size, not embroidered",
+    "rate": 12,
+    "hsn": 5807,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Braids in the piece; ornamental trimmings in the piece, without embroidery, other than knitted or crocheted; tassels, pompons and similar articles",
+    "rate": 12,
+    "hsn": 5808,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Woven fabrics of metal thread and woven fabrics of metallised yarn of heading 5605, of a kind used in apparel, as furnishing fabrics or for similar purposes, not elsewhere specified or included; such as Zari borders [other than Embroidery or zari articles, that is to say,- imi, zari, kasab, saima, dabka, chumki, gota sitara, naqsi, kora, glass beads, badla, glzal]",
+    "rate": 12,
+    "hsn": 5809,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Embroidery in the piece, in strips or in motifs, Embroidered badges, motifs and the like [other than Embroidery or zari articles, that is to say,- imi, zari, kasab, saima, dabka, chumki, gota sitara, naqsi, kora, glass beads, badla, glzal]",
+    "rate": 12,
+    "hsn": 5810,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Quilted textile products in the piece, composed of one or more layers of textile materials assembled with padding by stitching or otherwise, other than embroidery of heading 5810",
+    "rate": 12,
+    "hsn": 5811,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Textile fabrics coated with gum or amylaceous substances, of a kind used for the outer covers of books or the like; tracing cloth; prepared painting canvas; buckram and similar stiffened textile fabrics of a kind used for hat foundations",
+    "rate": 12,
+    "hsn": 5901,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Tyre cord fabric of high tenacity yarn of nylon or other polyamides, polyesters or viscose rayon",
+    "rate": 12,
+    "hsn": 5902,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Textile fabrics impregnated, coated, covered or laminated with plastics, other than those of heading 5902",
+    "rate": 12,
+    "hsn": 5903,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Linoleum, whether or not cut to shape; floor coverings consisting of a coating or covering applied on a textile backing, whether or not cut to shape",
+    "rate": 12,
+    "hsn": 5904,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Textile wall coverings",
+    "rate": 12,
+    "hsn": 5905,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Rubberised textile fabrics, other than those of heading 5902",
+    "rate": 12,
+    "hsn": 5906,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Textile fabrics otherwise impregnated, coated or covered; painted canvas being theatrical scenery, studio back-cloths or the like",
+    "rate": 12,
+    "hsn": 5907,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Textile wicks, woven, plaited or knitted , for lamps, stoves, lighters, candles or the like; incandescent gas mantles and tubular knitted gas mantle fabric therefor, whether or not impregnated",
+    "rate": 12,
+    "hsn": 5908,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Textile hose piping and similar textile tubing, with or without lining, armour or accessories of other materials",
+    "rate": 12,
+    "hsn": 5909,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Transmission or conveyor belts or belting, of textile material, whether or not impregnated, coated, covered or laminated with plastics, or reinforced with metal or other material",
+    "rate": 12,
+    "hsn": 5910,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Textile products and articles, for technical uses, specified in Note 7 to this Chapter; such as Textile fabrics, felt and felt-lined woven fabrics, coated, covered or laminated with rubber, leather or other material, of a kind used for card clothing, and similar fabrics of a kind used for other technical purposes, including narrow fabrics made of velvet impregnated with rubber, for covering weaving spindles (weaving beams); Bolting cloth, whether or Not made up; Felt for cotton textile industries, woven; Woven textiles felt, whether or not impregnated or coated, of a kind commonly used in other machines, Cotton fabrics and articles used in machinery and plant, Jute fabrics and articles used in machinery or plant, Textile fabrics of metalised yarn of a kind commonly used in paper making or other machinery, Straining cloth of a kind used in oil presses or the like, including that of human hair, Paper maker's felt, woven, Gaskets, washers, polishing discs and other machinery parts of textile articles",
+    "rate": 12,
+    "hsn": 5911,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Articles of apparel and clothing accessories, knitted or crocheted, of sale value exceeding Rs. 1000 per piece",
+    "rate": 12,
+    "hsn": 61,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Articles of apparel and clothing accessories, not knitted or crocheted, of sale value exceeding Rs. 1000 per piece",
+    "rate": 12,
+    "hsn": 62,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other made up textile articles, sets, worn clothing and worn textile articles and rags, of sale value exceeding Rs. 1000 per piece",
+    "rate": 12,
+    "hsn": 63,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Umbrellas and sun umbrellas (including walking-stick umbrellas, garden umbrellas and similar umbrellas)",
+    "rate": 12,
+    "hsn": 6601,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Walking-sticks, seat-sticks, whips, riding-crops and the like",
+    "rate": 12,
+    "hsn": 6602,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Parts, trimmings and accessories of articles of heading 6601 or 6602",
+    "rate": 12,
+    "hsn": 6603,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Skins and other parts of birds with their feathers or down, feathers, parts of feathers, down and articles thereof (other than goods of heading 0505 and worked quills and scapes)",
+    "rate": 12,
+    "hsn": 6701,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Sand lime bricks",
+    "rate": 12,
+    "hsn": 68,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Fly ash bricks and fly ash blocks",
+    "rate": 12,
+    "hsn": 6815,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Glasses for corrective spectacles and flint buttons",
+    "rate": 12,
+    "hsn": "7015 10",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Globes for lamps and lanterns, Founts for kerosene wick lamps, Glass chimneys for lamps and lanterns",
+    "rate": 12,
+    "hsn": 7020,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Mathematical boxes, geometry boxes and colour boxes, pencil sharpeners",
+    "rate": 12,
+    "hsn": "7310 or 7326",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Animal shoe nails",
+    "rate": 12,
+    "hsn": 7317,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Sewing needles",
+    "rate": 12,
+    "hsn": 7319,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Kerosene burners, kerosene stoves and wood burning stoves of iron or steel",
+    "rate": 12,
+    "hsn": 7321,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Table, kitchen or other household articles of iron & steel; Utensils",
+    "rate": 12,
+    "hsn": 7323,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Table, kitchen or other household articles of copper; Utensils",
+    "rate": 12,
+    "hsn": 7418,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Table, kitchen or other household articles of aluminium; Utensils",
+    "rate": 12,
+    "hsn": 7615,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Knives with cutting blades, serrated or not (including pruning knives), other than knives of heading 8208, and blades therefor",
+    "rate": 12,
+    "hsn": 8211,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Paper knives, Pencil sharpeners and blades therefor",
+    "rate": 12,
+    "hsn": 8214,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Spoons, forks, ladles, skimmers, cake-servers, fish-knives, butter-knives, sugar tongs and similar kitchen or tableware",
+    "rate": 12,
+    "hsn": 8215,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Fuel elements (cartridges), non-irradiated, for nuclear reactors",
+    "rate": 12,
+    "hsn": 8401,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Fixed Speed Diesel Engines of power not exceeding 15HP",
+    "rate": 12,
+    "hsn": 8408,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Power driven pumps primarily designed for handling water, namely, centrifugal pumps (horizontal and vertical), deep tube-well turbine pumps, submersible pumps, axial flow and mixed flow vertical pumps",
+    "rate": 12,
+    "hsn": 8413,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Bicycle pumps",
+    "rate": 12,
+    "hsn": "8414 20 10",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other hand pumps",
+    "rate": 12,
+    "hsn": "8414 20 20",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Parts of air or vacuum pumps and compressors of bicycle pumps",
+    "rate": 12,
+    "hsn": "8414 90 12",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Agricultural, horticultural or forestry machinery for soil preparation or cultivation; lawn or sports-ground rollers",
+    "rate": 12,
+    "hsn": 8432,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Harvesting or threshing machinery, including straw or fodder balers; grass or hay mowers; machines for cleaning, sorting or grading eggs, fruit or other agricultural produce, other than machinery of heading 8437",
+    "rate": 12,
+    "hsn": 8433,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Milking machines and dairy machinery",
+    "rate": 12,
+    "hsn": 8434,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other agricultural, horticultural, forestry, poultry-keeping or bee-keeping machinery, including germination plant fitted with mechanical or thermal equipment; poultry incubators and brooders",
+    "rate": 12,
+    "hsn": 8436,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Sewing machines",
+    "rate": 12,
+    "hsn": 8452,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Composting Machines",
+    "rate": 12,
+    "hsn": 8479,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Telephones for cellular networks or for other wireless networks",
+    "rate": 12,
+    "hsn": 8517,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Parts for manufacture of Telephones for cellular networks or for other wireless networks",
+    "rate": 12,
+    "hsn": 85,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Two-way radio (Walkie talkie) used by defence, police and paramilitary forces etc.",
+    "rate": 12,
+    "hsn": "8525 60",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "LED lamps",
+    "rate": 12,
+    "hsn": 8539,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Electrically operated vehicles, including two and three wheeled electric motor vehicles",
+    "rate": 12,
+    "hsn": 87,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Tractors (except road tractors for semi-trailers of engine capacity more than 1800 cc)",
+    "rate": 12,
+    "hsn": 8701,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Bicycles and other cycles (including delivery tricycles), not motorised",
+    "rate": 12,
+    "hsn": 8712,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Parts and accessories of bicycles and other cycles (including delivery tricycles), not motorised, of 8712",
+    "rate": 12,
+    "hsn": 8714,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Self-loading or self-unloading trailers for agricultural purposes",
+    "rate": 12,
+    "hsn": "8716 20 00",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Hand propelled vehicles (e.g. hand carts, rickshaws and the like); animal drawn vehicles",
+    "rate": 12,
+    "hsn": "8716 80",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Blood glucose monitoring system (Glucometer) and test strips",
+    "rate": 12,
+    "hsn": "90 or any other Chapter",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Patent Ductus Arteriousus / Atrial Septal Defect occlusion device",
+    "rate": 12,
+    "hsn": "90 or any other Chapter",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Contact lenses; Spectacle lenses",
+    "rate": 12,
+    "hsn": 9001,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Intraocular lens",
+    "rate": 12,
+    "hsn": 9002,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Spectacles, corrective",
+    "rate": 12,
+    "hsn": 9004,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Drawing and marking out instruments; Mathematical calculating instruments; pantographs; Other drawing or marking out instruments",
+    "rate": 12,
+    "hsn": "9017 20",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Instruments and appliances used in medical, surgical, dental or veterinary sciences, including scintigraphic apparatus, other electro-medical apparatus and sight-testing instruments",
+    "rate": 12,
+    "hsn": 9018,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Mechano-therapy appliances; massage apparatus; psychological aptitude-testing apparatus; ozone therapy, oxygen therapy, aerosol therapy, artificial respiration or other therapeutic respiration apparatus",
+    "rate": 12,
+    "hsn": 9019,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other breathing appliances and gas masks, excluding protective masks having neither mechanical parts nor replaceable filters",
+    "rate": 12,
+    "hsn": 9020,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Orthopaedic appliances, including crutches, surgical belts and trusses; splints and other fracture appliances; artificial parts of the body",
+    "rate": 12,
+    "hsn": 9021,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Apparatus based on the use of X-rays or of alpha, beta or gamma radiations, for medical, surgical, dental or veterinary uses, including radiography or radiotherapy apparatus, X-ray tubes and other X-ray generators, high tension generators, control panels and desks, screens, examinations or treatment tables, chairs and the light",
+    "rate": 12,
+    "hsn": 9022,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Coir products [except coir mattresses]",
+    "rate": 12,
+    "hsn": 9404,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Products wholly made of quilted textile materials",
+    "rate": 12,
+    "hsn": 9404,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Hurricane lanterns, Kerosene lamp / pressure lantern, petromax, glass chimney, and parts thereof",
+    "rate": 12,
+    "hsn": "9405,  9405 50 31",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "LED lights or fixtures including LED lamps",
+    "rate": 12,
+    "hsn": 9405,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "LED (light emitting diode) driver and MCPCB (Metal Core Printed Circuit Board)",
+    "rate": 12,
+    "hsn": 9405,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Toys like tricycles, scooters, pedal cars etc. (including parts and accessories thereof) [other than electronic toys]",
+    "rate": 12,
+    "hsn": 9503,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Playing cards, chess board, carom board and other board games, like ludo, etc. [other than Video game consoles and Machines]",
+    "rate": 12,
+    "hsn": 9504,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Sports goods other than articles and equipments for general physical exercise",
+    "rate": 12,
+    "hsn": 9506,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Fishing rods, fishing hooks, and other line fishing tackle; fish landing nets, butterfly nets and smilar nets; decoy “birds” (other than those of heading 9208) and similar hunting or shooting requisites",
+    "rate": 12,
+    "hsn": 9507,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Pens [other than Fountain pens, stylograph pens]",
+    "rate": 12,
+    "hsn": 9608,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Pencils (including propelling or sliding pencils), crayons, pastels, drawing charcoals and tailor’s chalk",
+    "rate": 12,
+    "hsn": "9608, 9609",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Combs, hair-slides and the like; hairpins, curling pins, curling grips, hair-curlers and the like, other than those of heading 8516, and parts thereof",
+    "rate": 12,
+    "hsn": 9615,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Sanitary towels (pads) and tampons, napkins and napkin liners for babies and similar articles, of any material",
+    "rate": 12,
+    "hsn": 9619,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Paintings, drawings and pastels, executed entirely by hand, other than drawings of heading 4906 and other than hand-painted or hand-decorated manufactured articles; collages and similar decorative plaques",
+    "rate": 12,
+    "hsn": 9701,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Original engravings, prints and lithographs",
+    "rate": 12,
+    "hsn": 9702,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Original sculptures and statuary, in any material",
+    "rate": 12,
+    "hsn": 9703,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Collections and collectors' pieces of zoological, botanical, mineralogical, anatomical, historical, archaeological, paleontological, ethnographic or numismatic interest [other than numismatic coins]",
+    "rate": 12,
+    "hsn": 9705,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Antiques of an age exceeding one hundred years",
+    "rate": 12,
+    "hsn": 9706,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other Drugs and medicines intended for personal use",
+    "rate": 12,
+    "hsn": 9804,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Lottery run by State Governments Explanation 1.- For the purposes of this entry, value of supply of lottery under sub-section (5) of section 15 of the Central Goods and Services Tax Act, 2017 read with section 20 of the Integrated Goods and Services Tax Act, 2017 (13 of 2017) shall be deemed to be 100/112 of the face value of ticket or of the price as notified in the Official Gazette by the organising State, whichever is higher. Explanation 2.- (1) “Lottery run by State Governments” means a lottery not allowed to be sold in any state other than the organising state. (2) Organising state has the same meaning as assigned to it in clause (f) of sub-rule (1) of rule 2 of the Lotteries (Regulation) Rules, 2010.",
+    "rate": 12,
+    "hsn": "-",
+    "lang": 1
+  }
+]

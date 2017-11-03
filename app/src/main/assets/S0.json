@@ -1,0 +1,576 @@
+[
+  {
+    "type": "service",
+    "description": "(i) Support services to agriculture, forestry, fishing, animal husbandry. \nExplanation. - Support services to agriculture, forestry, fishing, animal husbandry mean - \n(i) Services relating to cultivation of plants and rearing of all life forms of animals, except the rearing of horses, for food, fibre, fuel, raw material or other similar products or agricultural produce by way of—\n(a) agricultural operations directly related to production of any agricultural produce including cultivation, harvesting, threshing, plant protection or testing;\n(b) supply of farm labour; \n(c) processes carried out at an agricultural farm including tending, pruning, cutting, harvesting, drying, cleaning, trimming, sun drying, fumigating, curing, sorting, grading, cooling or bulk packaging and such like operations which do not alter the essential characteristics of agricultural produce but make it only marketable for the primary market; \n(d) renting or leasing of agro machinery or vacant land with or without a structure incidental to its use; \n(e) loading, unloading, packing, storage or warehousing of agricultural produce;\n(f) agricultural extension services;\n(g) services by any Agricultural Produce Marketing Committee or Board or services provided by a commission agent for sale or purchase of agricultural produce.\n(ii) Services by way of pre-conditioning, pre-cooling, ripening, waxing, retail packing, labelling of fruits and vegetables which do not change or alter the essential characteristics of the said fruits or vegetables.\n(iii) Carrying out an intermediate production process as job work in relation to cultivation of plants and rearing of all life forms of animals, except the rearing of horses, for food, fibre, fuel, raw material or other similar products or agricultural produce.",
+    "rate": 0,
+    "hsn": "Heading 9986",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services by an entity registered under section 12AA of the Income-tax Act, 1961 (43 of 1961) by way of charitable activities.",
+    "rate": 0,
+    "hsn": "Chapter 99",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services by way of transfer of a going concern, as a whole or an independent part thereof.",
+    "rate": 0,
+    "hsn": "Chapter 99",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Pure services (excluding works contract service or other composite supplies involving supply of any goods) provided to the Central Government, State Government or Union territory or local authority or a Governmental authority by way of any activity in relation to any function entrusted to a Panchayat under article 243G of the Constitution or in relation to any function entrusted to a Municipality under article 243W of the Constitution.",
+    "rate": 0,
+    "hsn": "Chapter 99",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services by Central Government, State Government, Union territory, local authority or governmental authority by way of any activity in relation to any function entrusted to a municipality under article 243 W of the Constitution.",
+    "rate": 0,
+    "hsn": "Chapter 99",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services by a governmental authority by way of any activity in relation to any function entrusted to a Panchayat under article 243G of the Constitution.",
+    "rate": 0,
+    "hsn": "Chapter 99",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services by the Central Government, State Government, Union territory or local authority excluding the following services—\n(a) services by the Department of Posts by way of speed post, express parcel post, life insurance, and agency services provided to a person other than the Central Government, State Government, Union territory;\n(b) services in relation to an aircraft or a vessel, inside or outside the precincts of a port or an airport;\n(c) transport of goods or passengers; or\n(d) any service, other than services covered under entries (a) to (c) above, provided to business entities.",
+    "rate": 0,
+    "hsn": "Chapter 99",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services provided by the Central Government, State Government, Union territory or local authority to a business entity with an aggregate turnover of up to twenty lakh rupees (ten lakh rupees in case of a special category state) in the preceding financial year. \nExplanation.- For the purposes of this entry, it is hereby clarified that the provisions of this entry shall not be applicable to- \n(a) services,-\n(i) by the Department of Posts by way of speed post, express parcel post, life insurance, and agency services provided to a person other than the Central Government, State Government, Union territory; \n(ii) in relation to an aircraft or a vessel, inside or outside the precincts of a port or an airport; \n(iii) of transport of goods or passengers; and \n(b) services by way of renting of immovable property.",
+    "rate": 0,
+    "hsn": "Chapter 99",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services provided by the Central Government, State Government, Union territory or local authority to another Central Government, State Government, Union territory or local authority: \n               Provided that nothing contained in this entry shall apply to services-\n(i) by the Department of Posts by way of speed post, express parcel post, life insurance, and agency services provided to a person other than the Central Government, State Government, Union territory; \n(ii) in relation to an aircraft or a vessel, inside or outside the precincts of a port or an airport;\n (iii) of transport of goods or passengers.",
+    "rate": 0,
+    "hsn": "Chapter 99",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services provided by Central Government, State Government, Union territory or a local authority where the consideration for such services does not exceed five thousand rupees:\n               Provided that nothing contained in this entry shall apply to-\n(i) services by the Department of Posts by way of speed post, express parcel post, life insurance, and agency services provided to a person other than the Central Government, State Government, Union territory; \n(ii) services in relation to an aircraft or a vessel, inside or outside the precincts of a port or an airport; \n(iii) transport of goods or passengers: \n                 Provided further that in case where continuous supply of service, as defined in sub-section (33) of section 2 of the Central Goods and Services Tax Act, 2017, is provided by the Central Government, State Government, Union territory or a local authority, the exemption shall apply only where the consideration charged for such service does not exceed five thousand rupees in a financial year.",
+    "rate": 0,
+    "hsn": "Chapter 99",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services provided by way of pure labour contracts of construction, erection, commissioning, installation, completion, fitting out, repair, maintenance, renovation, or alteration of a civil structure or any other original works pertaining to the beneficiary-led individual house construction or enhancement under the Housing for All (Urban) Mission or Pradhan Mantri Awas Yojana.",
+    "rate": 0,
+    "hsn": "Heading 9954",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services by way of pure labour contracts of construction, erection, commissioning, or installation of original works pertaining to a single residential unit otherwise than as a part of a residential complex.",
+    "rate": 0,
+    "hsn": "Heading 9954",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services by way of renting of residential dwelling for use as residence.",
+    "rate": 0,
+    "hsn": "Heading 9963\nor\nHeading 9972",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services by a person by way of- \n(a) conduct of any religious ceremony; \n(b) renting of precincts of a religious place meant for general public, owned or managed by an entity registered as a charitable or religious trust under section 12AA of the Income-tax Act, 1961 (hereinafter referred to as the Income-tax Act) or a trust or an institution registered under sub clause (v) of clause (23C) of section 10 of the Income-tax Act or a body or an authority covered under clause (23BBA) of section 10 of the said Income-tax Act: \nProvided that nothing contained in entry (b) of this exemption shall apply to,- \n(i) renting of rooms where charges are one thousand rupees or more per day; \n(ii) renting of premises, community halls, kalyanmandapam or open area, and the like where charges are ten thousand rupees  or more per day; \n(iii) renting of shops or other spaces for business or commerce where charges are ten thousand rupees or more per month.",
+    "rate": 0,
+    "hsn": "Heading 9963\nor \nHeading 9972\nor\nHeading 9995\nor \nany other Heading of Section 9",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services by a hotel, inn, guest house, club or campsite, by whatever name called, for residential or lodging purposes, having declared tariff of a unit of accommodation below one thousand rupees per day or equivalent.",
+    "rate": 0,
+    "hsn": "Heading 9963",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Transport of passengers, with or without accompanied belongings, by – \n(a) air, embarking from or terminating in an airport located in the state of Arunachal Pradesh, Assam, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, or Tripura or at Bagdogra located in West Bengal; \n(b) non-airconditioned contract carriage  other than radio taxi, for transportation of passengers, excluding tourism, conducted tour, charter or hire; or\n (c) stage carriage other than air-conditioned stage carriage.",
+    "rate": 0,
+    "hsn": "Heading 9964",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services provided to the Central Government, by way of transport of passengers with or without accompanied belongings, by air, embarking from or terminating at a regional connectivity scheme airport, against consideration in the form of viability gap funding:\n            Provided that nothing contained in this entry shall apply on or after the expiry of a period of one year from the date of commencement of operations of the regional connectivity scheme airport as notified by the Ministry of Civil Aviation.",
+    "rate": 0,
+    "hsn": "Heading 9964",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Service of transportation of passengers, with or without accompanied belongings, by— \n(a) railways in a class other than— \n(i) first class; or \n(ii) an air-conditioned coach; \n(b) metro, monorail or tramway; \n(c) inland waterways; \n(d) public transport, other than predominantly for tourism purpose, in a vessel between places located in India; and \n(e) metered cabs or auto rickshaws (including e-rickshaws).",
+    "rate": 0,
+    "hsn": "Heading 9964",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services by way of transportation of goods- \n(a) by road except the services of—\n(i) a goods transportation agency; \n(ii) a courier agency;\n(b) by inland waterways.",
+    "rate": 0,
+    "hsn": "Heading 9965",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services by way of transportation of goods by an aircraft from a place outside India upto the customs station of clearance in India.",
+    "rate": 0,
+    "hsn": "Heading 9965",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services by way of transportation by rail or a vessel from one place in India to another of the following goods – \n(a) relief materials meant for victims of natural or man-made disasters, calamities, accidents or mishap; \n(b) defence or military equipments; \n(c) newspaper or magazines registered with the Registrar of Newspapers;\n(d) railway equipments or materials; \n(e) agricultural produce; \n(f) milk, salt and food grain including flours, pulses and rice; and \n(g) organic manure.",
+    "rate": 0,
+    "hsn": "Heading 9965",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services provided by a goods transport agency, by way of transport in a goods carriage of - \n(a) agricultural produce;\n(b) goods, where consideration charged for the transportation of goods on a consignment transported in a single carriage does not exceed one thousand five hundred rupees; \n(c) goods, where consideration charged for transportation of all such goods for a single consignee does not exceed rupees seven hundred and fifty;\n(d) milk, salt and food grain including flour, pulses and rice;\n(e) organic manure; \n(f) newspaper or magazines registered with the Registrar of Newspapers; \n(g) relief materials meant for victims of natural or man-made disasters, calamities, accidents or mishap; or \n(h) defence or military equipments.",
+    "rate": 0,
+    "hsn": "Heading 9965\nor\nHeading 9967",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services by way of giving on hire – \n(a) to a state transport undertaking, a motor vehicle meant to carry more than twelve passengers; or \n(b) to a goods transport agency, a means of transportation of goods.",
+    "rate": 0,
+    "hsn": "Heading 9966 \nor\nHeading 9973",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Service by way of access to a road or a bridge on payment of toll charges.",
+    "rate": 0,
+    "hsn": "Heading 9967",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services by way of loading, unloading, packing, storage or warehousing of rice.",
+    "rate": 0,
+    "hsn": "Heading 9967\nor\nHeading 9985",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Transmission or distribution of electricity by an electricity transmission or distribution utility.",
+    "rate": 0,
+    "hsn": "Heading 9969",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services by the Reserve Bank of India.",
+    "rate": 0,
+    "hsn": "Heading 9971",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services by way of—\n(a) extending deposits, loans or advances in so far as the consideration  is represented by way of interest or discount (other than interest involved in credit card services); \n(b) inter se sale or purchase of foreign currency amongst banks or authorised dealers of foreign exchange or amongst banks and such dealers.",
+    "rate": 0,
+    "hsn": "Heading 9971",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services of life insurance business  provided by way of annuity under the National Pension System regulated by the Pension Fund Regulatory and Development Authority of India under the Pension Fund Regulatory and Development Authority Act, 2013 (23 of 2013).",
+    "rate": 0,
+    "hsn": "Heading 9971\nor\nHeading 9991",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services of life insurance business provided or agreed to be provided by the Army, Naval and Air Force Group Insurance Funds to members of the Army, Navy and Air Force, respectively, under the Group Insurance Schemes of the Central Government.",
+    "rate": 0,
+    "hsn": "Heading 9971\n or\nHeading 9991",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services by the Employees’ State Insurance Corporation to persons governed under the Employees’ State Insurance Act, 1948 (34 of 1948).",
+    "rate": 0,
+    "hsn": "Heading 9971\nor\nHeading 9991",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services provided by the Employees Provident Fund Organisation to the persons governed under the Employees Provident Funds and the Miscellaneous Provisions Act, 1952 (19 of 1952).",
+    "rate": 0,
+    "hsn": "Heading 9971",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services provided by the Insurance Regulatory and Development Authority of India to insurers under the Insurance Regulatory and Development Authority of India Act, 1999 (41 of 1999).",
+    "rate": 0,
+    "hsn": "Heading 9971",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services provided by the Securities and Exchange Board of India set up under the Securities and Exchange Board of India Act, 1992 (15 of 1992) by way of protecting the interests of investors in securities and to promote the development of, and to regulate, the securities market.",
+    "rate": 0,
+    "hsn": "Heading 9971",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services by an acquiring bank, to any person in relation to settlement of an amount upto two thousand rupees in a single transaction transacted through credit card, debit card, charge card or other payment card service. \n            Explanation.— For the purposes of this entry, “acquiring bank” means any banking company, financial institution including non-banking financial company or any other person, who makes the payment to any person who accepts such card.",
+    "rate": 0,
+    "hsn": "Heading 9971",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services of general insurance business provided under following schemes – \n(a) Hut Insurance Scheme; \n(b) Cattle Insurance under Swarnajaynti Gram Swarozgar Yojna (earlier known as Integrated Rural Development Programme); \n(c) Scheme for Insurance of Tribals; \n(d) Janata Personal Accident Policy and Gramin Accident Policy; \n(e) Group Personal Accident Policy for Self-Employed Women; \n(f) Agricultural Pumpset and Failed Well Insurance; \n(g) premia collected on export credit insurance; \n(h) Weather Based Crop Insurance Scheme or the Modified National Agricultural Insurance Scheme, approved by the Government of India and implemented by the Ministry of Agriculture; \n(i) Jan Arogya Bima Policy; \n(j) National Agricultural Insurance Scheme (Rashtriya Krishi Bima Yojana); \n(k) Pilot Scheme on Seed Crop Insurance; \n(l) Central Sector Scheme on Cattle Insurance; \n(m) Universal Health Insurance Scheme; \n(n) Rashtriya Swasthya Bima Yojana;  \n(o) Coconut Palm Insurance Scheme; \n(p) Pradhan Mantri Suraksha BimaYojna; \n(q) Niramaya Health Insurance Scheme implemented by the Trust constituted under the provisions of the National Trust for the Welfare of Persons with Autism, Cerebral Palsy, Mental Retardation and Multiple Disabilities Act, 1999 (44 of 1999).",
+    "rate": 0,
+    "hsn": "Heading 9971\nor\nHeading 9991",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services of life insurance business provided under following schemes-\n (a) Janashree Bima Yojana; \n(b) Aam Aadmi Bima Yojana; \n(c) Life micro-insurance product as approved by the Insurance Regulatory and Development Authority, having maximum amount of cover of fifty thousand rupees; \n(d) Varishtha Pension BimaYojana; \n(e) Pradhan Mantri Jeevan JyotiBimaYojana; \n(f) Pradhan Mantri Jan DhanYogana; \n(g) Pradhan Mantri Vaya Vandan Yojana.",
+    "rate": 0,
+    "hsn": "Heading 9971\nor\nHeading 9991",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services by way of collection of contribution under the Atal Pension Yojana.",
+    "rate": 0,
+    "hsn": "Heading 9971\nor\nHeading 9991",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services by way of collection of contribution under any pension scheme of the State Governments.",
+    "rate": 0,
+    "hsn": "Heading 9971\nor\nHeading 9991",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services by the following persons in respective capacities – \n(a) business facilitator or a business correspondent to a banking company with respect to accounts in its rural area branch;\n (b) any person as an intermediary to a business facilitator or a business correspondent with respect to services mentioned in entry (a); or \n(c) business facilitator or a business correspondent to an insurance company in a rural area.",
+    "rate": 0,
+    "hsn": "Heading 9971\nor\nHeading 9985",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services provided to the Central Government, State Government, Union territory under any insurance scheme for which total premium is paid by the Central Government, State Government, Union territory.",
+    "rate": 0,
+    "hsn": "Heading 9971\nor\nHeading 9991",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "One time upfront amount (called as premium, salami, cost, price, development charges or by any other name) leviable in respect of  the service, by way of granting long term (thirty years, or more) lease of industrial plots, provided by the State Government Industrial Development Corporations or Undertakings to industrial units.",
+    "rate": 0,
+    "hsn": "Heading 9972",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services provided by the Central Government, State Government, Union territory or local authority by way of allowing a business entity to operate as a telecom service provider or use radio frequency spectrum  during the period prior to the 1st April, 2016, on payment of licence fee or spectrum user charges, as the case may be.",
+    "rate": 0,
+    "hsn": "Heading 9973 \nor\nHeading 9991",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services of leasing of assets (rolling stock assets including wagons, coaches, locos) by the Indian Railways Finance Corporation to Indian Railways.",
+    "rate": 0,
+    "hsn": "Heading 9973",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services provided by an incubatee  up to a total turnover of fifty lakh rupees in a financial year subject to the following conditions, namely:- \n(a) the total turnover had not exceeded fifty lakh rupees during the preceding financial year; and \n(b) a period of three years has not elapsed from the date of entering into an agreement as an incubatee.",
+    "rate": 0,
+    "hsn": "Heading 9981",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services provided by-\n(a) an arbitral tribunal  to –\n(i) any person other than a business  entity; or \n(ii) a business entity with an aggregate turnover up to twenty lakh rupees (ten lakh rupees in the case of special category states) in the preceding financial year; \n(b) a partnership firm  of advocates or an individual as an advocate  other than a senior advocate, by way of legal services to- \n(i) an advocate or partnership firm of advocates providing legal services;\n(ii) any person  other than a business entity; or \n(iii) a business entity with an aggregate turnover up to twenty lakh rupees (ten lakh rupees in thecase of special category states) in the preceding financial year; \n(c) a senior advocate  by way of legal services to-\n(i) any person other than a business entity; or \n(ii) a business entity with an aggregate turnover up to twenty lakh rupees (ten lakh rupees in the case of special category states) in the preceding financial year.",
+    "rate": 0,
+    "hsn": "Heading 9982 \nor\nHeading 9991",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services by a veterinary clinic in relation to health care of animals or birds.",
+    "rate": 0,
+    "hsn": "Heading 9983",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services provided by the Central Government, State Government, Union territory or local authority by way of- \n(a) registration required under any law for the time being in force; \n(b) testing, calibration, safety check or certification relating to protection or safety of workers, consumers or public at large, including fire license, required under any law for the time being in force.",
+    "rate": 0,
+    "hsn": "Heading 9983\nor\nHeading 9991",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Taxable services, provided or to be provided, by a Technology Business Incubator or a Science and Technology Entrepreneurship Park recognised by the National Science and Technology Entrepreneurship Development Board of the Department of Science and Technology, Government of India or bio-incubators recognised by the Biotechnology Industry Research Assistance Council, under the Department of Biotechnology, Government of India.",
+    "rate": 0,
+    "hsn": "Heading 9983\nor \nany other Heading of Chapter 99",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services by way of collecting or providing news by an independent journalist, Press Trust of India or United News of India.",
+    "rate": 0,
+    "hsn": "Heading 9984",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services of public libraries by way of lending of books, publications or any other knowledge-enhancing content or material.",
+    "rate": 0,
+    "hsn": "Heading 9984",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services provided by the Goods and Services Tax Network to the Central Government or State Governments or Union territories for implementation of Goods and Services Tax.",
+    "rate": 0,
+    "hsn": "Heading 9984",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services by an organiser to any person in respect of a business exhibition held outside India.",
+    "rate": 0,
+    "hsn": "Heading 9985",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services by way of sponsorship of sporting events organised - \n(a) by a national sports federation, or its affiliated federations, where the participating teams or individuals represent any district, State, zone or Country; \n(b) by Association of Indian Universities, Inter-University Sports Board, School Games Federation of India, All India Sports Council for the Deaf, Paralympic Committee of India or Special Olympics Bharat; \n(c) by the Central Civil Services Cultural and Sports Board; \n(d) as part of national games, by the Indian Olympic Association; or \n(e) under the Panchayat Yuva Kreeda Aur Khel Abhiyaan Scheme.",
+    "rate": 0,
+    "hsn": "Heading 9985",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services relating to cultivation of plants and rearing of all life forms of animals, except the rearing of horses, for food, fibre, fuel, raw material or other similar products or agricultural produce by way of—\n(a) agricultural operations directly related to production of any agricultural produce including cultivation, harvesting, threshing, plant protection or testing;\n(b) supply of farm labour; \n(c) processes carried out at an agricultural farm including tending, pruning, cutting, harvesting, drying, cleaning, trimming, sun drying, fumigating, curing, sorting, grading, cooling or bulk packaging and such like operations which do not alter the essential characteristics of agricultural produce but make it only marketable for the primary market; \n(d) renting or leasing of agro machinery or vacant land with or without a structure incidental to its use; \n(e) loading, unloading, packing, storage or warehousing of agricultural produce;\n(f) agricultural extension services;\n(g) services by any Agricultural Produce Marketing Committee or Board or services provided by a commission agent for sale or purchase of agricultural produce.",
+    "rate": 0,
+    "hsn": "Heading 9986",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Carrying out an intermediate production process as job work in relation to cultivation of plants and rearing of all life forms of animals, except the rearing of horses, for food, fibre, fuel, raw material or other similar products or agricultural produce.",
+    "rate": 0,
+    "hsn": "Heading 9986",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services by way of slaughtering of animals.",
+    "rate": 0,
+    "hsn": "Heading 9988",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services by way of pre-conditioning, pre-cooling, ripening, waxing, retail packing, labelling of fruits and vegetables which do not change or alter the essential characteristics of the said fruits or vegetables.",
+    "rate": 0,
+    "hsn": "Heading 9988\nor \nany other Heading of Section 8 and Section 9",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services provided by the National Centre for Cold Chain Development under the Ministry of Agriculture, Cooperation and Farmer’s Welfare by way of cold chain knowledge dissemination.",
+    "rate": 0,
+    "hsn": "Heading 9988\nor\nHeading 9992",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services by a foreign diplomatic mission located in India.",
+    "rate": 0,
+    "hsn": "Heading 9999",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services by a specified organisation in respect of a religious pilgrimage facilitated by the Ministry of External Affairs, the Government of India, under bilateral arrangement.",
+    "rate": 0,
+    "hsn": "Heading 9991",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services provided by the Central Government, State Government, Union territory or local authority by way of issuance of passport, visa, driving licence, birth certificate or death certificate.",
+    "rate": 0,
+    "hsn": "Heading 9991",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services provided by the Central Government, State Government, Union territory or local authority by way of tolerating non-performance of a contract for which consideration in the form of fines or liquidated damages is payable to the Central Government, State Government, Union territory or local authority under such contract.",
+    "rate": 0,
+    "hsn": "Heading 9991\nor \nHeading 9997",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services provided by the Central Government, State Government, Union territory or local authority by way of assignment of right to use natural resources to an individual farmer for cultivation of plants and rearing of all life forms of animals, except the rearing of horses, for food, fibre, fuel, raw material or other similar products.",
+    "rate": 0,
+    "hsn": "Heading 9991",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services provided by the Central Government, State Government, Union territory or local authority by way of assignment of right to use any natural resource where such right to use was assigned by the Central Government, State Government, Union territory or local authority before the 1st  April, 2016: \n               Provided that the exemption shall apply only to tax payable on one time charge payable, in full upfront or in installments, for assignment of right to use such natural resource.",
+    "rate": 0,
+    "hsn": "Heading 9991\nor \nHeading 9973",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services provided by the Central Government, State Government, Union territory by way of deputing officers after office hours or on holidays for inspection or container stuffing or such other duties in relation to import export cargo on payment of Merchant Overtime charges.",
+    "rate": 0,
+    "hsn": "Heading 9991",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services provided -\n(a) by an educational institution  to its students, faculty and staff; \n(b) to an educational institution, by way of,- \n(i) transportation of students, faculty and staff; \n(ii) catering, including any mid-day meals scheme sponsored by the Central Government, State Government or Union territory;  \n(iii) security or cleaning or house-keeping services performed in such educational institution; \n(iv) services relating to admission to, or conduct of examination by, such institution; upto higher secondary: \n           Provided that nothing contained in entry (b) shall apply to an educational institution other than an institution providing services by way of pre-school education and education up to higher secondary school or equivalent.",
+    "rate": 0,
+    "hsn": "Heading 9992",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services provided by the Indian Institutes of Management, as per the guidelines of the Central Government, to their students, by way of the following educational programmes, except Executive Development Programme: - \n(a) two year full time Post Graduate Programmes in Management for the Post Graduate Diploma in Management, to which admissions are made on the basis of Common Admission Test (CAT) conducted by the Indian Institute of Management; \n(b) fellow programme in Management; \n(c) five year integrated programme in Management.",
+    "rate": 0,
+    "hsn": "Heading 9992",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services provided to a recognised sports body by- \n(a) an individual as a player, referee, umpire, coach or team manager for participation in a sporting event organised by a recognized sports body;\n(b) another recognised sports body.",
+    "rate": 0,
+    "hsn": "Heading 9992 \nor\nHeading 9996",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Any services provided by, _ \n(a) the National Skill Development Corporation set up by the Government of India; \n(b) a Sector Skill Council approved by the National Skill Development Corporation; \n(c) an assessment agency approved by the Sector Skill Council or the National Skill Development Corporation; \n(d) a training partner approved by the National Skill Development Corporation or the Sector Skill Council,\n in relation to- \n(i) the National Skill Development Programme implemented by the National Skill Development Corporation; or \n(ii) a vocational skill development course under the National Skill Certification and Monetary Reward Scheme; or \n(iii) any other Scheme implemented by the National Skill Development Corporation.",
+    "rate": 0,
+    "hsn": "Heading 9992\nor\nHeading 9983 or\nHeading 9991",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services of assessing bodies empanelled centrally by the Directorate General of Training, Ministry of Skill Development and Entrepreneurship by way of assessments under the Skill Development Initiative Scheme.",
+    "rate": 0,
+    "hsn": "Heading 9983\nor\nHeading 9985\nor\nHeading 9992",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services provided by training providers (Project implementation agencies) under Deen Dayal Upadhyaya Grameen Kaushalya Yojana implemented by the Ministry of Rural Development, Government of India by way of offering skill or vocational training courses certified by the National Council for Vocational Training.",
+    "rate": 0,
+    "hsn": "Heading 9992",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services provided to the Central Government, State Government, Union territory administration under any training programme for which total expenditure is borne by the Central Government, State Government, Union territory administration.",
+    "rate": 0,
+    "hsn": "Heading 9992",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services provided by the cord blood banks by way of preservation of stem cells or any other service in relation to such preservation.",
+    "rate": 0,
+    "hsn": "Heading 9993",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services by way of-\n(a) health care services by a clinical establishment, an authorised medical practitioner or para-medics; \n(b) services provided by way of transportation of a patient in an ambulance, other than those specified in (a) above.",
+    "rate": 0,
+    "hsn": "Heading 9993",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services provided by operators of the common bio-medical waste treatment facility to a clinical establishment by way of treatment or disposal of bio-medical waste or the processes incidental thereto.",
+    "rate": 0,
+    "hsn": "Heading 9994",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services by way of public conveniences such as provision of facilities of bathroom, washrooms, lavatories, urinal or toilets.",
+    "rate": 0,
+    "hsn": "Heading 9994",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Service by an unincorporated body or a non- profit entity registered under any law for the time being in force, to its own members by way of reimbursement of charges or share of contribution – \n(a) as a trade union; \n(b) for the provision of carrying out any activity which is exempt from the levy of Goods and service Tax; or \n(c) up to an amount of five thousand rupees per month per member for sourcing of goods or services from a third person for the common use of its members in a housing society or a residential complex.",
+    "rate": 0,
+    "hsn": "Heading 9995",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services by an artist by way of a performance in folk or classical art forms of- \n(a) music, or \n(b) dance, or \n(c) theatre, \nif the consideration charged for such performance is not more than one lakh and fifty thousand rupees: \n             Provided that the exemption shall not apply to service provided by such artist as a brand ambassador.",
+    "rate": 0,
+    "hsn": "Heading 9996",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services by way of admission to a museum, national park, wildlife sanctuary, tiger reserve or zoo.",
+    "rate": 0,
+    "hsn": "Heading 9996",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services by way of training or coaching in recreational activities relating to- \n(a) arts or culture, or \n(b) sports by charitable entities registered under section 12AA of the Income-tax Act.",
+    "rate": 0,
+    "hsn": "Heading 9996",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services by way of right to admission to- \n(a) circus, dance, or theatrical performance including drama or ballet; \n(b) award function, concert, pageant, musical performance or any sporting event other than a recognised sporting event; \n(c) recognised sporting event, where the consideration for admission is not more than Rs 250 per person  as referred to in (a), (b) and (c) above.\nServices by way of right to admission to- \n(a) circus, dance, or theatrical performance including drama or ballet; \n(b) award function, concert, pageant, musical performance or any sporting event other than a recognised sporting event; \n(c) recognised sporting event, where the consideration for admission is not more than Rs 250 per person  as referred to in (a), (b) and (c) above.",
+    "rate": 0,
+    "hsn": "Heading 9996",
+    "lang": 1
+  }
+]

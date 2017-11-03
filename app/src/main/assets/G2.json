@@ -1,0 +1,23 @@
+[
+  {
+    "type": "goods",
+    "description": "Diamonds, non-industrial unworked or simply sawn, cleaved or bruted",
+    "rate": 0.25,
+    "hsn": 7102,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Precious stones (other than diamonds) and semi-precious stones, unworked or simply sawn or roughly shaped",
+    "rate": 0.25,
+    "hsn": 7103,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Synthetic or reconstructed precious or semi-precious stones, unworked or simply sawn or roughly shaped",
+    "rate": 0.25,
+    "hsn": 7104,
+    "lang": 1
+  }
+]

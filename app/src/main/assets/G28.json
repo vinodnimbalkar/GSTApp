@@ -1,0 +1,1598 @@
+[
+  {
+    "type": "goods",
+    "description": "Molasses",
+    "rate": 28,
+    "hsn": 1703,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Chewing gum / bubble gum and white chocolate, not containing cocoa",
+    "rate": 28,
+    "hsn": 1704,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Cocoa butter, fat and oil",
+    "rate": 28,
+    "hsn": 1804,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Cocoa powder, not containing added sugar or sweetening matter",
+    "rate": 28,
+    "hsn": 1805,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Chocolates and other food preparations containing cocoa",
+    "rate": 28,
+    "hsn": 1806,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Malt extract; food preparations of flour, groats, meal, starch or malt extract, not containing cocoa or containing less than 40% by weight of cocoa calculated on a totally defatted basis, not elsewhere specified or included; food preparations of goods of heading 0401 to 0404, not containing cocoa or containing less than 5% by weight of cocoa calculated on a totally defatted basis not elsewhere specified or included [other than preparations for infants or young children, put up for retail sale and mixes and doughs for the preparation of bakers’ wares of heading 1905]",
+    "rate": 28,
+    "hsn": "1901 90 [other than 1901 10, 1901 20 00]",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Waffles and wafers coated with chocolate or containing chocolate",
+    "rate": 28,
+    "hsn": "1905 32",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Extracts, essences and concentrates of coffee, and preparations with a basis of these extracts, essences or concentrates or with a basis of coffee",
+    "rate": 28,
+    "hsn": "2101 11, 2101 12 00",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Food preparations not elsewhere specified or included i.e. Protein concentrates and textured protein substances, Sugar-syrups containing added flavouring or colouring matter, not elsewhere specified or included; lactose syrup; glucose syrup and malto dextrine syrup, Compound preparations for making non-alcoholic beverages, Food flavouring material, Churna for pan, Custard powder",
+    "rate": 28,
+    "hsn": 2106,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Pan masala",
+    "rate": 28,
+    "hsn": "2106 90 20",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other non-alcoholic beverages",
+    "rate": 28,
+    "hsn": "2202 90 90",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "All goods [including aerated waters], containing added sugar or other sweetening matter or flavoured",
+    "rate": 28,
+    "hsn": "2202 10",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Unmanufactured tobacco; tobacco refuse [other than tobacco leaves]",
+    "rate": 28,
+    "hsn": 2401,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Cigars, cheroots, cigarillos and cigarettes, of tobacco or of tobacco substitutes",
+    "rate": 28,
+    "hsn": 2402,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other manufactured tobacco and manufactured tobacco substitutes; “homogenised” or “reconstituted” tobacco; tobacco extracts and essences [including biris]",
+    "rate": 28,
+    "hsn": 2403,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Marble and travertine, other than blocks",
+    "rate": 28,
+    "hsn": "2515 12 20, 2515 12 90",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Granite, other than blocks",
+    "rate": 28,
+    "hsn": "2516 12 00",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Portland cement, aluminous cement, slag cement, super sulphate cement and similar hydraulic cements, whether or not coloured or in the form of clinkers",
+    "rate": 28,
+    "hsn": 2523,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Avgas",
+    "rate": 28,
+    "hsn": 2710,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Paints and varnishes (including enamels and lacquers) based on synthetic polymers or chemically modified natural polymers, dispersed or dissolved in a non-aqueous medium; solutions as defined in Note 4 to this Chapter",
+    "rate": 28,
+    "hsn": 3208,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Paints and varnishes (including enamels and lacquers) based on synthetic polymers or chemically modified natural polymers, dispersed or dissolved in an aqueous medium",
+    "rate": 28,
+    "hsn": 3209,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other paints and varnishes (including enamels, lacquers and distempers); prepared water pigments of a kind used for finishing leather",
+    "rate": 28,
+    "hsn": 3210,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Artists’, students’ or signboard painters’ colours, modifying tints, amusement colours and the like, in tablets, tubes, jars, bottles, pans or in similar forms or packings",
+    "rate": 28,
+    "hsn": 3213,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Glaziers’ putty, grafting putty, resin cements, caulking compounds and other mastics; painters’ fillings; non- refractory surfacing preparations for facades, indoor walls, floors, ceilings or the like",
+    "rate": 28,
+    "hsn": 3214,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Perfumes and toilet waters",
+    "rate": 28,
+    "hsn": 3303,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Beauty or make-up preparations and preparations for the care of the skin (other than medicaments), including sunscreen or sun tan preparations; manicure or pedicure preparations [other than kajal, Kumkum, Bindi, Sindur, Alta]",
+    "rate": 28,
+    "hsn": 3304,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "All goods, i.e. preparations for use on the hair such as Shampoos; Preparations for permanent waving or straightening; Hair lacquers; Brilliantines (spirituous); Hair cream, Hair dyes (natural, herbal or synthetic) [other than Hair oil]",
+    "rate": 28,
+    "hsn": "3305 [other than 3305 9011, 3305 90 19]",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Preparations for oral or dental hygiene, including and powders; yarn used to clean between the teeth (dental floss), in individual retail packages [other than dentifrices in powder or paste from (tooth powder or toothpaste)]",
+    "rate": 28,
+    "hsn": "3306 [other than 3306 10 10, 3306 10 20]",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Pre-shave, shaving or after-shave preparations, personal deodorants, bath preparations, depilatories and other perfumery, cosmetic or toilet preparations, not elsewhere specified or included; prepared room deodorisers, whether or not perfumed or having disinfectant properties; such as Pre-shave, shaving or after-shave Preparations, Shaving cream, Personal deodorants and antiperspirants",
+    "rate": 28,
+    "hsn": 3307,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Organic surface-active products and preparations for washing the skin, in the form of liquid or cream and put up for retail sale, whether or not containing soap; paper, wadding, felt and nonwovens, impregnated, coated or covered with soap or detergent",
+    "rate": 28,
+    "hsn": "3401 30",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Organic surface-active agents (other than soap); surface-active preparations, washing preparations (including auxiliary washing preparations) and cleaning preparations, whether or not containing soap, other than those of heading 3401",
+    "rate": 28,
+    "hsn": 3402,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Lubricating preparations (including cutting-oil preparations, bolt or nut release preparations, anti-rust or anti-corrosion preparations and mould release preparations, based on lubricants) and preparations of a kind used for the oil or grease treatment of textile materials, leather, furskins or other materials, but excluding preparations containing, as basic constituents, 70% or more by weight of petroleum oils or of oils obtained from bituminous minerals",
+    "rate": 28,
+    "hsn": 3403,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Polishes and creams, for footwear, furniture, floors, coachwork, glass or metal, scouring pastes and powders and similar preparations (whether or not in the form of paper, wadding, felt, nonwovens, cellular plastics or cellular rubber, impregnated, coated or covered with such preparations), excluding waxes of heading 3404",
+    "rate": 28,
+    "hsn": 3405,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Modelling pastes, including those put up for children's amusement",
+    "rate": 28,
+    "hsn": 3407,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Prepared explosives, other than propellant powders; such as Industrial explosives",
+    "rate": 28,
+    "hsn": 3602,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Fireworks, signalling flares, rain rockets, fog signals and other pyrotechnic articles",
+    "rate": 28,
+    "hsn": 3604,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Ferro-cerium and other pyrophoric alloys in all forms; articles of combustible materials as specified in Note 2 to this Chapter; such as liquid or liquefied-gas fuels in containers of a kind used for filling or refilling cigarette or similar lighters",
+    "rate": 28,
+    "hsn": 3606,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Anti-knock preparations, oxidation inhibitors, gum inhibitors, viscosity improvers, anti-corrosive preparations and other prepared additives, for mineral oils (including gasoline) or for other liquids used for the same purposes as mineral oils",
+    "rate": 28,
+    "hsn": 3811,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Preparations and charges for fire-extinguishers; charged fire-extinguishing grenades",
+    "rate": 28,
+    "hsn": 3813,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Organic composite solvents and thinners, not elsewhere specified or included; prepared paint or varnish removers",
+    "rate": 28,
+    "hsn": 3814,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Hydraulic brake fluids and other prepared liquids for hydraulic transmission, not containing or containing less than 70% by weight of petroleum oils or oils obtained from bituminous minerals",
+    "rate": 28,
+    "hsn": 3819,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Anti-freezing preparations and prepared de-icing fluids",
+    "rate": 28,
+    "hsn": 3820,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Floor coverings of plastics, whether or not self-adhesive, in rolls or in form of tiles; wall or ceiling coverings of plastics",
+    "rate": 28,
+    "hsn": 3918,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Baths, shower baths, sinks, wash basins, bidets, lavatory pans, seats and covers, flushing cisterns and similar sanitary ware of plastics",
+    "rate": 28,
+    "hsn": 3922,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other articles of plastics and articles of other materials of headings 3901 to 3914 [other than bangles of plastic, PVC Belt Conveyor, plastic beads and plastic tarpaulins]",
+    "rate": 28,
+    "hsn": "3926 [other than 3926 40 11, 3926 90 10]",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "New pneumatic tyres, of rubber [other than of a kind used on/in bicycles, cycle-rickshaws and three wheeled powered cycle rickshaws; and Rear Tractor tyres]",
+    "rate": 28,
+    "hsn": 4011,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Retreaded or used tyres and flaps",
+    "rate": 28,
+    "hsn": 4012,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Inner tubes of rubber [other than of a kind used on/in bicycles, cycle-rickshaws and three wheeled powered cycle rickshaws; and Rear Tractor tyre tubes]",
+    "rate": 28,
+    "hsn": 4013,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other articles of vulcanised rubber other than hard rubber (other than erasers)",
+    "rate": 28,
+    "hsn": "4016 [other than 4016 92 00]",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Hard rubber (for example ebonite) in all forms, including waste and scrap; articles of hard rubber",
+    "rate": 28,
+    "hsn": 4017,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Saddlery and harness for any animal (including traces, leads, knee pads, muzzles, saddle cloths, saddle bags, dog coats and the like), of any material",
+    "rate": 28,
+    "hsn": 4201,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Trunks, suit-cases, vanity-cases, executive-cases, brief-cases, school satchels, spectacle cases, binocular cases, camera cases, musical instrument cases, gun cases, holsters and similar containers; travelling-bags, insulated food or beverages bags, toilet bags, rucksacks, handbags, shopping bags, wallets, purses, map-cases, cigarette-cases, to-bacco- pouches, tool bags, sports bags, bottle-cases, jewellery boxes, powder-boxes, cutlery cases and similar containers, of leather, of sheeting of plastics, of textile materials, of vulcanised fibre or of paperboard, or wholly or mainly covered with such materials or with paper [other than School satchels and bags other than of leather or composition leather, Toilet cases, Hand bags and shopping bags, of artificial plastic material, of cotton, or of jute, Vanity bags, Handbags of other materials excluding wicker work or basket work]",
+    "rate": 28,
+    "hsn": 4202,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Articles of apparel and clothing accessories, of leather or of composition leather",
+    "rate": 28,
+    "hsn": 4203,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other articles of leather or of composition leather",
+    "rate": 28,
+    "hsn": 4205,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Articles of gut (other than silk-worm gut), of goldbeater's skin, of bladders or of tendons",
+    "rate": 28,
+    "hsn": 4206,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Articles of apparel, clothing accessories and other articles of furskin",
+    "rate": 28,
+    "hsn": 4303,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Articles of artificial fur",
+    "rate": 28,
+    "hsn": 4304,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Particle board, Oriented Strand Board (OSB) and similar board (for example, wafer board) of wood or other ligneous materials, whether or not agglomerated with resins or other organic binding substances, other than specified boards",
+    "rate": 28,
+    "hsn": 4410,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Fibre board of wood or other ligneous materials, whether or not bonded with resins or other organic substances, other than specified boards",
+    "rate": 28,
+    "hsn": 4411,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Plywood, veneered panels and similar laminated wood",
+    "rate": 28,
+    "hsn": 4412,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Densified wood, in blocks, plates, strips, or profile shapes",
+    "rate": 28,
+    "hsn": 4413,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Wooden frames for paintings, photographs, mirrors or similar objects",
+    "rate": 28,
+    "hsn": 4414,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Builders’ joinery and carpentry of wood, including cellular wood panels, assembled flooring panels, shingles and shakes",
+    "rate": 28,
+    "hsn": 4418,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Wood paving blocks, articles of densified wood not elsewhere included or specified, Parts of domestic decorative articles used as tableware and kitchenware",
+    "rate": 28,
+    "hsn": 4421,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Wall paper and similar wall coverings; window transparencies of paper",
+    "rate": 28,
+    "hsn": 4814,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Artificial flowers, foliage and fruit and parts thereof; articles made of artificial flowers, foliage or fruit",
+    "rate": 28,
+    "hsn": 6702,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Wool or other animal hair or other textile materials, prepared for use in making wigs or the like",
+    "rate": 28,
+    "hsn": 6703,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Wigs, false beards, eyebrows and eyelashes, switches and the like, of human or animal hair or of textile materials; articles of human hair not elsewhere specified or included",
+    "rate": 28,
+    "hsn": 6704,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Setts, curbstones and flagstones, of natural stone (except slate)",
+    "rate": 28,
+    "hsn": 6801,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Worked monumental or building stone (except slate) and articles thereof, other than goods of heading 6801; mosaic cubes and the like, of natural stone (including slate), whether or not on a backing; artificially coloured granules, chippings and powder, of natural stone (including slate); of marble, travertine and alabaster, of Granite, of Other calcareous stone",
+    "rate": 28,
+    "hsn": 6802,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Worked slate and articles of slate or of agglomerated slate",
+    "rate": 28,
+    "hsn": 6803,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Articles of asphalt or of similar material (for example, petroleum bitumen or coal tar pitch)",
+    "rate": 28,
+    "hsn": 6807,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Panels, boards, tiles, blocks and similar articles of vegetable fibre, of straw or of shavings, chips, particles, sawdust or other waste, of wood, agglomerated with cement, plaster or other mineral binders",
+    "rate": 28,
+    "hsn": 6808,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Articles of plaster or of compositions based on plaster; such as Boards, sheets, panels, tiles and similar articles, not ornamented",
+    "rate": 28,
+    "hsn": 6809,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Articles of cement, of concrete or of artificial stone, whether or not reinforced; such as Tiles, flagstones, bricks and similar articles, Building blocks and bricks, Cement bricks, Prefabricated structural components for Building or civil engineering, Prefabricated structural components for building or civil engineering",
+    "rate": 28,
+    "hsn": 6810,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Fabricated asbestos fibres; mixtures with a basis of asbestos or with a basis of asbestos and magnesium carbonate; articles of such mixtures or of asbestos (for example, thread, woven fabric, clothing, headgear, footwear, gaskets), whether or not reinforced, other than goods of heading 6811 or 6813",
+    "rate": 28,
+    "hsn": 6812,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Friction material and articles thereof (for example, sheets, rolls, strips, segments, discs, washers, pads), not mounted, for brakes, for clutches or the like, with a basis of asbestos, of other mineral substances or of cellulose, whether or not combined with textiles or other materials",
+    "rate": 28,
+    "hsn": 6813,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Worked mica and articles of mica, including agglomerated or reconstituted mica, whether or not on a support of paper, paperboard or other materials",
+    "rate": 28,
+    "hsn": 6814,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Articles of stone or of other mineral substances (including carbon fibres, articles of carbon fibres and articles of peat), not elsewhere specified or included",
+    "rate": 28,
+    "hsn": 6815,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Blocks, tiles and other ceramic goods of siliceous fossil meals (for example, kieselguhr, tripolite or diatomite) or of similar siliceous earths",
+    "rate": 28,
+    "hsn": 6901,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Ceramic flooring blocks, support or filler tiles and the like",
+    "rate": 28,
+    "hsn": 6904,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Chimney-pots, cowls, chimney liners, architectural ornaments and other ceramic constructional goods",
+    "rate": 28,
+    "hsn": 6905,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Ceramic pipes, conduits, guttering and pipe fittings",
+    "rate": 28,
+    "hsn": 6906,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Ceramic flags and paving, hearth or wall tiles; ceramic mosaic cubes and the like,  whether or not on a backing; finishing ceramics",
+    "rate": 28,
+    "hsn": 6907,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Ceramic wares for laboratory, chemical or other technical uses; ceramic troughs, tubs and similar receptacles of a kind used in agriculture; ceramic pots, jars and similar articles of a kind used for the conveyance or packing of goods",
+    "rate": 28,
+    "hsn": 6909,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Ceramic sinks, wash basins, wash basin pedestals, baths, bidets, water closet pans, flushing cisterns, urinals and similar sanitary fixtures",
+    "rate": 28,
+    "hsn": 6910,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Statuettes and other ornamental ceramic articles",
+    "rate": 28,
+    "hsn": 6913,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other ceramic articles",
+    "rate": 28,
+    "hsn": 6914,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Cast glass and rolled glass, in sheets or profiles, whether or not having an absorbent, reflecting or non-reflecting layer, but not otherwise worked",
+    "rate": 28,
+    "hsn": 7003,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Drawn glass and blown glass, in sheets, whether or not having an absorbent, reflecting or non-reflecting layer, but not otherwise worked",
+    "rate": 28,
+    "hsn": 7004,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Float glass and surface ground or polished glass, in sheets, whether or not having an absorbent, reflecting or non-reflecting layer, but not otherwise worked",
+    "rate": 28,
+    "hsn": 7005,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Glass of heading 70.03, 70.04 or 70.05, bent, edge-worked, engraved, drilled, enamelled or otherwise worked, but not framed or fitted with other materials",
+    "rate": 28,
+    "hsn": "7006 00 00",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Safety glass, consisting of toughened (tempered) or laminated glass",
+    "rate": 28,
+    "hsn": 7007,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Multiple-walled insulating units of glass",
+    "rate": 28,
+    "hsn": 7008,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Glass mirrors, whether or not framed, including rear-view mirrors",
+    "rate": 28,
+    "hsn": 7009,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Glass envelopes (including bulbs and tubes), open, and glass parts thereof, without fittings, for electric lamps, cathode-ray tubes or the like",
+    "rate": 28,
+    "hsn": 7011,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Signalling glassware and optical elements of glass (other than those of heading 7015), not optically worked",
+    "rate": 28,
+    "hsn": 7014,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Paving blocks, slabs, bricks, squares, tiles and other articles of pressed or moulded glass, whether or not wired, of a kind used for building or construction purposes; glass cubes and other glass smallwares, whether or not on a backing, for mosaics or similar decorative purposes; leaded lights and the like; multi-cellular or foam glass in blocks, panels, plates, shells or similar forms",
+    "rate": 28,
+    "hsn": 7016,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other articles of glass [other than Globes for lamps and lanterns, Founts for kerosene wick lamps, Glass chimneys for lamps and lanterns]",
+    "rate": 28,
+    "hsn": 7020,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Stoves [other than kerosene stove and LPG stoves], ranges, grates, cookers (including those with subsidiary boilers for central heating), barbecues, braziers, gas-rings, plate warmers and similar non-electric domestic appliances, and parts thereof, of iron or steel",
+    "rate": 28,
+    "hsn": 7321,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Radiators for central heating, not electrically heated, and parts thereof, of iron or steel; air heaters and hot air distributors (including distributors which can also distribute fresh or conditioned air), not electrically heated, incorporating a motor-driven fan or blower, and parts thereof, of iron or steel",
+    "rate": 28,
+    "hsn": 7322,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Sanitary ware and parts thereof of iron and steel",
+    "rate": 28,
+    "hsn": 7324,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "All goods other than utensils i.e. sanitary ware and parts thereof of copper",
+    "rate": 28,
+    "hsn": 7418,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other articles of copper [including chain and parts thereof under 7419 10 and other articles under 7419 99] but not including metal castings under 7419 91 00",
+    "rate": 28,
+    "hsn": 7419,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Doors, windows and their frames and thresholds for doors",
+    "rate": 28,
+    "hsn": "7610 10 00",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "All goods other than utensils i.e. sanitary ware and parts thereof",
+    "rate": 28,
+    "hsn": 7615,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Razors and razor blades (including razor blade blanks in strips)",
+    "rate": 28,
+    "hsn": 8212,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other articles of cutlery (for example, hair clippers, butchers' or kitchen cleavers, choppers and mincing knives,); manicure or pedicure sets and instruments (including nail files) [other than paper knives, pencil sharpeners and blades thereof]",
+    "rate": 28,
+    "hsn": 8214,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Base metal mountings, fittings and similar articles suitable for furniture, doors, staircases, windows, blinds, coachwork, saddlery, trunks, chests, caskets or the like; base metal hat-racks, hat-pegs, brackets and similar fixtures; castors with mountings of base metal; automatic door closers of base metal",
+    "rate": 28,
+    "hsn": 8302,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Armoured or reinforced safes, strong-boxes and doors and safe deposit lockers for strong-rooms, cash or deed boxes and the like, of base metal",
+    "rate": 28,
+    "hsn": 8303,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Filing cabinets, card-index cabinets, paper trays, paper rests, pen trays, office-stamp stands and similar office or desk equipment, of base metal, other than office furniture of heading 9403",
+    "rate": 28,
+    "hsn": 8304,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Fittings for loose-leaf binders or files, letter clips, letter corners, paper clips, indexing tags and similar office articles, of base metal; staples in strips (for example, for offices, upholstery, packaging), of base metal",
+    "rate": 28,
+    "hsn": 8305,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Sign-plates, name-plates, address-plates and similar plates, numbers, letters and other symbols, of base metal, excluding those of heading 9405",
+    "rate": 28,
+    "hsn": 8310,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Spark-ignition reciprocating or rotary internal combustion piston engine",
+    "rate": 28,
+    "hsn": 8407,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Compression-ignition internal combustion piston engines (diesel or semi-diesel engines)",
+    "rate": 28,
+    "hsn": 8408,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Parts suitable for use solely or principally with the engines of heading 8407 or 8408",
+    "rate": 28,
+    "hsn": 8409,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Pumps for dispensing fuel or lubricants of the type used in filling stations or garages [8413 11], Fuel, lubricating or cooling medium pumps for internal combustion piston engines [8413 30], concrete pumps [8413 40 00], other rotary positive displacement pumps [8413 60], [other than hand pumps falling under tariff item 8413 11 10]",
+    "rate": 28,
+    "hsn": 8413,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Air or vacuum pumps, air or other gas compressors and fans; ventilating or recycling hoods incorporating a fan, whether or not fitted with filters",
+    "rate": 28,
+    "hsn": 8414,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Air-conditioning machines, comprising a motor-driven fan and elements for changing the temperature and humidity, including those machines in which the humidity cannot be separately regulated",
+    "rate": 28,
+    "hsn": 8415,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Refrigerators, freezers and other refrigerating or freezing equipment, electric or other; heat pumps other than air conditioning machines of heading 8415",
+    "rate": 28,
+    "hsn": 8418,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Storage water heaters, non-electric [8419 19] (other than solar water heater and system), Pressure vessels, reactors, columns or towers or chemical storage tanks [8419 89 10], Glass lined equipment [8419 89 20],  Auto claves other than for cooking or heating food, not elsewhere specified or included [8419 89 30],  Cooling towers and similar plants for direct cooling (without a separating wall) by means of recirculated water [8419 89 40], Plant growth chambers and rooms and tissue culture chambers and rooms having temperature, humidity or light control [8419 89 60], Apparatus for rapid heating of semi- conductor devices , apparatus for chemical or physical vapour deposition on semiconductor wafers; apparatus for chemical vapour deposition on LCD substratus [8419 89 70]; parts [8419 90]",
+    "rate": 28,
+    "hsn": 8419,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Dish washing machines, household [8422 11 00] and other [8422 19 00]",
+    "rate": 28,
+    "hsn": 8422,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Electric or electronic weighing machinery (excluding balances of a sensitivity of 5 centigrams or better), including weight operated counting or checking machines; weighing machine weights of all kinds",
+    "rate": 28,
+    "hsn": 8423,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Fire extinguishers",
+    "rate": 28,
+    "hsn": 8424,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Fork-lift trucks; other works trucks fitted with lifting or handling equipment",
+    "rate": 28,
+    "hsn": 8427,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other lifting, handling, loading or unloading machinery (for example, lifts, escalators, conveyors, teleferics)",
+    "rate": 28,
+    "hsn": 8428,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Self-propelled bulldozers, angledozers, graders, levellers, scrapers, mechanical shovels, excavators, shovel loaders, tamping machines and road rollers",
+    "rate": 28,
+    "hsn": 8429,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other moving, grading, levelling, scraping, excavating, tamping, compacting, extracting or boring machinery, for earth, minerals or ores; pile-drivers and pile-extractors; snow-ploughs and snow-blowers",
+    "rate": 28,
+    "hsn": 8430,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Printers which perform two or more of the functions of printing, copying or facsimile transmission, capable of connecting to an automatic data processing machine or to a network printers; copying machines, facsimile machines; ink cartridges with or without print head assembly and ink spray nozzle",
+    "rate": 28,
+    "hsn": 8443,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Household or laundry-type washing machines, including machines which both wash and dry",
+    "rate": 28,
+    "hsn": 8450,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other office machines (for example, hectograph or stencil duplicating machines, addressing machines, automatic banknote dispensers, coin sorting machines, coin counting or wrapping machines [other than Braille typewriters, electric or non-electric, Perforating or stapling machines (staplers), pencil sharpening machines]",
+    "rate": 28,
+    "hsn": 8472,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Automatic goods-vending machines (for example, postage stamps, cigarette, food or beverage machines), including money changing machines",
+    "rate": 28,
+    "hsn": 8476,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Machinery for preparing or making up tobacco, not specified or included elsewhere in this chapter",
+    "rate": 28,
+    "hsn": 8478,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Passenger boarding bridges of a kind used in airports [8479 71 00] and other [8479 79 00]",
+    "rate": 28,
+    "hsn": 8479,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Transmission shafts (including cam shafts and crank shafts) and cranks; bearing housings and plain shaft bearings; gears and gearing; ball or roller screws; gear boxes and other speed changers, including torque converters; flywheels and pulleys, including pulley blocks; clutches and shaft couplings (including universal joints)",
+    "rate": 28,
+    "hsn": 8483,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Gaskets and similar joints of metal sheeting combined with other material or of two or more layers of metal; sets or assortments of gaskets and similar joints, dissimilar in composition, put up in pouches, envelopes or similar packings; mechanical seals",
+    "rate": 28,
+    "hsn": 8484,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Static converters (for example, rectifiers) and inductors [other than Transformers Industrial Electronics; Electrical Transformer; Static Convertors (UPS)]",
+    "rate": 28,
+    "hsn": 8504,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Primary cells and primary batteries",
+    "rate": 28,
+    "hsn": 8506,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Electric accumulators, including separators therefor, whether or not rectangular (including square)",
+    "rate": 28,
+    "hsn": 8507,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Vacuum cleaners",
+    "rate": 28,
+    "hsn": 8508,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Electro-mechanical domestic appliances, with self-contained electric motor, other than vacuum cleaners of heading 8508",
+    "rate": 28,
+    "hsn": 8509,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Shavers, hair clippers and hair-removing appliances, with self-contained electric motor",
+    "rate": 28,
+    "hsn": 8510,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Electrical ignition or starting equipment of a kind used for spark-ignition or compression-ignition internal combustion engines (for example, ignition magnetos, magneto-dynamos, ignition coils, sparking plugs and glow plugs, starter motors); generators (for example, dynamos, alternators) and cut-outs of a kind used in conjunction with such engines",
+    "rate": 28,
+    "hsn": 8511,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Electrical lighting or signalling equipment (excluding articles of heading 8539), windscreen wipers, defrosters and demisters, of a kind used for cycles or motor vehicles",
+    "rate": 28,
+    "hsn": 8512,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Portable electric lamps designed to function by their own source of energy (for example, dry batteries, accumulators, magnetos), other than lighting equipment of heading 8512",
+    "rate": 28,
+    "hsn": 8513,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Electric instantaneous or storage water heaters and immersion heaters; electric space heating apparatus and soil heating apparatus; electrothermic hair-dressing apparatus (for example, hair dryers, hair curlers, curling tong heaters) and hand dryers; electric smoothing irons; other electro-thermic appliances of a kind used for domestic purposes; electric heating resistors, other than those of heading 8545",
+    "rate": 28,
+    "hsn": 8516,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "ISDN System [8517 69 10], ISDN Terminal Adaptor [8517 69 20], X 25 Pads [8517 69 40]",
+    "rate": 28,
+    "hsn": 8517,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Single loudspeakers, mounted in their enclosures [8518 21 00], Audio-frequency electric amplifiers [8518 40 00], Electric sound amplifier sets [8518 50 00], Parts [8518 90 00]",
+    "rate": 28,
+    "hsn": 8518,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Sound recording or reproducing apparatus",
+    "rate": 28,
+    "hsn": 8519,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Parts and accessories suitable for use solely or principally with the apparatus of headings 8519 or 8521",
+    "rate": 28,
+    "hsn": 8522,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Transmission apparatus for radio-broadcasting or television, whether or not incorporating reception apparatus or sound recording or reproducing apparatus; television cameras, digital cameras and video cameras recorders [other than CCTV]",
+    "rate": 28,
+    "hsn": 8525,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Radar apparatus, radio navigational aid apparatus and radio remote control apparatus",
+    "rate": 28,
+    "hsn": 8526,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Reception apparatus for radio-broadcasting, whether or not combined, in the same housing, with sound recording or reproducing apparatus or a clock",
+    "rate": 28,
+    "hsn": 8527,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Monitors and projectors, not incorporating television reception apparatus; reception apparatus for television, whether or not incorporating radio-broadcast receiver or sound or video recording or reproducing apparatus [other than computer monitors not exceeding 17 inches]",
+    "rate": 28,
+    "hsn": 8528,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Parts suitable for use solely or principally with the apparatus of headings 8525 to 8528",
+    "rate": 28,
+    "hsn": 8529,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Electrical signalling, safety or traffic control equipment for railways, tramways, roads, inland waterways, parking facilities, port installations or airfields (other than those of heading 8608)",
+    "rate": 28,
+    "hsn": 8530,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Electric sound or visual signalling apparatus (for example, bells, sirens, indicator panels, burglar or fire alarms), other than those of heading 8512 or 8530",
+    "rate": 28,
+    "hsn": 8531,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Electrical apparatus for switching or protecting electrical circuits, or for making connections to or in electrical circuits (for example, switches, relays, fuses, surge suppressors, plugs, sockets, lamp-holders, and other connectors, junction boxes), for a voltage not exceeding 1,000 volts : connectors for optical fibres optical fibres, bundles or cables",
+    "rate": 28,
+    "hsn": 8536,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Boards, panels, consoles, desks, cabinets and other bases, equipped with two or more apparatus of heading 8535 or 8536, for electric control or the distribution of electricity, including those incorporating instruments or apparatus of chapter 90, and numerical control apparatus, other than switching apparatus of heading 8517",
+    "rate": 28,
+    "hsn": 8537,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Sealed beam lamp units and ultra-violet or infra-red lamps; arc lamps [other than Electric filament or discharge lamps and LED lamps]",
+    "rate": 28,
+    "hsn": 8539,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Insulated (including enamelled or anodised) wire, cable and other insulated electric conductors, whether or not fitted with connectors [other than Winding Wires; Coaxial cables; Optical Fiber]",
+    "rate": 28,
+    "hsn": 8544,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Brushes [8545 20 00] and goods under 8545 (including arc lamp carbon and battery carbon)",
+    "rate": 28,
+    "hsn": 8545,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Insulating fittings for electrical machines, appliances or equipment, being fittings wholly of insulating material apart from any minor components of metal (for example, threaded sockets) incorporated during moulding solely for the purposes of assembly, other than insulators of heading 8546; electrical conduit tubing and joints therefor, of base metal lined with insulating material",
+    "rate": 28,
+    "hsn": 8547,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Motor vehicles for the transport of ten or more persons, including the driver",
+    "rate": 28,
+    "hsn": 8702,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Motor cars and other motor vehicles principally designed for the transport of persons (other than those of heading 8702), including station wagons and racing cars [other than Cars for physically handicapped persons]",
+    "rate": 28,
+    "hsn": 8703,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Motor vehicles for the transport of goods [other than Refrigerated motor vehicles]",
+    "rate": 28,
+    "hsn": 8704,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Special purpose motor vehicles, other than those principally designed for the transport of persons or goods (for example, breakdown lorries, crane lorries, fire fighting vehicles, concrete-mixer lorries, road sweeper lorries, spraying lorries, mobile workshops, mobile radiological unit)",
+    "rate": 28,
+    "hsn": 8705,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Chassis fitted with engines, for the motor vehicles of headings 8701 to 8705",
+    "rate": 28,
+    "hsn": 8706,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Bodies (including cabs), for the motor vehicles of headings 8701 to 8705",
+    "rate": 28,
+    "hsn": 8707,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Parts and accessories of the motor vehicles of headings 8701 to 8705 [other than specified parts of tractors]",
+    "rate": 28,
+    "hsn": 8708,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Works trucks, self-propelled, not fitted with lifting or handling equipment, of the type used in factories, warehouses, dock areas or airports for short distance transport of goods; tractors of the type used on railway station platforms; parts of the foregoing vehicles",
+    "rate": 28,
+    "hsn": 8709,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Tanks and other armoured fighting vehicles, motorised, whether or not fitted with weapons, and parts of such vehicles",
+    "rate": 28,
+    "hsn": 8710,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Motorcycles (including mopeds) and cycles fitted with an auxiliary motor, with or without side-cars; side-cars",
+    "rate": 28,
+    "hsn": 8711,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Parts and accessories of vehicles of headings 8711 and 8713",
+    "rate": 28,
+    "hsn": 8714,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Trailers and semi-trailers; other vehicles, not mechanically propelled; parts thereof [other than Self-loading or self-unloading trailers for agricultural purposes, and Hand propelled vehicles (e.g. hand carts, rickshaws and the like); animal drawn vehicles]",
+    "rate": 28,
+    "hsn": 8716,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Aircrafts for personal use",
+    "rate": 28,
+    "hsn": 8802,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Yachts and other vessels for pleasure or sports; rowing boats and canoes",
+    "rate": 28,
+    "hsn": 8903,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Goggles",
+    "rate": 28,
+    "hsn": 9004,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Binoculars, monoculars, other optical telescopes, and mountings therefor; other astronomical instruments and mountings therefor, but not including instruments for radio-astronomy",
+    "rate": 28,
+    "hsn": 9005,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Photographic (other than cinematographic) cameras; photographic flashlight apparatus and flashbulbs other than discharge lamps of heading 8539",
+    "rate": 28,
+    "hsn": 9006,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Cinematographic cameras and projectors, whether or not incorporating sound recording or reproducing apparatus",
+    "rate": 28,
+    "hsn": 9007,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Image projectors, other than cinematographic; photographic (other than cinematographic) enlargers and reducers",
+    "rate": 28,
+    "hsn": 9008,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Apparatus and equipment for photographic (including cinematographic) laboratories, not specified or included elsewhere in this Chapter; negatoscopes; projection screens",
+    "rate": 28,
+    "hsn": 9010,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Compound optical microscopes, including those for photomicrography cinephotomicrography or microprojection",
+    "rate": 28,
+    "hsn": 9011,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Microscopes other than optical microscopes; diffraction apparatus",
+    "rate": 28,
+    "hsn": 9012,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Liquid crystal devices not constituting articles provided for more specifically in other headings; lasers, other than laser diodes; other optical appliances and instruments, not specified or included elsewhere in this Chapter",
+    "rate": 28,
+    "hsn": 9013,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Direction finding compasses; other navigational instruments and appliances",
+    "rate": 28,
+    "hsn": 9014,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Surveying (including photogrammetrical surveying), hydrographic, oceanographic, hydrological, meteorological or geophysical instruments and appliances, excluding compasses; rangefinders",
+    "rate": 28,
+    "hsn": 9015,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Electric or electronic balances of a sensitivity of 5 cg or better, with or without weights",
+    "rate": 28,
+    "hsn": 9016,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Apparatus based on the use of X-rays or of alpha, beta or gamma radiations, for \\ including radiography or radiotherapy apparatus, X-ray tubes and other X-ray generators, high tension generators, control panels and desks, screens, examinations or treatment tables, chairs and the light",
+    "rate": 28,
+    "hsn": 9022,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Instruments, apparatus and models, designed for demonstrational purposes (for example, in education or exhibitions), unsuitable for other uses",
+    "rate": 28,
+    "hsn": 9023,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Wrist-watches, pocket-watches and other watches, including stop-watches, with case of precious metal or of metal clad with precious metal",
+    "rate": 28,
+    "hsn": 9101,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Wrist-watches, pocket-watches and other watches, including stop watches, other than those of heading 9101",
+    "rate": 28,
+    "hsn": 9102,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Instrument panel clocks and clocks of a similar type   for vehicles, aircraft, spacecraft or vessels",
+    "rate": 28,
+    "hsn": 9104,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Time of day recording apparatus and apparatus for measuring, recording or otherwise indicating intervals of time, with clock or watch movement or with synchronous motor (for example, time registers, time-recorders)",
+    "rate": 28,
+    "hsn": 9106,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Time switches with clock or watch movement or with synchronous motor",
+    "rate": 28,
+    "hsn": 9107,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Watch movements, complete and assembled",
+    "rate": 28,
+    "hsn": 9108,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Complete watch movements, unassembled or partly assembled (movement sets); incomplete watch movements, assembled; rough watch movements",
+    "rate": 28,
+    "hsn": 9110,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Watch cases and parts thereof",
+    "rate": 28,
+    "hsn": 9111,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Cases for other than clocks, and parts thereof",
+    "rate": 28,
+    "hsn": 9112,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Watch straps, watch bands and watch bracelets, and parts thereof",
+    "rate": 28,
+    "hsn": 9113,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other watch parts",
+    "rate": 28,
+    "hsn": 9114,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Pianos, including automatic pianos; harpsi-chords and other keyboard stringed instruments",
+    "rate": 28,
+    "hsn": 9201,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other string musical instruments (for example, guitars, violins, harps)",
+    "rate": 28,
+    "hsn": 9202,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Wind musical instruments (for example, keyboard pipe organs, accordions, clarinets, trumpets, bagpipes), other than fairground organs and mechanical street organs",
+    "rate": 28,
+    "hsn": 9205,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Percussion musical instruments (for example, drums, xylophones, cymbols, castanets, maracas)",
+    "rate": 28,
+    "hsn": "9206 00 00",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Musical instruments, the sound of which is produced, or must be amplified, electrically (for example, organs, guitars, accordions)",
+    "rate": 28,
+    "hsn": 9207,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Musical boxes, fairground organs, mechanical street organs, mechanical singing birds, musical saws and other musical instruments not falling within any other heading of this chapter; decoy calls of all kinds; whistles, call horns and other mouth-blown sound signalling instruments",
+    "rate": 28,
+    "hsn": 9208,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Parts (for example, mechanisms for musical boxes) and accessories (for example, cards, discs and rolls for mechanical instruments) of musical instruments; metronomes, tuning forks and pitch pipes of all kinds",
+    "rate": 28,
+    "hsn": 9209,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Revolvers and pistols, other than those of heading 9303 or 9304",
+    "rate": 28,
+    "hsn": 9302,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Seats (other than those of heading 9402), whether or not convertible into beds, and parts thereof",
+    "rate": 28,
+    "hsn": 9401,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other furniture [other than bamboo furniture] and parts thereof",
+    "rate": 28,
+    "hsn": 9403,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Mattress supports; articles of bedding and similar furnishing (for example, mattresses, quilts, eiderdowns, cushions, pouffes and pillows) fitted with springs or stuffed or internally fitted with any material or of cellular rubber or plastics, whether or not covered",
+    "rate": 28,
+    "hsn": 9404,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Lamps and lighting fittings including searchlights and spotlights and parts thereof, not elsewhere specified or included; illuminated signs, illuminated name-plates and the like, having a permanently fixed light source, and parts thereof not elsewhere specified or included",
+    "rate": 28,
+    "hsn": 9405,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Video games consoles and Machines",
+    "rate": 28,
+    "hsn": 9504,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Festive, carnival or other entertainment articles, including conjuring tricks and novelty jokes",
+    "rate": 28,
+    "hsn": 9505,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Articles and equipment for general physical exercise, gymnastics, athletics",
+    "rate": 28,
+    "hsn": 9506,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Roundabouts, swings, shooting galleries and other fairground amusements; [other than travelling circuses and travelling menageries]",
+    "rate": 28,
+    "hsn": 9508,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Worked ivory, bone, tortoise-shell, horn, antlers, coral, mother-of-pearl and other animal carving material, and articles of these materials (including articles obtained by moulding)",
+    "rate": 28,
+    "hsn": 9601,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Worked vegetable or mineral carving material and articles of these materials moulded or carved articles of wax, of stearin, of natural gums or natural resins or of modelling pastes, and other moulded or carved articles, not elsewhere specified or included; worked, unhardened gelatin (except gelatin of heading 3503) and articles of unhardened gelatin",
+    "rate": 28,
+    "hsn": 9602,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Date, sealing or numbering stamps, and the like (including devices for printing or embossing labels), designed for operating in the hand; hand-operated composing sticks and hand printing sets incorporating such composing sticks",
+    "rate": 28,
+    "hsn": 9611,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Cigarette lighters and other lighters, whether or not mechanical or electrical, and parts thereof other than flints and wicks",
+    "rate": 28,
+    "hsn": 9613,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Smoking pipes (including pipe bowls) and cigar or cigarette holders, and parts thereof",
+    "rate": 28,
+    "hsn": 9614,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Scent sprays and similar toilet sprays, and mounts and heads therefor; powder-puffs and pads for the application of cosmetics or toilet preparations",
+    "rate": 28,
+    "hsn": 9616,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Vacuum flasks and other vacuum vessels, complete with cases; parts thereof other than glass inners",
+    "rate": 28,
+    "hsn": 9617,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Tailors' dummies and other lay figures; automata and other animated displays, used for shop window dressing",
+    "rate": 28,
+    "hsn": 9618,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "All dutiable articles intended for personal use",
+    "rate": 28,
+    "hsn": 9804,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Lottery  authorized by State Governments Explanation 1.- For the purposes of this entry, value of supply of lottery under sub-section (5) of section 15 of the Central Goods and Services Tax Act, 2017 read with section 20 of the Integrated Goods and Services Tax Act, 2017 (13 of 2017) shall be deemed to be 100/128 of the face value of ticket or of the price as notified in the Official Gazette by the organising State, whichever is higher. Explanation 2.-  (1) “Lottery authorized by State Governments” means a lottery which is authorized to be sold in State(s) other than the organising state also.  (2) Organising state has the same meaning as assigned to it in clause (f) of sub-rule (1) of rule 2 of the Lotteries (Regulation) Rules, 2010.",
+    "rate": 28,
+    "hsn": "-",
+    "lang": 1
+  }
+]

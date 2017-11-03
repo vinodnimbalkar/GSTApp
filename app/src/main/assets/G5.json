@@ -1,0 +1,1871 @@
+[
+  {
+    "type": "goods",
+    "description": "Fish, frozen, excluding fish fillets and other fish meat of heading 0304",
+    "rate": 5,
+    "hsn": 303,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Fish fillets and other fish meat (whether or not minced), frozen",
+    "rate": 5,
+    "hsn": 304,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Fish, dried, salted or in brine; smoked fish, whether or not cooked before or during the smoking process; flours, meals and pellets of fish, fit for human consumption",
+    "rate": 5,
+    "hsn": 305,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Crustaceans, whether in shell or not, frozen, dried, salted or in brine; crustaceans, in shell, cooked by steaming or by boiling in water, frozen, dried, salted or in brine; flours, meals and pellets of crustaceans, fit for human consumption",
+    "rate": 5,
+    "hsn": 306,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Molluscs, whether in shell or not, frozen, dried, salted or in brine; aquatic invertebrates other than crustaceans and molluscs, frozen, dried, salted or in brine; flours, meals and pellets of aquatic invertebra other than crustaceans, fit for human consumption",
+    "rate": 5,
+    "hsn": 307,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Aquatic invertebrates other than crustaceans and molluscs, frozen, dried, salted or in brine; smoked aquatic invertebrates other than crustaceans and molluscs, whether or not cooked before or during the smoking process: flours, meals and pellets of aquatic invertebrates other than crustaceans and molluscs, fit for human consumption",
+    "rate": 5,
+    "hsn": 308,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Ultra High Temperature (UHT) milk",
+    "rate": 5,
+    "hsn": 401,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Milk and cream, concentrated or containing added sugar or other sweetening matter, including skimmed milk powder, milk food for babies [other than condensed milk]",
+    "rate": 5,
+    "hsn": 402,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Cream, yogurt, kephir and other fermented or acidified milk and cream, whether or not concentrated or containing added sugar or other sweetening matter or flavoured or containing added fruit, nuts or cocoa",
+    "rate": 5,
+    "hsn": 403,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Whey, whether or not concentrated or containing added sugar or other sweetening matter; products consisting of natural milk constituents, whether or not containing added sugar or other sweetening matter, not elsewhere specified or included",
+    "rate": 5,
+    "hsn": 404,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Chena or paneer put up in unit container and bearing a registered brand name",
+    "rate": 5,
+    "hsn": 406,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Birds' eggs, not in shell, and egg yolks, fresh, dried, cooked by steaming or by boiling in water, moulded, frozen or otherwise preserved, whether or not containing added sugar or other sweetening matter.",
+    "rate": 5,
+    "hsn": 408,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Natural honey, put up in unit container and bearing a registered brand name",
+    "rate": 5,
+    "hsn": 409,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Edible products of animal origin, not elsewhere specified or included",
+    "rate": 5,
+    "hsn": 410,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Pigs', hogs' or boars' bristles and hair; badger hair and other brush making hair; waste of such bristles or hair.",
+    "rate": 5,
+    "hsn": 502,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Guts, bladders and stomachs of animals (other than fish), whole and pieces thereof, fresh, chilled, frozen, salted, in brine, dried or smoked.",
+    "rate": 5,
+    "hsn": 504,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Skins and other parts of birds, with their feathers or down, feathers and parts of feathers (whether or not with trimmed edges) and down, not further worked than cleaned, disinfected or treated for preservation; powder and waste of feathers or parts of feathers",
+    "rate": 5,
+    "hsn": 505,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Ivory, tortoise-shell, whalebone and whalebone hair, horns, unworked or simply prepared but not cut to shape; powder and waste of these products.",
+    "rate": 5,
+    "hsn": "0507[Except 050790]",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Coral and similar materials, unworked or simply prepared but not otherwise worked; shells of molluscs, crustaceans or echinoderms and cuttle-bone, unworked or simply prepared but not cut to shape, powder and waste thereof.",
+    "rate": 5,
+    "hsn": 508,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Ambergris, castoreum, civet and musk; cantharides; bile, whether or not dried; glands and other animal products used in the preparation of pharmaceutical products, fresh, chilled, frozen or otherwise provisionally preserved.",
+    "rate": 5,
+    "hsn": 510,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Animal products not elsewhere specified or included; dead animals of Chapter 1 or 3, unfit for human consumption, other than semen including frozen semen.",
+    "rate": 5,
+    "hsn": 511,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Herb, bark, dry plant, dry root, commonly known as jaribooti and dry flower",
+    "rate": 5,
+    "hsn": 7,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Vegetables (uncooked or cooked by steaming or boiling in water), frozen",
+    "rate": 5,
+    "hsn": 710,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Vegetables provisionally preserved (for example, by sulphur dioxide gas, in brine, in sulphur water or in other preservative solutions), but unsuitable in that state for immediate consumption",
+    "rate": 5,
+    "hsn": 711,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Dried leguminous vegetables, shelled, whether or not skinned or split [put up in unit container and bearing a registered brand name]",
+    "rate": 5,
+    "hsn": 713,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Manioc, arrowroot, salep, Jerusalem artichokes, sweet potatoes and similar roots and tubers with high starch or inulin content, frozen or dried, whether or not sliced or in the form of pellets",
+    "rate": 5,
+    "hsn": 714,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Cashew nuts, whether or not shelled or peeled",
+    "rate": 5,
+    "hsn": 801,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Dried areca nuts, whether or not shelled or peeled",
+    "rate": 5,
+    "hsn": 802,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Dried chestnuts (singhada), whether or not shelled or peeled",
+    "rate": 5,
+    "hsn": 802,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Dried makhana, whether or not shelled or peeled",
+    "rate": 5,
+    "hsn": 8,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Grapes, dried, and raisins",
+    "rate": 5,
+    "hsn": 806,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Fruit and nuts, uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter",
+    "rate": 5,
+    "hsn": 811,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Fruit and nuts, provisionally preserved (for example, by sulphur dioxide gas, in brine, in sulphur water or in other preservative solutions), but unsuitable in that state for immediate consumption",
+    "rate": 5,
+    "hsn": 812,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Peel of citrus fruit or melons (including watermelons), frozen, dried or provisionally preserved in brine, in sulphur water or in other preservative solutions",
+    "rate": 5,
+    "hsn": 814,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Coffee, whether or not roasted or decaffeinated; coffee husks and skins; coffee substitutes containing coffee in any proportion [other than coffee beans not roasted]",
+    "rate": 5,
+    "hsn": 901,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Tea, whether or not flavoured [other than unprocessed green leaves of tea]",
+    "rate": 5,
+    "hsn": 902,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Maté",
+    "rate": 5,
+    "hsn": 903,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Pepper of the genus Piper; dried or crushed or ground fruits of the genus Capsicum or of the genus Pimenta",
+    "rate": 5,
+    "hsn": 904,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Vanilla",
+    "rate": 5,
+    "hsn": 905,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Cinnamon and cinnamon-tree flowers",
+    "rate": 5,
+    "hsn": 906,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Cloves (whole fruit, cloves and stems)",
+    "rate": 5,
+    "hsn": 907,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Nutmeg, mace and cardamoms",
+    "rate": 5,
+    "hsn": 908,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Seeds of anise, badian, fennel, coriander, cumin or caraway; juniper berries [other than of seed quality]",
+    "rate": 5,
+    "hsn": 909,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Ginger other than fresh ginger, saffron, turmeric (curcuma) other than fresh turmeric, thyme, bay leaves, curry and other spices",
+    "rate": 5,
+    "hsn": "0910 [other than 0910 11 10, 0910 30 10]",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "All goods i.e. cereals, put up in unit container and bearing a registered brand name",
+    "rate": 5,
+    "hsn": 10,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Wheat and meslin put up in unit container and bearing a registered brand name",
+    "rate": 5,
+    "hsn": 1001,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Rye put up in unit container and bearing a registered brand name",
+    "rate": 5,
+    "hsn": 1002,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Barley put up in unit container and bearing a registered brand name",
+    "rate": 5,
+    "hsn": 1003,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Oats put up in unit container and bearing a registered brand name",
+    "rate": 5,
+    "hsn": 1004,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Maize (corn) put up in unit container and bearing a registered brand name",
+    "rate": 5,
+    "hsn": 1005,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Rice put up in unit container and bearing a registered brand name",
+    "rate": 5,
+    "hsn": 1006,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Grain sorghum put up in unit container and bearing a registered brand name",
+    "rate": 5,
+    "hsn": 1007,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Buckwheat, millet and canary seed; other cereals such as Jawar, Bajra, Ragi] put up in unit container and bearing a registered brand name",
+    "rate": 5,
+    "hsn": 1008,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Wheat or meslin flour put up in unit container and bearing a registered brand name.",
+    "rate": 5,
+    "hsn": 1101,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Cereal flours other than of wheat or meslin i.e. maize (corn) flour, Rye flour, etc. put up in unit container and bearing a registered brand name",
+    "rate": 5,
+    "hsn": 1102,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Cereal groats, meal and pellets, including suji and dalia, put up in unit container and bearing a registered brand name",
+    "rate": 5,
+    "hsn": 1103,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Cereal grains otherwise worked (for example, rolled, flaked, pearled, sliced or kibbled), except rice of heading 1006; germ of cereals, whole, rolled, flaked or ground [other than hulled cereal grains]",
+    "rate": 5,
+    "hsn": 1104,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Meal, powder, flakes, granules and pellets of potatoes put up in unit container and bearing a registered brand name",
+    "rate": 5,
+    "hsn": 1105,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Meal and powder of the dried leguminous vegetables of heading 0713 (pulses) [other than guar meal 1106 10 10 and guar gum refined split 1106 10 90], of sago or of roots or tubers of heading 0714 or of the products of Chapter 8, put up in unit container and bearing a registered brand name",
+    "rate": 5,
+    "hsn": 1106,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Guar meal",
+    "rate": 5,
+    "hsn": "1106 10 10",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Guar gum refined split",
+    "rate": 5,
+    "hsn": "1106 10 90",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Wheat gluten, whether or not dried",
+    "rate": 5,
+    "hsn": "1109 00 00",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "All goods other than of seed quality",
+    "rate": 5,
+    "hsn": 12,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Soya beans, whether or not broken other than of seed quality.",
+    "rate": 5,
+    "hsn": 1201,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Ground-nuts, not roasted or otherwise cooked, whether or not shelled or broken other than of seed quality.",
+    "rate": 5,
+    "hsn": 1202,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Copra other than of seed quality",
+    "rate": 5,
+    "hsn": 1203,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Linseed, whether or not broken other than of seed quality.",
+    "rate": 5,
+    "hsn": 1204,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Rape or colza seeds, whether or not broken other than of seed quality.",
+    "rate": 5,
+    "hsn": 1205,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Sunflower seeds, whether or not broken other than of seed quality",
+    "rate": 5,
+    "hsn": 1206,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other oil seeds and oleaginous fruits (i.e. Palm nuts and kernels, cotton seeds, Castor oil seeds, Sesamum seeds, Mustard seeds, Saffower (Carthamustinctorius) seeds, Melon seeds, Poppy seeds, Ajams, Mango kernel, Niger seed, Kokam) whether or not broken, other than of seed quality",
+    "rate": 5,
+    "hsn": 1207,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Flour and meals of oil seeds or oleaginous fruits, other than those of mustard",
+    "rate": 5,
+    "hsn": 1208,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Hop cones, dried, whether or not ground, powdered or in the form of pellets; lupulin",
+    "rate": 5,
+    "hsn": 1210,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Plants and parts of plants (including  seeds and fruits), of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purpose, frozen or dried, whether or not cut, crushed or powdered",
+    "rate": 5,
+    "hsn": 1211,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Locust beans, seaweeds and other algae, sugar beet and sugar cane, frozen or dried, whether or not ground; fruit stones and kernels and other vegetable products (including unroasted chicory roots of the variety Cichoriumintybussativum) of a kind used primarily for human consumption, not elsewhere specified or included",
+    "rate": 5,
+    "hsn": 1212,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Natural gums, resins, gum-resins and oleoresins (for example, balsams) [other than lac and shellac]",
+    "rate": 5,
+    "hsn": 1301,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Compounded asafoetida commonly known as heeng",
+    "rate": 5,
+    "hsn": 1301,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Vegetable materials of a kind used primarily for plaiting (for example, bamboos, rattans, reeds, rushes, osier, raffia, cleaned, bleached or dyed cereal straw, and lime bark)",
+    "rate": 5,
+    "hsn": 1401,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Vegetable products not elsewhere specified or included such as cotton linters, Cotton linters, Soap nuts, Hard seeds, pips, hulls and nuts, of a kind used primarily for carving, coconut shell, unworked, Rudraksha seeds [other than bidi wrapper leaves (tendu), betel leaves, Indian katha]",
+    "rate": 5,
+    "hsn": "1404 [other than 1404 90 10, 1404 90 40, 1404 90 50]",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Soya-bean oil and its fractions, whether or not refined, but not chemically modified",
+    "rate": 5,
+    "hsn": 1507,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Ground-nut oil and its fractions, whether or not refined, but not chemically modified.",
+    "rate": 5,
+    "hsn": 1508,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Olive oil and its fractions, whether or not refined, but not chemically modified.",
+    "rate": 5,
+    "hsn": 1509,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other oils and their fractions, obtained solely from olives, whether or not refined, but not chemically modified, including blends of these oils or fractions with oils or fractions of heading 1509",
+    "rate": 5,
+    "hsn": 1510,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Palm oil and its fractions, whether or not refined, but not chemically modified.",
+    "rate": 5,
+    "hsn": 1511,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Sunflower-seed, safflower or cotton-seed oil and fractions thereof, whether or not refined, but not chemically modified.",
+    "rate": 5,
+    "hsn": 1512,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Coconut (copra), palm kernel or babassu oil and fractions thereof, whether or not refined, but not chemically modified.",
+    "rate": 5,
+    "hsn": 1513,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Rape, colza or mustard oil and fractions thereof, whether or not refined, but not chemically modified.",
+    "rate": 5,
+    "hsn": 1514,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other fixed vegetable fats and oils (including jojoba oil) and their fractions, whether or not refined, but not chemically modified.",
+    "rate": 5,
+    "hsn": 1515,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Vegetable fats and oils and their fractions, partly or wholly hydrogenated, inter-esterified, re-esterified or elaidinised, whether or not refined, but not further prepared.",
+    "rate": 5,
+    "hsn": 1516,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Edible mixtures or preparations of  vegetable fats or vegetable oils or of fractions of different vegetable fats or vegetable oils of this Chapter, other than edible fats or oils or their fractions of heading 1516",
+    "rate": 5,
+    "hsn": 1517,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Vegetable fats and oils and their fractions, boiled, oxidised, dehydrated, sulphurised, blown, polymerised by heat in vacuum or in inert gas or otherwise chemically modified, excluding those of heading 1516",
+    "rate": 5,
+    "hsn": 1518,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Beet sugar, cane sugar, khandsari sugar",
+    "rate": 5,
+    "hsn": 1701,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Palmyra sugar",
+    "rate": 5,
+    "hsn": 1702,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Cocoa beans whole or broken, raw or roasted",
+    "rate": 5,
+    "hsn": 1801,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Cocoa shells, husks, skins and other cocoa waste",
+    "rate": 5,
+    "hsn": 1802,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Cocoa paste whether or not de-fatted",
+    "rate": 5,
+    "hsn": 1803,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Mixes and doughs for the preparation of bread, pastry and other baker's wares",
+    "rate": 5,
+    "hsn": "1901 20 00",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Seviyan (vermicelli)",
+    "rate": 5,
+    "hsn": 1902,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Tapioca and substitutes therefor prepared from starch, in the form of flakes, grains, pearls, siftings or in similar forms. (sabudana)",
+    "rate": 5,
+    "hsn": 1903,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Pizza bread",
+    "rate": 5,
+    "hsn": 1905,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Rusks, toasted bread and similar toasted products",
+    "rate": 5,
+    "hsn": "1905 40 00",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Sweetmeats",
+    "rate": 5,
+    "hsn": "2106 90",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Ice and snow",
+    "rate": 5,
+    "hsn": "2201 90 10",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Flours, meals and pellets, of meat or meat offal, of fish or of crustaceans, molluscs or other aquatic invertebrates, unfit for human consumption; greaves",
+    "rate": 5,
+    "hsn": 2301,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Residues of starch manufacture and similar residues, beet-pulp, bagasse and other waste of sugar manufacture, brewing or distilling dregs and waste, whether or not in the form of pellets",
+    "rate": 5,
+    "hsn": 2303,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Oil-cake and other solid residues, whether or not ground or in the form of pellets, resulting from the extraction of soyabean oil [other than aquatic feed including shrimp feed and prawn feed, poultry feed & cattle feed, including grass, hay & straw, supplement & husk of pulses, concentrates & additives, wheat bran & de-oiled cake]",
+    "rate": 5,
+    "hsn": 2304,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Oil-cake and other solid residues, whether or not ground or in the form of pellets, resulting from the extraction of ground-nut oil[other than aquatic feed including shrimp feed and prawn feed, poultry feed & cattle feed, including grass, hay & straw, supplement & husk of pulses, concentrates & additives, wheat bran & de-oiled cake]",
+    "rate": 5,
+    "hsn": 2305,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Oil-cake and other solid residues, whether or not ground or in the form of pellets, resulting from the extraction of vegetable fats or oils, other than those of heading 2304 or 2305[other than aquatic feed including shrimp feed and prawn feed, poultry feed & cattle feed, including grass, hay & straw, supplement & husk of pulses, concentrates & additives, wheat bran & de-oiled cake]",
+    "rate": 5,
+    "hsn": 2306,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Wine lees; argol",
+    "rate": 5,
+    "hsn": 2307,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Tobacco leaves",
+    "rate": 5,
+    "hsn": 2401,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Unroasted iron pyrites.",
+    "rate": 5,
+    "hsn": 2502,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Sulphur of all kinds, other than sublimed sulphur, precipitated sulphur and colloidal sulphur [other than sulphur recovered as by-product in refining of crude oil]",
+    "rate": 5,
+    "hsn": "2503[except 2503 00 10]",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Natural graphite.",
+    "rate": 5,
+    "hsn": 2504,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Natural sands of all kinds, whether or not coloured, other than metal bearing sands of Chapter 26.",
+    "rate": 5,
+    "hsn": 2505,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Quartz (other than natural sands); quartzite, whether or not roughly trimmed or merely cut, by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape.",
+    "rate": 5,
+    "hsn": 2506,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Kaolin and other kaolinic clays, whether or not calcined.",
+    "rate": 5,
+    "hsn": 2507,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other clays (not including expanded clays of heading 6806), andalusite, kyanite and sillimanite, whether or not calcined; mullite; chamotte or dinas earths.",
+    "rate": 5,
+    "hsn": 2508,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Chalk.",
+    "rate": 5,
+    "hsn": 2509,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Natural calcium phosphates, natural aluminium calcium phosphates and phosphatic chalk.",
+    "rate": 5,
+    "hsn": 2510,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Natural barium sulphate (barytes); natural barium carbonate (witherite), whether or not calcined, other than barium oxide of heading 2816.",
+    "rate": 5,
+    "hsn": 2511,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Siliceous fossil meals (for example, kieselguhr, tripolite and diatomite) and similar siliceous earths, whether or not calcined, of an apparent specific gravity of 1 or less.",
+    "rate": 5,
+    "hsn": 2512,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Pumice stone; emery; natural corundum, natural garnet and other natural abrasives, whether or not heat-treated.",
+    "rate": 5,
+    "hsn": 2513,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Slate, whether or not roughly trimmed or merely cut, by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape.",
+    "rate": 5,
+    "hsn": 2514,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Ecaussine and other calcareous monumental or building stone; alabaster [other than marble and travertine]",
+    "rate": 5,
+    "hsn": "2515 [Except 2515 12 10, 2515 12 20, 2515 12 90]",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Porphyry, basalt, sandstone and other monumental or building stone, whether or not roughly trimmed or merely cut, by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape.",
+    "rate": 5,
+    "hsn": "2516 [Except 2516 11 00, 2516 12 00]",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Granite crude or roughly trimmed",
+    "rate": 5,
+    "hsn": "2516 11 00",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Pebbles, gravel, broken or crushed stone, of a kind commonly used for concrete aggregates, for road metalling or for railway or other ballast, shingle and flint, whether or not heat-treated; macadam of slag, dross or similar industrial waste, whether or not incorporating the materials cited in the first part of the heading; tarred macadam; grenules cheeping and powder of stones heading 2515 or 2516 whether or not heat treated.",
+    "rate": 5,
+    "hsn": 2517,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Dolomite, whether or not calcined or sintered, including dolomite roughly trimmed or merely cut, by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape; dolomite ramming mix. 2518 10 dolomite, Not calcined or sintered",
+    "rate": 5,
+    "hsn": 2518,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Natural magnesium carbonate (magnesite); fused magnesia; dead-burned (sintered) magnesia, whether or not containing small quantities of other oxides added before sintering; other magnesium oxide, whether or not pure.",
+    "rate": 5,
+    "hsn": 2519,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Gypsum; anhydrite; plasters (consisting of calcined gypsum or calcium sulphate) whether or not coloured, with or without small quantities of accelerators or retarders.",
+    "rate": 5,
+    "hsn": 2520,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Limestone flux; limestone and other calcareous stone, of a kind used for the manufacture of lime or cement.",
+    "rate": 5,
+    "hsn": 2521,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Quicklime, slaked lime and hydraulic lime, other than calcium oxide and hydroxide of heading 2825.",
+    "rate": 5,
+    "hsn": 2522,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Asbestos",
+    "rate": 5,
+    "hsn": 2524,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Mica, including splitting; mica waste.",
+    "rate": 5,
+    "hsn": 2525,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Natural steatite, whether or not roughly trimmed or merely cut, by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape; talc.",
+    "rate": 5,
+    "hsn": 2526,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Natural borates and concentrates thereof (whether or not calcined), but not including borates separated from natural brine; natural boric acid containing not more than 85% of H3BO3",
+    "rate": 5,
+    "hsn": 2528,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Feldspar; leucite, nepheline and nepheline syenite; fluorspar.",
+    "rate": 5,
+    "hsn": 2529,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Mineral substances not elsewhere specified or included.",
+    "rate": 5,
+    "hsn": 2530,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "All ores and concentrates [other than slag, dross (other than granulated slag), scalings and other waste from the manufacture of iron or steel; slag, ash and residues (other than from the manufacture of iron or steel) containing metals, arsenic or their compounds; other slag and ash, including seaweed ash (kelp); ash and residues from the incineration of municipal waste]",
+    "rate": 5,
+    "hsn": "26 [other than 2619, 2620, 2621]",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Iron ores and concentrates, including roasted iron pyrites",
+    "rate": 5,
+    "hsn": 2601,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Manganese ores and concentrates, including ferruginous manganese ores and concentrates with a manganese content of 20% or more, calculated on the dry weight.",
+    "rate": 5,
+    "hsn": 2602,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Copper ores and concentrates.",
+    "rate": 5,
+    "hsn": 2603,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Nickel ores and concentrates.",
+    "rate": 5,
+    "hsn": 2604,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Cobalt ores and concentrates.",
+    "rate": 5,
+    "hsn": 2605,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Aluminium ores and concentrates.",
+    "rate": 5,
+    "hsn": 2606,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Lead ores and concentrates.",
+    "rate": 5,
+    "hsn": 2607,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Zinc ores and concentrates.",
+    "rate": 5,
+    "hsn": 2608,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Tin ores and concentrates.",
+    "rate": 5,
+    "hsn": 2609,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Chromium ores and concentrates.",
+    "rate": 5,
+    "hsn": 2610,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Tungsten ores and concentrates.",
+    "rate": 5,
+    "hsn": 2611,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Uranium or thorium ores and concentrates.",
+    "rate": 5,
+    "hsn": 2612,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Molybdenum ores and concentrates.",
+    "rate": 5,
+    "hsn": 2613,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Titanium ores and concentrates.",
+    "rate": 5,
+    "hsn": 2614,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Niobium, tantalum, vanadium or zirconium ores and concentrates.",
+    "rate": 5,
+    "hsn": 2615,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Precious metal ores and concentrates.",
+    "rate": 5,
+    "hsn": 2616,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other ores and concentrates",
+    "rate": 5,
+    "hsn": 2617,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Granulated slag (slag sand) from the manufacture of iron or steel",
+    "rate": 5,
+    "hsn": 2618,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Bio-gas",
+    "rate": 5,
+    "hsn": 27,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Coal; briquettes, ovoids and similar solid fuels manufactured from coal",
+    "rate": 5,
+    "hsn": 2701,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Lignite, whether or not agglomerated, excluding jet",
+    "rate": 5,
+    "hsn": 2702,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Peat (including peat litter), whether or not agglomerated",
+    "rate": 5,
+    "hsn": 2703,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Coke and semi coke of coal, of lignite or of peat, whether or not agglomerated; retort carbon",
+    "rate": 5,
+    "hsn": 2704,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Coal gas, water gas, producer gas and similar gases, other than petroleum gases and other gaseous hydrocarbons",
+    "rate": 5,
+    "hsn": 2705,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Tar distilled from coal, from lignite or from peat",
+    "rate": 5,
+    "hsn": 2706,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Kerosene PDS",
+    "rate": 5,
+    "hsn": 2710,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Liquefied Propane and Butane mixture, Liquefied Propane, Liquefied Butane and Liquefied Petroleum Gases (LPG) for supply to household domestic consumers or to non-domestic exempted category (NDEC) customers by the Indian Oil Corporation Limited, Hindustan petroleum Corporation Limited or Bharat Petroleum Corporation Limited.",
+    "rate": 5,
+    "hsn": "2711 12 00, 2711 13 00, 2710 19 00",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Thorium oxalate",
+    "rate": 5,
+    "hsn": 28,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Enriched KBF4 (enriched potassium fluroborate)",
+    "rate": 5,
+    "hsn": 28,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Enriched elemental boron",
+    "rate": 5,
+    "hsn": 28,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Nuclear fuel",
+    "rate": 5,
+    "hsn": 28,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Nuclear grade sodium",
+    "rate": 5,
+    "hsn": "2805 11",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Heavy water and other nuclear fuels",
+    "rate": 5,
+    "hsn": 2845,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Compressed air",
+    "rate": 5,
+    "hsn": 2853,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Insulin",
+    "rate": 5,
+    "hsn": 30,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Animal or Human Blood Vaccines",
+    "rate": 5,
+    "hsn": "3002, 3006",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Diagnostic kits for detection of all types of hepatitis",
+    "rate": 5,
+    "hsn": 30,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Desferrioxamine injection or deferiprone",
+    "rate": 5,
+    "hsn": 30,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Cyclosporin",
+    "rate": 5,
+    "hsn": 30,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Medicaments (including veterinary medicaments) used in bio-chemic systems and not bearing a brand name",
+    "rate": 5,
+    "hsn": 30,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Oral re-hydration salts",
+    "rate": 5,
+    "hsn": 30,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Drugs or medicines including their salts and esters and diagnostic test kits, specified in List 1 appended to this Schedule",
+    "rate": 5,
+    "hsn": 30,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Formulations manufactured from the bulk drugs specified in List 2 appended to this Schedule",
+    "rate": 5,
+    "hsn": 30,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "All goods i.e. animal or vegetable fertilisersor organic fertilisers put up in unit containers and bearing a brand name",
+    "rate": 5,
+    "hsn": 3101,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Wattle extract, quebracho extract, chestnut extract",
+    "rate": 5,
+    "hsn": 32,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Enzymatic preparations for pre-tanning",
+    "rate": 5,
+    "hsn": 3202,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Agarbatti",
+    "rate": 5,
+    "hsn": "3307 41 00",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Sulphonated castor oil, fish oil or sperm oil",
+    "rate": 5,
+    "hsn": 3402,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "(i)        Handmade safety matches Explanation.– For the purposes of this entry, handmade matches mean matches, in or in relation to the manufacture of which, none of the following processes is ordinarily carried on with the aid of power, namely: - frame filling;  dipping of splints in the composition for match heads; filling of boxes with matches; pasting of labels on match boxes, veneers or cardboards;  packaging",
+    "rate": 5,
+    "hsn": "3605 00 10",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Natural rubber, balata, gutta-percha, guayule, chicle and similar natural gums, in primary forms or in plates, sheets or strip",
+    "rate": 5,
+    "hsn": 4001,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Toy balloons made of natural rubber latex",
+    "rate": 5,
+    "hsn": 4016,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Pneumatic tyres or inner tubes, of rubber, of a kind used on / in bicycles, cycle -rickshaws and three wheeled powered cycle rickshaws",
+    "rate": 5,
+    "hsn": "4011, 4013",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Erasers",
+    "rate": 5,
+    "hsn": 4016,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Raw hides and skins of bovine (including buffalo) or equine animals (fresh, or salted, dried, limed, pickled or otherwise preserved, but not tanned, parchment-dressed or further prepared), whether or not dehaired or split",
+    "rate": 5,
+    "hsn": 4101,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Raw skins of sheep or lambs (fresh, or salted, dried, limed, pickled or otherwise preserved, but not tanned, parchment-dressed or further prepared), whether or not with wool on or split",
+    "rate": 5,
+    "hsn": 4102,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other raw hides and skins (fresh, or salted, dried, limed, pickled or otherwise preserved, but not tanned, parchment-dressed or further prepared), whether or not dehaired or split",
+    "rate": 5,
+    "hsn": 4103,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Tanned or crust hides and skins of bovine (including buffalo) or equine animals, without hair on, whether or not split, but not further prepared",
+    "rate": 5,
+    "hsn": 4104,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Tanned or crust skins of sheep or lambs, without wool on, whether or not split, but not further prepared",
+    "rate": 5,
+    "hsn": 4105,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Tanned or crust hides and skins of other animals, without wool or hair on, whether or not split, but not further prepared",
+    "rate": 5,
+    "hsn": 4106,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Wood in chips or particles; sawdust and wood waste and scrap, whether or not agglomerated in logs, briquettes, pellets or similar forms",
+    "rate": 5,
+    "hsn": 4401,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Newsprint, in rolls or sheets",
+    "rate": 5,
+    "hsn": 4801,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Kites",
+    "rate": 5,
+    "hsn": 4823,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Brochures, leaflets and similar printed matter, whether or not in single sheets",
+    "rate": 5,
+    "hsn": 4901,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Silk yarn",
+    "rate": 5,
+    "hsn": "5004 to 5006",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Woven fabrics of silk or of silk waste",
+    "rate": 5,
+    "hsn": 5007,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Garneted stock of wool or of fine or coarse animal hair, shoddy wool",
+    "rate": 5,
+    "hsn": 5104,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Wool and fine or coarse animal hair, carded or combed",
+    "rate": 5,
+    "hsn": 5105,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Yarn of wool or of animal hair",
+    "rate": 5,
+    "hsn": "5106 to 5110",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Woven fabrics of wool or of animal hair",
+    "rate": 5,
+    "hsn": "5111 to 5113",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Cotton and Cotton waste",
+    "rate": 5,
+    "hsn": "5201 to 5203",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Cotton sewing thread, whether or not put up for retail sale",
+    "rate": 5,
+    "hsn": 5204,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Cotton yarn [other than khadi yarn]",
+    "rate": 5,
+    "hsn": "5205 to 5207",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Woven fabrics of cotton",
+    "rate": 5,
+    "hsn": "5208 to 5212",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "All goods i.e. flax, raw or processed but not spun; flax tow and waste (including yarn waste and garneted stock)",
+    "rate": 5,
+    "hsn": 5301,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "True hemp (Cannabis sativa L), raw or processed but not spun; tow and waste of true hemp (including yarn waste and garneted stock)",
+    "rate": 5,
+    "hsn": 5302,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "All goods i.e. textile bast fibres [other than jute fibres, raw or processed but not spun]; tow and waste of these fibres (including yarn waste and garneted stock)",
+    "rate": 5,
+    "hsn": 5303,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "All goods [other than coconut coir fibre] including yarn of flax, jute, other textile bast fibres, other vegetable textile fibres; paper yarn",
+    "rate": 5,
+    "hsn": "5305 to 5308",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Woven fabrics of other vegetable textile fibres, paper yarn",
+    "rate": 5,
+    "hsn": "5309 to 5311",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Woven fabrics of manmade textile materials",
+    "rate": 5,
+    "hsn": "5407, 5408",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Woven fabrics of manmade staple fibres",
+    "rate": 5,
+    "hsn": "5512 to 5516",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Coir mats, matting and floor covering",
+    "rate": 5,
+    "hsn": 5705,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Embroidery or zari articles, that is to say,- imi, zari, kasab, saima, dabka, chumki, gotasitara, naqsi, kora, glass beads, badla, glzal",
+    "rate": 5,
+    "hsn": "5809, 5810",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Knitted or crocheted fabrics [All goods]",
+    "rate": 5,
+    "hsn": 60,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Articles of apparel and clothing accessories, knitted or crocheted, of sale value not exceeding Rs. 1000 per piece",
+    "rate": 5,
+    "hsn": 61,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Articles of apparel and clothing accessories, not knitted or crocheted, of sale value not exceeding Rs. 1000 per piece",
+    "rate": 5,
+    "hsn": 62,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other made up textile articles, sets, worn clothing and worn textile articles and rags, of sale value not exceeding Rs. 1000 per piece",
+    "rate": 5,
+    "hsn": 63,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Footwear having a retail sale price not exceeding Rs.500 per pair, provided that such retail sale price is indelibly marked or embossed on the footwear itself.",
+    "rate": 5,
+    "hsn": 64,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Bricks of fossil meals or similar siliceous earths",
+    "rate": 5,
+    "hsn": "6901 00 10",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Building bricks",
+    "rate": 5,
+    "hsn": "6904 10 00",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Earthen or roofing tiles",
+    "rate": 5,
+    "hsn": "6905 10 00",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Glass beads.",
+    "rate": 5,
+    "hsn": 7018,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Pawan Chakki that is Air Based Atta Chakki",
+    "rate": 5,
+    "hsn": 84,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Hand pumps and parts thereof",
+    "rate": 5,
+    "hsn": "8413, 8413 91",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Solar water heater and system",
+    "rate": 5,
+    "hsn": "8419 19",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Machines for cleaning, sorting or grading, seed, grain or dried leguminous vegetables; machinery used in milling industry or for the working of cereals or dried leguminous vegetables other than farm type machinery and parts thereof",
+    "rate": 5,
+    "hsn": 8437,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "(a)    Following renewable energy devices & parts for their manufacture Bio-gas plant Solar power based devices Solar power generating system Wind mills, Wind Operated Electricity Generator (WOEG) Waste to energy plants / devices Solar lantern / solar lamp Ocean waves/tidal waves energy devices/plants",
+    "rate": 5,
+    "hsn": "84 or 85",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Rail locomotives powered from an external source of electricity or by electric accumulators",
+    "rate": 5,
+    "hsn": 8601,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other rail locomotives; locomotive tenders; such as Diesel-electric locomotives, Steam locomotives and tenders thereof",
+    "rate": 5,
+    "hsn": 8602,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Self-propelled railway or tramway coaches, vans and trucks, other than those of heading 8604",
+    "rate": 5,
+    "hsn": 8603,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Railway or tramway maintenance or service vehicles, whether or not self-propelled (for example, workshops, cranes, ballast tampers, trackliners, testing coaches and track inspection vehicles)",
+    "rate": 5,
+    "hsn": 8604,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Railway or tramway passenger coaches, not self-propelled; luggage vans, post office coaches and other special purpose railway or tramway coaches, not self-propelled (excluding those of heading 8604)",
+    "rate": 5,
+    "hsn": 8605,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Railway or tramway goods vans and wagons, not self-propelled",
+    "rate": 5,
+    "hsn": 8606,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Parts of railway or tramway locomotives or rolling-stock; such as Bogies, bissel-bogies, axles and wheels, and parts thereof",
+    "rate": 5,
+    "hsn": 8607,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Railway or tramway track fixtures and fittings; mechanical (including electro-mechanical) signalling, safety or traffic control equipment for railways, tramways, roads, inland waterways, parking facilities, port installations or airfields; parts of the foregoing",
+    "rate": 5,
+    "hsn": 8608,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Carriages for disabled persons, whether or not motorised or otherwise mechanically propelled",
+    "rate": 5,
+    "hsn": 8713,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other aircraft (for example, helicopters, aeroplanes), other than those for personal use.",
+    "rate": 5,
+    "hsn": 8802,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Parts of goods of heading 8802",
+    "rate": 5,
+    "hsn": 8803,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Cruise ships, excursion boats, ferry-boats, cargo ships, barges and similar vessels for the transport of persons or goods",
+    "rate": 5,
+    "hsn": 8901,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Fishing vessels; factory ships and other vessels for processing or preserving fishery products",
+    "rate": 5,
+    "hsn": 8902,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Tugs and pusher craft",
+    "rate": 5,
+    "hsn": 8904,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Light-vessels, fire-floats, dredgers, floating cranes and other vessels the navigability of which is subsidiary to their main function; floating docks; floating or submersible drilling or production platforms",
+    "rate": 5,
+    "hsn": 8905,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other vessels, including warships and lifeboats other than rowing boats",
+    "rate": 5,
+    "hsn": 8906,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other floating structures (for example, rafts, tanks, coffer-dams, landing-stages, buoys and beacons)",
+    "rate": 5,
+    "hsn": 8907,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Parts of goods of headings 8901, 8902, 8904, 8905, 8906, 8907",
+    "rate": 5,
+    "hsn": "Any chapter",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Coronary stents and coronary stent systems for use with cardiac catheters",
+    "rate": 5,
+    "hsn": 90,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Artificial kidney",
+    "rate": 5,
+    "hsn": "90 or any other Chapter",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Disposable sterilized dialyzer or micro barrier of artificial kidney",
+    "rate": 5,
+    "hsn": "90 or 84",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "(i)                 Parts of the following goods, namely:-  Crutches;  Wheel chairs;  Walking frames;  Tricycles;  Braillers; and  Artificial limbs",
+    "rate": 5,
+    "hsn": "90 or any other Chapter",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Assistive devices, rehabilitation aids and other goods for disabled, specified in List 3 appended to this Schedule",
+    "rate": 5,
+    "hsn": "90 or any other Chapter",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Kerosene pressure lantern",
+    "rate": 5,
+    "hsn": "9405 50 31",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Parts of kerosene pressure lanterns including gas mantles",
+    "rate": 5,
+    "hsn": "9405 91 00, 9405 92 00 or 9405 99 00",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Broomsticks",
+    "rate": 5,
+    "hsn": "9603 10 00",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Postage or revenue stamps, stamp-postmarks, first-day covers, postal stationery (stamped paper), and the like, used or unused, other than those of heading 4907",
+    "rate": 5,
+    "hsn": 9704,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Numismatic coins",
+    "rate": 5,
+    "hsn": 9705,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Drugs or medicines including their salts and esters and diagnostic test kits specified at S.No.180 above and Formulations specified at S.No.181 above, intended for personal use.",
+    "rate": 5,
+    "hsn": 9804,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Mineral or chemical fertilisers, nitrogenous, other than those which are clearly not to be used as fertilizers",
+    "rate": 5,
+    "hsn": 3102,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Mineral or chemical fertilisers, phosphatic, other than those which are clearly not to be used as fertilizers",
+    "rate": 5,
+    "hsn": 3103,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Mineral or chemical fertilisers, potassic, other than those which are clearly not to be used as fertilizers",
+    "rate": 5,
+    "hsn": 3104,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Mineral or chemical fertilisers containing two or three of the fertilising elements nitrogen, phosphorus and potassium; other fertilisers; goods of this Chapter in tablets or similar forms or in packages of a gross weight not exceeding 10 kg, other than those which are clearly not to be used as fertilizers",
+    "rate": 5,
+    "hsn": 3105,
+    "lang": 1
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "type": "service",
+    "description": "(viii) Accommodation in hotels including five star hotels, inns, guest houses, clubs, campsites or other commercial places meant for residential or lodging purposes having declared tariff of a unit of accommodation of seven thousand and five hundred rupees and above per unit per day or equivalent.\nExplanation.-“declared tariff ” includes charges for all amenities provided in the unit of accommodation (given on rent for stay) like furniture, air conditioner, refrigerators or any other amenities, but without excluding any discount offered on the published charges for such unit.",
+    "rate": 28,
+    "hsn": "Heading  9963",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "(iii) Services by way of admission to entertainment events or access to amusement facilities including exhibition of cinematograph films, theme parks, water parks, joy rides, merry-go rounds, go-carting, casinos, race-course, ballet, any sporting event such as Indian Premier League and the like. \n(iv) Services provided by a race club by way of totalisator or a license to bookmaker in such club.\n(v) Gambling.",
+    "rate": 28,
+    "hsn": "Heading  9996",
+    "lang": 1
+  }
+]

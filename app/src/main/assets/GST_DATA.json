@@ -1,0 +1,695 @@
+[
+  {
+    "type": "goods",
+    "description": "Fish, frozen, excluding fish fillets and other fish meat of heading 0304",
+    "rate": 5,
+    "hsn": 303,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Fish fillets and other fish meat (whether or not minced), frozen",
+    "rate": 5,
+    "hsn": 304,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Fish, dried, salted or in brine; smoked fish, whether or not cooked before or during the smoking process; flours, meals and pellets of fish, fit for human consumption",
+    "rate": 5,
+    "hsn": 305,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Crustaceans, whether in shell or not, frozen, dried, salted or in brine; crustaceans, in shell, cooked by steaming or by boiling in water, frozen, dried, salted or in brine; flours, meals and pellets of crustaceans, fit for human consumption",
+    "rate": 5,
+    "hsn": 306,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Molluscs, whether in shell or not, frozen, dried, salted or in brine; aquatic invertebrates other than crustaceans and molluscs, frozen, dried, salted or in brine; flours, meals and pellets of aquatic invertebra other than crustaceans, fit for human consumption",
+    "rate": 5,
+    "hsn": 307,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Aquatic invertebrates other than crustaceans and molluscs, frozen, dried, salted or in brine; smoked aquatic invertebrates other than crustaceans and molluscs, whether or not cooked before or during the smoking process: flours, meals and pellets of aquatic invertebrates other than crustaceans and molluscs, fit for human consumption",
+    "rate": 5,
+    "hsn": 308,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Ultra High Temperature (UHT) milk",
+    "rate": 5,
+    "hsn": 401,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Milk and cream, concentrated or containing added sugar or other sweetening matter, including skimmed milk powder, milk food for babies [other than condensed milk]",
+    "rate": 5,
+    "hsn": 402,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Cream, yogurt, kephir and other fermented or acidified milk and cream, whether or not concentrated or containing added sugar or other sweetening matter or flavoured or containing added fruit, nuts or cocoa",
+    "rate": 5,
+    "hsn": 403,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Whey, whether or not concentrated or containing added sugar or other sweetening matter; products consisting of natural milk constituents, whether or not containing added sugar or other sweetening matter, not elsewhere specified or included",
+    "rate": 5,
+    "hsn": 404,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Chena or paneer put up in unit container and bearing a registered brand name",
+    "rate": 5,
+    "hsn": 406,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Birds' eggs, not in shell, and egg yolks, fresh, dried, cooked by steaming or by boiling in water, moulded, frozen or otherwise preserved, whether or not containing added sugar or other sweetening matter.",
+    "rate": 5,
+    "hsn": 408,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Natural honey, put up in unit container and bearing a registered brand name",
+    "rate": 5,
+    "hsn": 409,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Edible products of animal origin, not elsewhere specified or included",
+    "rate": 5,
+    "hsn": 410,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Pigs', hogs' or boars' bristles and hair; badger hair and other brush making hair; waste of such bristles or hair.",
+    "rate": 5,
+    "hsn": 502,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Guts, bladders and stomachs of animals (other than fish), whole and pieces thereof, fresh, chilled, frozen, salted, in brine, dried or smoked.",
+    "rate": 5,
+    "hsn": 504,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Skins and other parts of birds, with their feathers or down, feathers and parts of feathers (whether or not with trimmed edges) and down, not further worked than cleaned, disinfected or treated for preservation; powder and waste of feathers or parts of feathers",
+    "rate": 5,
+    "hsn": 505,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Ivory, tortoise-shell, whalebone and whalebone hair, horns, unworked or simply prepared but not cut to shape; powder and waste of these products.",
+    "rate": 5,
+    "hsn": "0507[Except 050790]",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Coral and similar materials, unworked or simply prepared but not otherwise worked; shells of molluscs, crustaceans or echinoderms and cuttle-bone, unworked or simply prepared but not cut to shape, powder and waste thereof.",
+    "rate": 5,
+    "hsn": 508,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Ambergris, castoreum, civet and musk; cantharides; bile, whether or not dried; glands and other animal products used in the preparation of pharmaceutical products, fresh, chilled, frozen or otherwise provisionally preserved.",
+    "rate": 5,
+    "hsn": 510,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Animal products not elsewhere specified or included; dead animals of Chapter 1 or 3, unfit for human consumption, other than semen including frozen semen.",
+    "rate": 5,
+    "hsn": 511,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Herb, bark, dry plant, dry root, commonly known as jaribooti and dry flower",
+    "rate": 5,
+    "hsn": 7,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Vegetables (uncooked or cooked by steaming or boiling in water), frozen",
+    "rate": 5,
+    "hsn": 710,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Vegetables provisionally preserved (for example, by sulphur dioxide gas, in brine, in sulphur water or in other preservative solutions), but unsuitable in that state for immediate consumption",
+    "rate": 5,
+    "hsn": 711,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Dried leguminous vegetables, shelled, whether or not skinned or split [put up in unit container and bearing a registered brand name]",
+    "rate": 5,
+    "hsn": 713,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Manioc, arrowroot, salep, Jerusalem artichokes, sweet potatoes and similar roots and tubers with high starch or inulin content, frozen or dried, whether or not sliced or in the form of pellets",
+    "rate": 5,
+    "hsn": 714,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Cashew nuts, whether or not shelled or peeled",
+    "rate": 5,
+    "hsn": 801,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Dried areca nuts, whether or not shelled or peeled",
+    "rate": 5,
+    "hsn": 802,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Dried chestnuts (singhada), whether or not shelled or peeled",
+    "rate": 5,
+    "hsn": 802,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Dried makhana, whether or not shelled or peeled",
+    "rate": 5,
+    "hsn": 8,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Grapes, dried, and raisins",
+    "rate": 5,
+    "hsn": 806,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Fruit and nuts, uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter",
+    "rate": 5,
+    "hsn": 811,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Fruit and nuts, provisionally preserved (for example, by sulphur dioxide gas, in brine, in sulphur water or in other preservative solutions), but unsuitable in that state for immediate consumption",
+    "rate": 5,
+    "hsn": 812,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Peel of citrus fruit or melons (including watermelons), frozen, dried or provisionally preserved in brine, in sulphur water or in other preservative solutions",
+    "rate": 5,
+    "hsn": 814,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Coffee, whether or not roasted or decaffeinated; coffee husks and skins; coffee substitutes containing coffee in any proportion [other than coffee beans not roasted]",
+    "rate": 5,
+    "hsn": 901,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Tea, whether or not flavoured [other than unprocessed green leaves of tea]",
+    "rate": 5,
+    "hsn": 902,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Maté",
+    "rate": 5,
+    "hsn": 903,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Pepper of the genus Piper; dried or crushed or ground fruits of the genus Capsicum or of the genus Pimenta",
+    "rate": 5,
+    "hsn": 904,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Vanilla",
+    "rate": 5,
+    "hsn": 905,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Cinnamon and cinnamon-tree flowers",
+    "rate": 5,
+    "hsn": 906,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Cloves (whole fruit, cloves and stems)",
+    "rate": 5,
+    "hsn": 907,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Nutmeg, mace and cardamoms",
+    "rate": 5,
+    "hsn": 908,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Seeds of anise, badian, fennel, coriander, cumin or caraway; juniper berries [other than of seed quality]",
+    "rate": 5,
+    "hsn": 909,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Ginger other than fresh ginger, saffron, turmeric (curcuma) other than fresh turmeric, thyme, bay leaves, curry and other spices",
+    "rate": 5,
+    "hsn": "0910 [other than 0910 11 10, 0910 30 10]",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "All goods i.e. cereals, put up in unit container and bearing a registered brand name",
+    "rate": 5,
+    "hsn": 10,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Wheat and meslin put up in unit container and bearing a registered brand name",
+    "rate": 5,
+    "hsn": 1001,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Rye put up in unit container and bearing a registered brand name",
+    "rate": 5,
+    "hsn": 1002,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Barley put up in unit container and bearing a registered brand name",
+    "rate": 5,
+    "hsn": 1003,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Oats put up in unit container and bearing a registered brand name",
+    "rate": 5,
+    "hsn": 1004,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Maize (corn) put up in unit container and bearing a registered brand name",
+    "rate": 5,
+    "hsn": 1005,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Rice put up in unit container and bearing a registered brand name",
+    "rate": 5,
+    "hsn": 1006,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Grain sorghum put up in unit container and bearing a registered brand name",
+    "rate": 5,
+    "hsn": 1007,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Buckwheat, millet and canary seed; other cereals such as Jawar, Bajra, Ragi] put up in unit container and bearing a registered brand name",
+    "rate": 5,
+    "hsn": 1008,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Wheat or meslin flour put up in unit container and bearing a registered brand name.",
+    "rate": 5,
+    "hsn": 1101,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Cereal flours other than of wheat or meslin i.e. maize (corn) flour, Rye flour, etc. put up in unit container and bearing a registered brand name",
+    "rate": 5,
+    "hsn": 1102,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Cereal groats, meal and pellets, including suji and dalia, put up in unit container and bearing a registered brand name",
+    "rate": 5,
+    "hsn": 1103,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Cereal grains otherwise worked (for example, rolled, flaked, pearled, sliced or kibbled), except rice of heading 1006; germ of cereals, whole, rolled, flaked or ground [other than hulled cereal grains]",
+    "rate": 5,
+    "hsn": 1104,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Meal, powder, flakes, granules and pellets of potatoes put up in unit container and bearing a registered brand name",
+    "rate": 5,
+    "hsn": 1105,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Meal and powder of the dried leguminous vegetables of heading 0713 (pulses) [other than guar meal 1106 10 10 and guar gum refined split 1106 10 90], of sago or of roots or tubers of heading 0714 or of the products of Chapter 8, put up in unit container and bearing a registered brand name",
+    "rate": 5,
+    "hsn": 1106,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Guar meal",
+    "rate": 5,
+    "hsn": "1106 10 10",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Guar gum refined split",
+    "rate": 5,
+    "hsn": "1106 10 90",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Wheat gluten, whether or not dried",
+    "rate": 5,
+    "hsn": "1109 00 00",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "All goods other than of seed quality",
+    "rate": 5,
+    "hsn": 12,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Soya beans, whether or not broken other than of seed quality.",
+    "rate": 5,
+    "hsn": 1201,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Ground-nuts, not roasted or otherwise cooked, whether or not shelled or broken other than of seed quality.",
+    "rate": 5,
+    "hsn": 1202,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Copra other than of seed quality",
+    "rate": 5,
+    "hsn": 1203,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Linseed, whether or not broken other than of seed quality.",
+    "rate": 5,
+    "hsn": 1204,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Rape or colza seeds, whether or not broken other than of seed quality.",
+    "rate": 5,
+    "hsn": 1205,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Sunflower seeds, whether or not broken other than of seed quality",
+    "rate": 5,
+    "hsn": 1206,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other oil seeds and oleaginous fruits (i.e. Palm nuts and kernels, cotton seeds, Castor oil seeds, Sesamum seeds, Mustard seeds, Saffower (Carthamustinctorius) seeds, Melon seeds, Poppy seeds, Ajams, Mango kernel, Niger seed, Kokam) whether or not broken, other than of seed quality",
+    "rate": 5,
+    "hsn": 1207,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Flour and meals of oil seeds or oleaginous fruits, other than those of mustard",
+    "rate": 5,
+    "hsn": 1208,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Hop cones, dried, whether or not ground, powdered or in the form of pellets; lupulin",
+    "rate": 5,
+    "hsn": 1210,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Plants and parts of plants (including  seeds and fruits), of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purpose, frozen or dried, whether or not cut, crushed or powdered",
+    "rate": 5,
+    "hsn": 1211,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Locust beans, seaweeds and other algae, sugar beet and sugar cane, frozen or dried, whether or not ground; fruit stones and kernels and other vegetable products (including unroasted chicory roots of the variety Cichoriumintybussativum) of a kind used primarily for human consumption, not elsewhere specified or included",
+    "rate": 5,
+    "hsn": 1212,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Natural gums, resins, gum-resins and oleoresins (for example, balsams) [other than lac and shellac]",
+    "rate": 5,
+    "hsn": 1301,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Compounded asafoetida commonly known as heeng",
+    "rate": 5,
+    "hsn": 1301,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Vegetable materials of a kind used primarily for plaiting (for example, bamboos, rattans, reeds, rushes, osier, raffia, cleaned, bleached or dyed cereal straw, and lime bark)",
+    "rate": 5,
+    "hsn": 1401,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Vegetable products not elsewhere specified or included such as cotton linters, Cotton linters, Soap nuts, Hard seeds, pips, hulls and nuts, of a kind used primarily for carving, coconut shell, unworked, Rudraksha seeds [other than bidi wrapper leaves (tendu), betel leaves, Indian katha]",
+    "rate": 5,
+    "hsn": "1404 [other than 1404 90 10, 1404 90 40, 1404 90 50]",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Soya-bean oil and its fractions, whether or not refined, but not chemically modified",
+    "rate": 5,
+    "hsn": 1507,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Ground-nut oil and its fractions, whether or not refined, but not chemically modified.",
+    "rate": 5,
+    "hsn": 1508,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Olive oil and its fractions, whether or not refined, but not chemically modified.",
+    "rate": 5,
+    "hsn": 1509,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other oils and their fractions, obtained solely from olives, whether or not refined, but not chemically modified, including blends of these oils or fractions with oils or fractions of heading 1509",
+    "rate": 5,
+    "hsn": 1510,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Palm oil and its fractions, whether or not refined, but not chemically modified.",
+    "rate": 5,
+    "hsn": 1511,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Sunflower-seed, safflower or cotton-seed oil and fractions thereof, whether or not refined, but not chemically modified.",
+    "rate": 5,
+    "hsn": 1512,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Coconut (copra), palm kernel or babassu oil and fractions thereof, whether or not refined, but not chemically modified.",
+    "rate": 5,
+    "hsn": 1513,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Rape, colza or mustard oil and fractions thereof, whether or not refined, but not chemically modified.",
+    "rate": 5,
+    "hsn": 1514,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other fixed vegetable fats and oils (including jojoba oil) and their fractions, whether or not refined, but not chemically modified.",
+    "rate": 5,
+    "hsn": 1515,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Vegetable fats and oils and their fractions, partly or wholly hydrogenated, inter-esterified, re-esterified or elaidinised, whether or not refined, but not further prepared.",
+    "rate": 5,
+    "hsn": 1516,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Edible mixtures or preparations of  vegetable fats or vegetable oils or of fractions of different vegetable fats or vegetable oils of this Chapter, other than edible fats or oils or their fractions of heading 1516",
+    "rate": 5,
+    "hsn": 1517,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Vegetable fats and oils and their fractions, boiled, oxidised, dehydrated, sulphurised, blown, polymerised by heat in vacuum or in inert gas or otherwise chemically modified, excluding those of heading 1516",
+    "rate": 5,
+    "hsn": 1518,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Beet sugar, cane sugar, khandsari sugar",
+    "rate": 5,
+    "hsn": 1701,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Palmyra sugar",
+    "rate": 5,
+    "hsn": 1702,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Cocoa beans whole or broken, raw or roasted",
+    "rate": 5,
+    "hsn": 1801,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Cocoa shells, husks, skins and other cocoa waste",
+    "rate": 5,
+    "hsn": 1802,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Cocoa paste whether or not de-fatted",
+    "rate": 5,
+    "hsn": 1803,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Mixes and doughs for the preparation of bread, pastry and other baker's wares",
+    "rate": 5,
+    "hsn": "1901 20 00",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Seviyan (vermicelli)",
+    "rate": 5,
+    "hsn": 1902,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Tapioca and substitutes therefor prepared from starch, in the form of flakes, grains, pearls, siftings or in similar forms. (sabudana)",
+    "rate": 5,
+    "hsn": 1903,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Pizza bread",
+    "rate": 5,
+    "hsn": 1905,
+    "lang": 1
+  }
+]

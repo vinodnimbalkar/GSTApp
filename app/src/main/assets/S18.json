@@ -1,0 +1,219 @@
+[
+  {
+    "type": "service",
+    "description": "(i) Construction of a complex, building, civil structure or a part thereof, including a complex or building intended for sale to a buyer, wholly or partly, except where the entire consideration has been received after issuance of completion certificate, where required, by the competent authority or after its first occupation, whichever is earlier. \n(Provisions of paragraph 2 of this notification shall apply for valuation of this service)\n(ii) composite supply of works contract as defined in clause 119 of section 2 of Central Goods and Services Tax Act, 2017.\n(iii) construction services other than (i) and (ii) above.",
+    "rate": 18,
+    "hsn": "Heading 9954 (Construction services)",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services in wholesale trade.\nExplanation-This  service does not include sale or purchase of goods but includes:\n– Services of commission agents, commodity brokers, and auctioneers and all other traders who negotiate whole sale commercial transactions between buyers and sellers, for a fee or commission’\n– Services of electronic whole sale agents and brokers,\n– Services of whole sale auctioning houses.",
+    "rate": 18,
+    "hsn": "Heading  9961",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services in retail trade.\nExplanation- This service does not include sale or purchase of goods",
+    "rate": 18,
+    "hsn": "Heading  9962",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "(iii) Supply, by way of or as part of any service or in any other manner whatsoever, of goods, being food or any other article for human consumption or any drink, where such supply or service is for cash, deferred payment or other valuable consideration, provided by a restaurant, eating joint including mess, canteen, having licence or permit or by whatever name called to serve alcoholic liquor for human consumption.\n(iv) Supply, by way of or as part of any service or in any other manner whatsoever, of goods, being food or any other article for human consumption or any drink, where such supply or service is for cash, deferred payment or other valuable consideration, provided by a restaurant, eating joint including mess, canteen, having the facility of air-conditioning or central air-heating in any part of the establishment, at any time during the year.\n(v) Supply, by way of or as part of any service or in any other manner whatsoever in outdoor catering wherein goods, being food or any other article for human consumption or any drink (whether or not alcoholic liquor for human consumption), as a part of such outdoor catering and such supply or service is for cash, deferred payment or other valuable consideration.\n(vi) Accommodation in hotels, inns, guest houses, clubs, campsites or other commercial places meant for residential or lodging purposes having declared tariff of a unit of accommodation of two thousand five hundred rupees and above but less than seven thousand five hundred rupees per unit per day or equivalent.\nExplanation.- “declared tariff” includes charges for all amenities provided in the unit of accommodation (given on rent for stay) like furniture, air conditioner, refrigerators or any other amenities, but without excluding any discount offered on the published charges for such unit.\n(vii) Supply, by way of or as part of any service or in any other manner whatsoever, of goods, including but not limited to food or any other article for human consumption or any drink (whether or not alcoholic liquor for human consumption), where such supply or service is for cash, deferred payment or other valuable consideration, in a premises (including hotel, convention center, club, pandal, shamiana or any other place, specially arranged for organising a function) together with renting of such premises.\"\n(ix) Accommodation, food and beverage services other than (i), (ii), (iii), (iv), (v), (vi), (vii) and (viii) above.",
+    "rate": 18,
+    "hsn": "Heading  9963",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "(vii) Passenger transport services other than (i), (ii), (iii), (iv), (v) and (vi) above.",
+    "rate": 18,
+    "hsn": "Heading  9964",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "(v) Goods transport services other than (i), (ii), (iii) and (iv) above.",
+    "rate": 18,
+    "hsn": "Heading  9965",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "(ii) Rental services of transport vehicles with or without operators, other than (i)  above.",
+    "rate": 18,
+    "hsn": "Heading  9966",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "(ii) Supporting services in transport other than (i) above.",
+    "rate": 18,
+    "hsn": "Heading 9967",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Postal and courier services.",
+    "rate": 18,
+    "hsn": "Heading  9968",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Electricity, gas, water and other distribution services.",
+    "rate": 18,
+    "hsn": "Heading 9969",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "(v) Financial and related services other than (i), (ii), (iii) and (iv) above.",
+    "rate": 18,
+    "hsn": "Heading 9971",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Real estate services.",
+    "rate": 18,
+    "hsn": "Heading 9972",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "(ii) Temporary or permanent transfer or permitting the use or enjoyment of Intellectual Property (IP) right in respect of Information Technology software. \n[Please refer to Explanation no. (v)]",
+    "rate": 18,
+    "hsn": "Heading 9973",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Research and development services.",
+    "rate": 18,
+    "hsn": "Heading 9981",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Legal and accounting services.",
+    "rate": 18,
+    "hsn": "Heading 9982",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "(ii) Other professional, technical and business services other than (i) above.",
+    "rate": 18,
+    "hsn": "Heading 9983",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Telecommunications, broadcasting and information supply services.",
+    "rate": 18,
+    "hsn": "Heading 9984",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "(ii) Support services other than (i) above",
+    "rate": 18,
+    "hsn": "Heading  9985",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "(ii) Support services to mining, electricity, gas and water distribution.",
+    "rate": 18,
+    "hsn": "Heading 9986",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Maintenance, repair and installation (except construction) services.",
+    "rate": 18,
+    "hsn": "Heading 9987",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "(ii) Manufacturing services on physical inputs (goods) owned by others, other than (i) above.",
+    "rate": 18,
+    "hsn": "Heading 9988",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Other manufacturing services; publishing, printing and reproduction services; materials recovery services.",
+    "rate": 18,
+    "hsn": "Heading 9989",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Public administration and other services provided to the community as a whole; compulsory social security services.",
+    "rate": 18,
+    "hsn": "Heading  9991",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Education services.",
+    "rate": 18,
+    "hsn": "Heading  9992",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Human health and social care services.",
+    "rate": 18,
+    "hsn": "Heading  9993",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Sewage and waste collection, treatment and disposal and other environmental protection services.",
+    "rate": 18,
+    "hsn": "Heading 9994",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services of membership organisations.",
+    "rate": 18,
+    "hsn": "Heading 9995",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "(i) Services by way of admission or access to circus, Indian classical dance including folk dance, theatrical performance, drama.\n(ii) Services by way of admission exhibition of cinematograph films where price of admission ticket is one hundred rupees or less.\n(vi) Recreational, cultural and sporting services other than (i), (ii), (iii), (iv) and (v) above.",
+    "rate": 18,
+    "hsn": "Heading  9996",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Other services (washing, cleaning and dyeing services; beauty and physical well-being services; and other miscellaneous services including services nowhere else classified).",
+    "rate": 18,
+    "hsn": "Heading 9997",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Domestic services.",
+    "rate": 18,
+    "hsn": "Heading  9998",
+    "lang": 1
+  },
+  {
+    "type": "service",
+    "description": "Services provided by extraterritorial organisations and bodies.",
+    "rate": 18,
+    "hsn": "Heading  9999",
+    "lang": 1
+  }
+]

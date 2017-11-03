@@ -1,0 +1,3173 @@
+[
+  {
+    "type": "goods",
+    "description": "Condensed milk",
+    "rate": 18,
+    "hsn": "0402 91 10,  0402 99 20",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Malt, whether or not roasted",
+    "rate": 18,
+    "hsn": 1107,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Vegetable saps and extracts; pectic substances, pectinates and pectates; agar-agar and other mucilages and thickeners, whether or not modified, derived from vegetable products.",
+    "rate": 18,
+    "hsn": 1302,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Bidi wrapper leaves (tendu)",
+    "rate": 18,
+    "hsn": "1404 90 10",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Indian katha",
+    "rate": 18,
+    "hsn": "1404 90 50",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "All goods i.e. Margarine, Linoxyn",
+    "rate": 18,
+    "hsn": "1517 10",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Glycerol, crude; glycerol waters and glycerol lyes",
+    "rate": 18,
+    "hsn": "1520 00 00",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Vegetable waxes (other than triglycerides), Beeswax, other insect waxes and spermaceti, whether or not refined or coloured",
+    "rate": 18,
+    "hsn": 1521,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Degras, residues resulting from the treatment of fatty substances or animal or vegetable waxes",
+    "rate": 18,
+    "hsn": 1522,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "All goods, including refined sugar containing added flavouring or colouring matter, sugar cubes",
+    "rate": 18,
+    "hsn": "1701 91, 1701 99",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other sugars, including chemically pure lactose, maltose, glucose and fructose, in solid form; sugar syrups not containing added flavouring or colouring matter; artificial honey, whether or not mixed with natural honey; caramel [other than palmyra sugar and Palmyra jaggery]",
+    "rate": 18,
+    "hsn": 1702,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Sugar confectionery (excluding white chocolate and bubble / chewing gum) [other than bura, batasha]",
+    "rate": 18,
+    "hsn": 1704,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Preparations suitable for infants or young children, put up for retail sale",
+    "rate": 18,
+    "hsn": 1901,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Pasta, whether or not cooked or stuffed (with meat or other substances) or otherwise prepared, such as spaghetti, macaroni, noodles, lasagne, gnocchi, ravioli, cannelloni; couscous, whether or not prepared",
+    "rate": 18,
+    "hsn": 1902,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "All goods i.e. Corn flakes, bulgar wheat, prepared foods obtained from cereal flakes [other than Puffed rice, commonly known as Muri, flattened or beaten rice, commonly known as Chira, parched rice, commonly known as khoi, parched paddy or rice coated with sugar or gur, commonly known as Murki]",
+    "rate": 18,
+    "hsn": "1904 [other than 1904 10 20]",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "All goods i.e. Waffles and wafers other than coated with chocolate or containing chocolate; biscuits; Pastries and cakes [other than pizza bread, Waffles and wafers coated with chocolate or containing chocolate, papad, bread]",
+    "rate": 18,
+    "hsn": "1905 [other than 1905 32 11, 1905 90 40]",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "All goods i.e Extracts, essences and concentrates of tea or mate, and preparations with a basis of these extracts, essences or concentrates or with a basis of tea or mate",
+    "rate": 18,
+    "hsn": "2101 20",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Curry paste",
+    "rate": 18,
+    "hsn": "2103 90 10",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Mayonnaise and salad dressings",
+    "rate": 18,
+    "hsn": "2103 90 30",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Mixed condiments and mixed seasoning",
+    "rate": 18,
+    "hsn": "2103 90 40",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Soups and broths and preparations therefor; homogenised composite food preparations",
+    "rate": 18,
+    "hsn": 2104,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Ice cream and other edible ice, whether or not containing cocoa",
+    "rate": 18,
+    "hsn": "2105 00 00",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "All kinds of food mixes including instant food mixes, soft drink concentrates, Sharbat, Betel nut product known as \"Supari\", Sterilized or pasteurized millstone, ready to eat packaged food and milk containing edible nuts with sugar or other ingredients, Diabetic foods; [other than Namkeens, bhujia, mixture, chabena and   similar edible preparations in ready for consumption form]",
+    "rate": 18,
+    "hsn": 2106,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Waters, including natural or artificial mineral waters and aerated waters, not containing added sugar or other sweetening matter nor flavoured",
+    "rate": 18,
+    "hsn": 2201,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Ethyl alcohol and other spirits, denatured, of any strength",
+    "rate": 18,
+    "hsn": 2207,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Vinegar and substitutes for vinegar obtained from acetic acid",
+    "rate": 18,
+    "hsn": 2209,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Sulphur recovered as by-product in refining of crude oil",
+    "rate": 18,
+    "hsn": "2503 00 10",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Slag, dross (other than granulated slag), scalings and other waste from the manufacture of iron or steel",
+    "rate": 18,
+    "hsn": 2619,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Slag, ash and residues (other than from the manufacture of iron or steel) containing metals, arsenic or their compounds",
+    "rate": 18,
+    "hsn": 2620,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other slag and ash, including seaweed ash (kelp); ash and residues from the incineration of municipal waste",
+    "rate": 18,
+    "hsn": 2621,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Oils and other products of the distillation of high temperature coal tar; similar products in which the weight of the aromatic constituents exceeds that of the non-aromatic constituents, such as Benzole (benzene), Toluole (toluene), Xylole (xylenes), Naphthelene",
+    "rate": 18,
+    "hsn": 2707,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Pitch and pitch coke, obtained from coal tar or from other mineral tars",
+    "rate": 18,
+    "hsn": 2708,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Petroleum oils and oils obtained from bituminous minerals, other than petroleum crude; preparations not elsewhere specified or included, containing by weight 70% or more of petroleum oils or of oils obtained from bituminous minerals, these oils being the basic constituents of the preparations; waste oils; [other than Avgas and Kerosene PDS and other than petrol, Diesel and ATF, not in GST]",
+    "rate": 18,
+    "hsn": 2710,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Petroleum gases and other gaseous hydrocarbons, such as Propane, Butanes, Ethylene, propylene, butylene and butadiene [Other than Liquefied Propane and Butane mixture, Liquefied Propane, Liquefied Butane and Liquefied Petroleum Gases (LPG) for supply to household domestic consumers or to non-domestic exempted category (NDEC) customers by the Indian Oil Corporation Limited, Hindustan petroleum Corporation Limited or Bharat Petroleum Corporation Limited]",
+    "rate": 18,
+    "hsn": 2711,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Petroleum jelly; paraffin wax, micro-crystalline petroleum wax, slack wax, ozokerite, lignite wax, peat wax, other mineral waxes, and similar products obtained by synthesis or by other processes, whether or not coloured",
+    "rate": 18,
+    "hsn": 2712,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Petroleum coke, petroleum bitumen and other residues of petroleum oils or of oils obtained from bituminous minerals",
+    "rate": 18,
+    "hsn": 2713,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Bitumen and asphalt, natural; bituminous or oil shale and tar sands; asphaltites and asphaltic rocks",
+    "rate": 18,
+    "hsn": 2714,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Bituminous mixtures based on natural asphalt, on natural bitumen, on petroleum bitumen, on mineral tar or on mineral tar pitch (for example, bituminous mastics, cut-backs)",
+    "rate": 18,
+    "hsn": 2715,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "All inorganic chemicals [other than those specified in the Schedule for exempted goods or other Rate Schedules for goods]",
+    "rate": 18,
+    "hsn": 28,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "All organic chemicals other than giberellic acid",
+    "rate": 18,
+    "hsn": 29,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Nicotine polacrilex gum",
+    "rate": 18,
+    "hsn": 30,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Mineral or chemical fertilisers, nitrogenous, other than those which are clearly not to be used as fertilizers",
+    "rate": 18,
+    "hsn": 3102,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Mineral or chemical fertilisers, phosphatic, which are clearly not to be used as fertilizers",
+    "rate": 18,
+    "hsn": 3103,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Mineral or chemical fertilisers, potassic, which are clearly not to be used as fertilizers",
+    "rate": 18,
+    "hsn": 3104,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Mineral or chemical fertilisers containing two or three of the fertilising elements nitrogen, phosphorus and potassium; other fertilisers; goods of this Chapter in tablets or similar forms or in packages of a gross weight not exceeding 10 kg, which are clearly not to be used as fertilizers",
+    "rate": 18,
+    "hsn": 3105,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Tanning extracts of vegetable origin; tannins and their salts, ethers, esters and other derivatives (other than Wattle extract, quebracho extract, chestnut extract)",
+    "rate": 18,
+    "hsn": 3201,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Synthetic organic tanning substances; inorganic tanning substances; tanning preparations, whether or not containing natural tanning substances (other than Enzymatic preparations for pre-tanning)",
+    "rate": 18,
+    "hsn": 3202,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Colouring matter of vegetable or animal origin (including dyeing extracts but excluding animal black), whether or not chemically defined; preparations as specified in Note 3 to this Chapter based on colouring matter of vegetable or animal origin",
+    "rate": 18,
+    "hsn": 3203,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Synthetic organic colouring matter, whether or not chemically defined; preparations as specified in Note 3 to this Chapter based on synthetic organic colouring matter; synthetic organic products of a kind used as fluorescent brightening agents or as luminophores, whether or not chemically defined",
+    "rate": 18,
+    "hsn": 3204,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Colour lakes; preparations as specified in Note 3 to this Chapter based on colour lakes",
+    "rate": 18,
+    "hsn": 3205,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other colouring matter; preparations as specified in Note 3 to this Chapter, other than those of heading 32.03, 32.04 or 32.05; inorganic products of a kind used as luminophores, whether or not chemically defined",
+    "rate": 18,
+    "hsn": 3206,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Prepared pigments, prepared opacifiers, prepared colours, vitrifiable enamels, glazes, engobes (slips), liquid lustres, and other similar preparations of a kind used in ceramic, enamelling or glass industry",
+    "rate": 18,
+    "hsn": 3207,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Prepared driers",
+    "rate": 18,
+    "hsn": "3211 00 00",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Pigments (including metallic powders and flakes) dispersed in non-aqueous media, in liquid or paste form, of a kind used in the manufacture of paints (including enamels); stamping foils; dyes and other colouring matter put up in forms or packings for retail sale",
+    "rate": 18,
+    "hsn": 3212,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Printing ink, writing or drawing ink and other inks, whether or not concentrated or solid (Fountain pen ink and Ball pen ink)",
+    "rate": 18,
+    "hsn": 3215,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Essential oils (terpeneless or not), including concretes and absolutes; resinoids; extracted oleoresins; concentrates of essential oils in fats, in fixed oils, in waxes or the like, obtained by enfleurage or maceration; terpenic by-products of the deterpenation of essential oils; aqueous distillates and aqueous solutions of essential oils; such as essential oils of citrus fruit, essential oils other than those of citrus fruit such as Eucalyptus oil, etc., Flavouring essences all types (including those for liquors), Attars of all kinds in fixed oil bases",
+    "rate": 18,
+    "hsn": 3301,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Mixtures of odoriferous substances and mixtures (including alcoholic solutions) with a basis of one or more of these substances, of a kind used as raw materials in industry; other preparations based on odoriferous substances, of a kind used for the manufacture of beverages; such as Synthetic perfumery compounds [other than Menthol and menthol crystals, Peppermint (Mentha Oil), Fractionated / de-terpenated mentha oil (DTMO), De-mentholised oil (DMO), Spearmint oil, Mentha piperita oil]",
+    "rate": 18,
+    "hsn": 3302,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Kajal pencil sticks",
+    "rate": 18,
+    "hsn": "3304 20 00",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Hair oil",
+    "rate": 18,
+    "hsn": "3305 9011, 3305 90 19",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Dentifices - Toothpaste",
+    "rate": 18,
+    "hsn": "3306 10 20",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Soap; organic surface-active products and preparations for use as soap, in the form of bars, cakes, moulded pieces or shapes, whether or not containing soap",
+    "rate": 18,
+    "hsn": "3401 [except 340130]",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Artificial waxes and prepared waxes",
+    "rate": 18,
+    "hsn": 3404,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Preparations known as “dental wax” or as “dental impression compounds”, put up in sets, in packings for retail sale or in plates, horseshoe shapes, sticks or similar forms; other preparations for use in dentistry, with a basis of plaster (of calcined gypsum or calcium sulphate)",
+    "rate": 18,
+    "hsn": 3407,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Casein, caseinates and other casein derivatives; casein glues",
+    "rate": 18,
+    "hsn": 3501,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Albumins (including concentrates of two or more whey proteins, containing by weight more than 80% whey proteins, calculated on the dry matter), albuminates and other albumin derivatives",
+    "rate": 18,
+    "hsn": 3502,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Gelatin (including gelatin in rectangular (including square) sheets, whether or not surface-worked or coloured) and gelatin derivatives; isinglass; other glues of animal origin, excluding casein glues of heading 3501",
+    "rate": 18,
+    "hsn": 3503,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Peptones and their derivatives; other protein substances and their derivatives, not elsewhere specified or included; hide powder, whether or not chromed; including Isolated soya protein",
+    "rate": 18,
+    "hsn": 3504,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Dextrins and other modified starches (for example, pregelatinised or esterified starches); glues based on starches, or on dextrins or other modified starches",
+    "rate": 18,
+    "hsn": 3505,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Prepared glues and other prepared adhesives, not elsewhere specified or included; products suitable for use as glues or adhesives, put up for retail sale as glues or adhesives, not exceeding a net weight of 1 kg",
+    "rate": 18,
+    "hsn": 3506,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Enzymes, prepared enzymes",
+    "rate": 18,
+    "hsn": 3507,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Propellant powders",
+    "rate": 18,
+    "hsn": 3601,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Safety fuses; detonating fuses; percussion or detonating caps; igniters; electric detonators",
+    "rate": 18,
+    "hsn": 3603,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Matches (other than handmade safety matches [3605 00 10])",
+    "rate": 18,
+    "hsn": 3605,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Photographic plates and film in the flat, sensitised, unexposed, of any material other than paper, paperboard or textiles; instant print film in the flat, sensitised, unexposed, whether or not in packs; such as Instant print film, Cinematographic film (other than for x-ray for Medical use)",
+    "rate": 18,
+    "hsn": 3701,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Photographic film in rolls, sensitised, unexposed, of any material other than paper, paperboard or textiles; instant print film in rolls, sensitised, unexposed",
+    "rate": 18,
+    "hsn": 3702,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Photographic paper, paperboard and textiles, sensitised, unexposed",
+    "rate": 18,
+    "hsn": 3703,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Photographic plates, film, paper, paperboard and textiles, exposed but not developed",
+    "rate": 18,
+    "hsn": 3704,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Photographic plates and films, exposed and developed, whether or not incorporating sound track or consisting only of sound track, for feature films",
+    "rate": 18,
+    "hsn": 3706,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Chemical preparations for photographic uses (other than varnishes, glues, adhesives and similar preparations); unmixed products for photographic uses, put up in measured portions or put up for retail sale in a form ready for use",
+    "rate": 18,
+    "hsn": 3707,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Artificial graphite; colloidal or semi-colloidal graphite; preparations based on graphite or other carbon in the form of pastes, blocks, plates or other semi-manufactures",
+    "rate": 18,
+    "hsn": 3801,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Activated carbon; activated natural mineral products; animal black, including spent animal black",
+    "rate": 18,
+    "hsn": 3802,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Tall oil, whether or not refined",
+    "rate": 18,
+    "hsn": "3803 00 00",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Residual lyes from the manufacture of wood pulp, whether or not concentrated, desugared or chemically treated, including lignin sulphonates",
+    "rate": 18,
+    "hsn": 3804,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Gum, wood or sulphate turpentine and other terpenic oils produced by the distillation or other treatment of coniferous woods; crude dipentene; sulphite turpentine and other crude para-cymene; pine oil containing alpha-terpineol as the main constituent",
+    "rate": 18,
+    "hsn": 3805,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Rosin and resin acids, and derivatives thereof; rosin spirit and rosin oils; run gums",
+    "rate": 18,
+    "hsn": 3806,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Wood tar; wood tar oils; wood creosote; wood naphtha; vegetable pitch; brewers' pitch and similar preparations based on rosin, resin acids or on vegetable pitch",
+    "rate": 18,
+    "hsn": 3807,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Insecticides, rodenticides, fungicides, herbicides, anti-sprouting products and plant-growth regulators, disinfectants and similar products",
+    "rate": 18,
+    "hsn": 3808,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Finishing agents, dye carriers to accelerate the dyeing or fixing of dyestuffs and other products and preparations (for example, dressings and mordants), of a kind used in the textile, paper, leather or like industries, not elsewhere specified or included",
+    "rate": 18,
+    "hsn": 3809,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Pickling preparations for metal surfaces; fluxes and other auxiliary preparations for soldering, brazing or welding; soldering, brazing or welding powders and pastes consisting of metal and other materials; preparations of a kind used as cores or coatings for welding electrodes or rods",
+    "rate": 18,
+    "hsn": 3810,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Prepared rubber accelerators; compound plasticisers for rubber or plastics, not elsewhere specified or included; anti-oxidising preparations and other compound stabilisers for rubber or plastics.; such as Vulcanizing agents for rubber",
+    "rate": 18,
+    "hsn": 3812,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Reaction initiators, reaction accelerators and catalytic preparations, not elsewhere specified or included",
+    "rate": 18,
+    "hsn": 3815,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Refractory cements, mortars, concretes and similar compositions, other than products of heading 3801",
+    "rate": 18,
+    "hsn": 3816,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Mixed alkylbenzenes and mixed alkylnaphthalenes, other than those of heading 2707 or 2902",
+    "rate": 18,
+    "hsn": 3817,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Chemical elements doped for use in electronics, in the form of discs, wafers or similar forms; chemical compounds doped for use in electronics [other than silicon wafers]",
+    "rate": 18,
+    "hsn": 3818,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Prepared culture media for the development or maintenance of micro-organisms (including viruses and the like) or of plant, human or animal cells",
+    "rate": 18,
+    "hsn": 3821,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Industrial monocarboxylic fatty acids, acid oils from refining; industrial fatty alcohols",
+    "rate": 18,
+    "hsn": 3823,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Prepared binders for foundry moulds or cores; chemical products and preparations of the chemical or allied industries (including those consisting of mixtures of natural products), not elsewhere specified or included",
+    "rate": 18,
+    "hsn": 3824,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Residual products of the chemical or allied industries, not elsewhere specified or included; [except municipal waste; sewage sludge; other wastes specified in Note 6 to this Chapter.]",
+    "rate": 18,
+    "hsn": 3825,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Biodiesel and mixtures thereof, not containing or containing less than 70% by weight of petroleum oils and oils obtained from bituminous minerals",
+    "rate": 18,
+    "hsn": 3826,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "All goods i.e. polymers; Polyacetals, other polyethers, epoxide resins, polycarbonates, alkyd resins, polyallyl esters, other polyesters; polyamides; Amino-resins, phenolic resins and polyurethanes; silicones; Petroleum resins, coumarone-indene resins, polyterpenes, polysulphides, polysulphones and other products specified in Note 3 to this Chapter, not elsewhere specified or included; Cellulose and its chemical derivatives, not elsewhere specified or included; Natural polymers (for example, alginic acid) and modified natural polymers (for example, hardened proteins, chemical derivatives of natural rubber), not elsewhere specified or included; in primary forms",
+    "rate": 18,
+    "hsn": "3901 to 3913",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Ion exchangers based on polymers of headings 3901 to 3913, in primary forms",
+    "rate": 18,
+    "hsn": 3914,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Waste, parings and scrap, of plastics",
+    "rate": 18,
+    "hsn": 3915,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Monofilament of which any cross-sectional dimension exceeds 1 mm, rods, sticks and profile shapes, whether or not surface-worked but not otherwise worked, of plastics",
+    "rate": 18,
+    "hsn": 3916,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Tubes, pipes and hoses, and fittings therefor, of plastics",
+    "rate": 18,
+    "hsn": 3917,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Self-adhesive plates, sheets, film, foil, tape, strip and other flat shapes, of plastics, whether or not in rolls",
+    "rate": 18,
+    "hsn": 3919,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other plates, sheets, film, foil and strip, of plastics, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",
+    "rate": 18,
+    "hsn": 3920,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other plates, sheets, film, foil and strip, of plastics",
+    "rate": 18,
+    "hsn": 3921,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Articles for the conveyance or packing of goods, of plastics; stoppers, lids, caps and other closures, of plastics",
+    "rate": 18,
+    "hsn": 3923,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Tableware, kitchenware, other household articles and hygienic or toilet articles, of plastics",
+    "rate": 18,
+    "hsn": 3924,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Builder's wares of plastics, not elsewhere specified",
+    "rate": 18,
+    "hsn": 3925,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "PVC Belt Conveyor, Plastic Tarpaulin",
+    "rate": 18,
+    "hsn": 3926,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Synthetic rubber and factice derived from oils, in primary forms or in plates, sheets or strip; mixtures of any product of heading 4001 with any product of this heading, in primary forms or in plates, sheets or strip; such as Latex, styrene butadiene rubber, butadiene rubber (BR), Isobutene-isoprene (butyl) rubber (IIR), Ethylene-propylene-Non-conjugated diene rubber (EPDM)",
+    "rate": 18,
+    "hsn": 4002,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Reclaimed rubber in primary forms or in plates, sheets or strip",
+    "rate": 18,
+    "hsn": 4003,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Waste, parings and scrap of rubber (other than hard rubber) and powders and granules obtained therefrom",
+    "rate": 18,
+    "hsn": 4004,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Compounded rubber, unvulcanised, in primary forms or in plates, sheets or strip",
+    "rate": 18,
+    "hsn": 4005,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other forms (for example, rods, tubes and profile shapes) and articles (for example, discs and rings), of unvulcanised rubber",
+    "rate": 18,
+    "hsn": 4006,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Vulcanised rubber thread and cord, other than latex rubber thread",
+    "rate": 18,
+    "hsn": 4007,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Plates, sheets, strip, rods and profile shapes, of vulcanised rubber other than hard rubber",
+    "rate": 18,
+    "hsn": 4008,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Tubes, pipes and hoses, of vulcanised rubber other than hard rubber, with or without their fittings (for example, joints, elbows, flanges)",
+    "rate": 18,
+    "hsn": 4009,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Conveyor or transmission belts or belting, of vulcanised rubber",
+    "rate": 18,
+    "hsn": 4010,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Rear Tractor tyres and rear tractor tyre tubes",
+    "rate": 18,
+    "hsn": 4011,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Hygienic or pharmaceutical articles (including teats), of vulcanised rubber other than hard rubber, with or without fittings of hard rubber; such as Hot water bottles, Ice bags [other than Sheath contraceptives, Rubber contraceptives, male (condoms), Rubber contraceptives, female (diaphragms), such as cervical caps]",
+    "rate": 18,
+    "hsn": 4014,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Articles of apparel and clothing accessories (including gloves, mittens and mitts), for all purposes, of vulcanised rubber other than hard rubber [other than Surgical gloves]",
+    "rate": 18,
+    "hsn": 4015,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "School satchels and bags other than of leather or composition leather",
+    "rate": 18,
+    "hsn": 4202,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Toilet cases",
+    "rate": 18,
+    "hsn": "4202 12 10",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Hand bags and shopping bags, of artificial plastic material",
+    "rate": 18,
+    "hsn": "4202 22 10",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Hand bags and shopping bags, of cotton",
+    "rate": 18,
+    "hsn": "4202 22 20",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Hand bags and shopping bags, of jute",
+    "rate": 18,
+    "hsn": "4202 22 30",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Vanity bags",
+    "rate": 18,
+    "hsn": "4202 22 40",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Handbags of other materials excluding wicker work or basket work",
+    "rate": 18,
+    "hsn": "4202 29 10",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Raw furskins (including heads, tails, paws and other pieces or cuttings, suitable for furriers' use), other than raw hides and skins of heading 4101, 4102 or 4103.",
+    "rate": 18,
+    "hsn": 4301,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Tanned or dressed furskins (including heads, tails, paws and other pieces or cuttings), unassembled, or assembled (without the addition of other materials) other than those of heading 4303",
+    "rate": 18,
+    "hsn": 4302,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Artificial fur and articles thereof",
+    "rate": 18,
+    "hsn": 4304,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Wood in the rough",
+    "rate": 18,
+    "hsn": 4403,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Wood sawn or chipped",
+    "rate": 18,
+    "hsn": 4407,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Sheets for veneering (including those obtained by slicing laminated wood), for plywood or for similar laminated wood and other wood, sawn lengthwise, sliced or peeled, whether or not planed, sanded, spliced or end-jointed, of a thickness not exceeding 6 mm [other than for match splints]",
+    "rate": 18,
+    "hsn": 4408,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Wood (including strips and friezes for parquet flooring, not assembled) continuously shaped (tongued, grooved, rebated, chamfered, v-jointed, beaded, moulded, rounded or the like) along any of its edges or faces, whether or not planed, sanded or end-jointed",
+    "rate": 18,
+    "hsn": 4409,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Resin bonded bamboo mat board, with or without veneer in between",
+    "rate": 18,
+    "hsn": "44 or any Chapter",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Bamboo flooring tiles",
+    "rate": 18,
+    "hsn": "44 or any Chapter",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Tableware and Kitchenware of wood",
+    "rate": 18,
+    "hsn": 4419,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Waste cork; crushed, granulated or ground cork",
+    "rate": 18,
+    "hsn": 4501,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Natural cork, debacked or roughly squared, or in rectangular (including square) blocks, plates, sheets or strip (including sharp-edged blanks for corks or stoppers)",
+    "rate": 18,
+    "hsn": 4502,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Articles of natural cork such as Corks and Stoppers, Shuttlecock cork bottom",
+    "rate": 18,
+    "hsn": 4503,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Agglomerated cork (with or without a binding substance) and articles of agglomerated cork",
+    "rate": 18,
+    "hsn": 4504,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Toilet or facial tissue stock, towel or napkin stock and similar paper of a kind used for household or sanitary purposes, cellulose wadding and webs of cellulose fibres, whether or not creped, crinkled, embossed, perforated, surface-coloured, surface-decorated or printed, in rolls or sheets",
+    "rate": 18,
+    "hsn": 4803,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Vegetable parchment, tracing papers and other glazed transparent or translucent papers, in rolls or sheets (other than greaseproof paper, glassine paper)",
+    "rate": 18,
+    "hsn": "4806 [Except 4806 20 00, 4806 40 10]",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Carbon paper, self-copy paper and other copying or transfer papers (including coated or impregnated paper for duplicator stencils or offset plates), whether or not printed, in rolls or sheets",
+    "rate": 18,
+    "hsn": 4809,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Paper, paperboard, cellulose wadding and webs of cellulose fibres, coated, impregnated, covered, surface-coloured, surface-decorated or printed, in rolls or rectangular (including square) sheets, of any size, other than goods of the kind described in heading 4803, 4809 or 4810 [Other than aseptic packaging paper]",
+    "rate": 18,
+    "hsn": 4811,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Filter blocks, slabs and plates, of paper pulp",
+    "rate": 18,
+    "hsn": 4812,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Cigarette paper, whether or not cut to size or in the form of booklets or tubes",
+    "rate": 18,
+    "hsn": 4813,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Carbon paper, self-copy paper and other copying or transfer papers (other than those of heading 4809), duplicator stencils and offset plates, of paper, whether or not put up in boxes",
+    "rate": 18,
+    "hsn": 4816,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Envelopes, letter cards, plain postcards and correspondence cards, of paper or paperboard; [other than boxes, pouches, wallets and writing compendiums, of paper or paperboard, containing an assortment of paper stationery including writing blocks]",
+    "rate": 18,
+    "hsn": "4817 [Except 4817 30]",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Toilet paper and similar paper, cellulose wadding or webs of cellulose fibres, of a kind used for household or sanitary purposes, in rolls of a width not exceeding 36 cm, or cut to size or shape; handkerchiefs, cleansing tissues, towels, table cloths, serviettes, napkins for babies, tampons, bed sheets and similar household, sanitary or hospital articles, articles of apparel and clothing accessories, or paper pulp, paper, cellulose wadding or webs of cellulose fibres",
+    "rate": 18,
+    "hsn": 4818,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Registers, account books, order books, receipt books, letter pads, memorandum pads, diaries and similar articles, blotting-pads, binders (loose-leaf or other), folders, file covers, manifold business forms, interleaved carbon sets and other articles of stationary, of paper or paperboard; and  book covers, of paper or paperboard [other than note books and exercise books]",
+    "rate": 18,
+    "hsn": 4820,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Paper or paperboard labels of all kinds, whether or not printed",
+    "rate": 18,
+    "hsn": 4821,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Bobbins, spools, cops and similar supports of paper pulp, paper or paperboard (whether or not perforated or hardened)",
+    "rate": 18,
+    "hsn": 4822,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other paper, paperboard, cellulose wadding and webs of cellulose fibres, cut to size or shape; other articles of paper pulp, paper, paperboard, cellulose wadding or webs of cellulose fibres [other than paper pulp moulded trays, Braille paper]",
+    "rate": 18,
+    "hsn": 4823,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Sewing thread of manmade filaments, whether or not put up for retail sale",
+    "rate": 18,
+    "hsn": 5401,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "All synthetic filament yarn such as nylon, polyester, acrylic, etc.",
+    "rate": 18,
+    "hsn": "5402, 5404, 5406",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "All artificial filament yarn such as viscose rayon, Cuprammonium, etc.",
+    "rate": 18,
+    "hsn": "5403, 5405, 5406",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Synthetic or artificial filament tow",
+    "rate": 18,
+    "hsn": "5501, 5502",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Synthetic or artificial staple fibres",
+    "rate": 18,
+    "hsn": "5503, 5504, 5506, 5507",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Waste of manmade fibres",
+    "rate": 18,
+    "hsn": 5505,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Sewing thread of manmade staple fibres",
+    "rate": 18,
+    "hsn": 5508,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Yarn of manmade staple fibres",
+    "rate": 18,
+    "hsn": "5509, 5510, 5511",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Waterproof footwear with outer soles and uppers of rubber or of plastics, the uppers of which are neither fixed to the sole nor assembled by stitching, riveting, nailing, screwing, plugging or similar processes",
+    "rate": 18,
+    "hsn": 6401,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other footwear with outer soles and uppers of rubber or plastics",
+    "rate": 18,
+    "hsn": 6402,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Footwear with outer soles of rubber, plastics, leather or composition leather and uppers of leather",
+    "rate": 18,
+    "hsn": 6403,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Footwear with outer soles of rubber, plastics, leather or composition leather and uppers of textile materials",
+    "rate": 18,
+    "hsn": 6404,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other footwear",
+    "rate": 18,
+    "hsn": 6405,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Parts of footwear (including uppers whether or not attached to soles other than outer soles); removable in-soles, heel cushions and similar articles; gaiters, leggings and similar articles, and parts thereof",
+    "rate": 18,
+    "hsn": 6406,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Hat-forms, hat bodies and hoods of felt, neither blocked to shape nor with made brims; plateaux and manchons (including slit manchons), of felt",
+    "rate": 18,
+    "hsn": 6501,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Hat-shapes, plaited or made by assembling strips of any material, neither blocked to shape, nor with made brims, nor lined, nor trimmed",
+    "rate": 18,
+    "hsn": 6502,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Hats and other headgear, plaited or made by assembling strips of any material, whether or not lined or trimmed",
+    "rate": 18,
+    "hsn": "6504 00 00",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Hats and other headgear, knitted or crocheted, or made up from lace, felt or other textile fabric, in the piece (but not in strips), whether or not lined or trimmed; hair-nets of any material, whether or not lined or trimmed",
+    "rate": 18,
+    "hsn": 6505,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other headgear, whether or not lined or trimmed",
+    "rate": 18,
+    "hsn": 6506,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Head-bands, linings, covers, hat foundations, hat frames, peaks and chinstraps, for headgear",
+    "rate": 18,
+    "hsn": 6507,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Millstones, grindstones, grinding wheels and the like, without frameworks, for grinding, sharpening, polishing, trueing or cutting, hand sharpening or polishing stones, and parts thereof, of natural stone, of agglomerated nllatural or artificial abrasives, or of ceramics, with or without parts of other materials",
+    "rate": 18,
+    "hsn": 6804,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Natural or artificial abrasive powder or grain, on a base of textile material, of paper, of paperboard or of other materials, whether or not cut to shape or sewn or otherwise made up",
+    "rate": 18,
+    "hsn": 6805,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Slag wool, rock wool and similar mineral wools; exfoliated vermiculite, expanded clays, foamed slag and similar expanded mineral materials; mixtures and articles of heat-insulating, sound-insulating or sound-absorbing mineral materials, other than those of heading 6811 or 6812 or chapter 69",
+    "rate": 18,
+    "hsn": 6806,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Pre cast Concrete Pipes",
+    "rate": 18,
+    "hsn": 6810,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Articles of asbestos-cement, of cellulose fibre-cement or the like",
+    "rate": 18,
+    "hsn": 6811,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Refractory bricks, blocks, tiles and similar refractory ceramic constructional goods, other than those of siliceous fossil meals or similar siliceous earths",
+    "rate": 18,
+    "hsn": 6902,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other refractory ceramic goods (for example, retorts, crucibles, muffles, nozzles, plugs, supports, cupels, tubes, pipes, sheaths and rods), other than those of siliceous fossil meals or of similar siliceous earths",
+    "rate": 18,
+    "hsn": 6903,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Salt Glazed Stone Ware Pipes",
+    "rate": 18,
+    "hsn": 6906,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Tableware, kitchenware, other household articles and toilet articles, of porcelain or china",
+    "rate": 18,
+    "hsn": 6911,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Ceramic tableware, kitchenware, other household articles and toilet articles, other than of porcelain or china [other than Earthen pot and clay lamps]",
+    "rate": 18,
+    "hsn": 6912,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Cullet and other waste and scrap of glass; glass in the mass",
+    "rate": 18,
+    "hsn": 7001,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Glass in balls (other than microspheres of heading 70.18), rods or tubes, unworked",
+    "rate": 18,
+    "hsn": 7002,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Carboys, bottles, flasks, jars, pots, phials, ampoules and other containers, of glass, of a kind used for the conveyance or packing of goods; preserving jars of glass; stoppers, lids and other closures, of glass",
+    "rate": 18,
+    "hsn": 7010,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Glassware of a kind used for table, kitchen, toilet, office, indoor decoration or similar purposes (other than that of heading 7010 or 7018)",
+    "rate": 18,
+    "hsn": 7013,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Clock or watch glasses and similar glasses, glasses for non-corrective spectacles, curved, bent, hollowed or the like, not optically worked; hollow glass spheres and their segments, for the manufacture of such glasses",
+    "rate": 18,
+    "hsn": 7015,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Laboratory, hygienic or pharmaceutical glassware, whether or not graduated or calibrated",
+    "rate": 18,
+    "hsn": 7017,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Imitation pearls, imitation precious or semi-precious stones and similar glass smallwares, and articles thereof other than imitation jewellery; glass eyes other than prosthetic articles; statuettes and other ornaments of lamp-worked glass, other than imitaion jewelery; glass microsphers not exceeding 1 mm in diameter",
+    "rate": 18,
+    "hsn": 7018,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Glass fibres (including glass wool) and articles thereof (for example, yarn, woven fabrics)",
+    "rate": 18,
+    "hsn": 7019,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Pig iron and spiegeleisen in pigs, blocks or other primary forms",
+    "rate": 18,
+    "hsn": 7201,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Ferro-alloys",
+    "rate": 18,
+    "hsn": 7202,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Ferrous products obtained by direct reduction of iron ore and other spongy ferrous products, in lumps, pellets or similar forms; iron having a minimum purity by weight of 99.94%, in lumps, pellets or similar forms",
+    "rate": 18,
+    "hsn": 7203,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Ferrous waste and scrap; remelting scrap ingots of iron or steel",
+    "rate": 18,
+    "hsn": 7204,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Granules and powders, of pig iron, spiegeleisen, iron or steel",
+    "rate": 18,
+    "hsn": 7205,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Iron and non-alloy steel in ingots or other primary forms (excluding iron of heading 7203)",
+    "rate": 18,
+    "hsn": 7206,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Semi-finished products of iron or non-alloy steel",
+    "rate": 18,
+    "hsn": 7207,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "All flat-rolled products of iron or non-alloy steel",
+    "rate": 18,
+    "hsn": "7208 to 7212",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "All bars and rods, of iron or non-alloy steel",
+    "rate": 18,
+    "hsn": "7213 to 7215",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Angles, shapes and sections of iron or non-alloy steel",
+    "rate": 18,
+    "hsn": 7216,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Wire of iron or non-alloy steel",
+    "rate": 18,
+    "hsn": 7217,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Stainless steel in ingots or other primary forms; semi-finished products of stainless steel",
+    "rate": 18,
+    "hsn": 7218,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "All flat-rolled products of stainless steel",
+    "rate": 18,
+    "hsn": "7219, 7220",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "All bars and rods, of stainless steel",
+    "rate": 18,
+    "hsn": "7221, 7222",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Wire of stainless steel",
+    "rate": 18,
+    "hsn": 7223,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other alloy steel in ingots or other primary forms; semi-finished products of other alloy steel",
+    "rate": 18,
+    "hsn": 7224,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "All flat-rolled products of other alloy steel",
+    "rate": 18,
+    "hsn": "7225, 7226",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "All bars and rods of other alloy steel.",
+    "rate": 18,
+    "hsn": "7227, 7228",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Wire of other alloy steel",
+    "rate": 18,
+    "hsn": 7229,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Sheet piling of iron or steel, whether or not drilled, punched or made from assembled elements; welded angles, shapes and sections, of iron or steel",
+    "rate": 18,
+    "hsn": 7301,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Railway or tramway track construction material of iron or steel, the following: rails, check-rails and rack rails, switch blades, crossing frogs, point rods and other crossing pieces, sleepers (cross-ties), fish-plates, chairs, chair wedges, sole plates (base plates), rail clips bedplates, ties and other material specialized for jointing or fixing rails",
+    "rate": 18,
+    "hsn": 7302,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Tubes, pipes and hollow profiles, of cast iron",
+    "rate": 18,
+    "hsn": 7303,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Tubes, pipes and hollow profiles, seamless, of iron (other than cast iron) or steel",
+    "rate": 18,
+    "hsn": 7304,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other tubes and pipes (for example, welded, riveted or similarly closed), having circular cross‑sections, the external diameter of which exceeds 406.4 mm, of iron or steel",
+    "rate": 18,
+    "hsn": 7305,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other tubes, pipes and hollow profiles (for example, open seam or welded, riveted or similarly closed), of iron or steel",
+    "rate": 18,
+    "hsn": 7306,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Tube or pipe fittings (for example, couplings, elbows, sleeves), of iron or steel",
+    "rate": 18,
+    "hsn": 7307,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Structures (excluding prefabricated buildings of heading 94.06) and parts of structures (for example, bridges and bridge‑sections, lock‑gates, towers, lattice masts, roofs, roofing frame‑works, doors and windows and their frames and thresholds for doors, and shutters, balustrades, pillars, and columns), of iron or steel; plates, rods, angles, shapes, section, tubes and the like, prepared for using structures, of iron or steel [other than transmission towers]",
+    "rate": 18,
+    "hsn": 7308,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Reservoirs, tanks, vats and similar containers for any material (other than compressed or liquefied gas), of iron or steel, of a capacity exceeding 300 l, whether or not lined or heat-insulated, but not fitted with mechanical or thermal equipment",
+    "rate": 18,
+    "hsn": 7309,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Tanks, casks, drums, cans, boxes and similar containers, for any material (other than compressed or liquefied gas), of iron or steel, of a capacity not exceeding 300 l, whether or not lined or heat-insulated, but not fitted with mechanical or thermal equipment",
+    "rate": 18,
+    "hsn": 7310,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Containers for compressed or liquefied gas, of iron or steel",
+    "rate": 18,
+    "hsn": 7311,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Stranded wire, ropes, cables, plaited bands, slings and the like, of iron or steel, not electrically insulated",
+    "rate": 18,
+    "hsn": 7312,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Barbed wire of iron or steel; twisted hoop or single flat wire, barbed or not, and loosely twisted double wire, of a kind used for fencing, of iron or steel",
+    "rate": 18,
+    "hsn": 7313,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Cloth (including endless bands), grill, netting and fencing, of iron or steel wire; expanded metal of iron or steel",
+    "rate": 18,
+    "hsn": 7314,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Chain and parts thereof, of iron or steel falling under 7315 20, 7315 81, 7315, 82, 7315 89, 7315 90",
+    "rate": 18,
+    "hsn": 7315,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Anchors, grapnels and parts thereof, of iron or steel",
+    "rate": 18,
+    "hsn": 7316,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Nails, tacks, drawing pins, corrugated nails, staples (other than those of heading 8305) and similar articles, of iron or steel, whether or not with heads of other material, but excluding such articles with heads of copper",
+    "rate": 18,
+    "hsn": 7317,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Screws, bolts, nuts, coach screws, screw hooks, rivets, cotters, cotter-pins, washers (including spring washers) and similar articles, of iron or steel",
+    "rate": 18,
+    "hsn": 7318,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Sewing needles, knitting needles, bodkins, crochet hooks, embroidery stilettos and similar articles, for use in the hand, of iron or steel; safety pins and other pins of iron or steel, not elsewhere specified or included",
+    "rate": 18,
+    "hsn": 7319,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Springs and leaves for springs, of iron and steel",
+    "rate": 18,
+    "hsn": 7320,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "LPG stoves",
+    "rate": 18,
+    "hsn": 7321,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Iron or steel wool; pot scourers and scouring or polishing pads, gloves and the like, of iron or steel",
+    "rate": 18,
+    "hsn": 7323,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other cast articles of iron or steel; such as Grinding balls and similar articles for mills, Rudders for ships or boats, Drain covers, Plates and frames for sewage water or similar system",
+    "rate": 18,
+    "hsn": 7325,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other articles of iron and steel, forged or stamped, but not further worked; such as Grinding balls and similar articles for mills, articles for automobiles and Earth moving implements, articles of iron or steel Wire, Tyre bead wire rings intended for use in the manufacture of tyres for cycles and cycle-rickshaws, Belt lacing of steel, Belt fasteners for machinery belts, Brain covers, plates, and frames for sewages, water or similar system, Enamelled iron ware (excluding utensil & sign board), Manufactures of stainless steel (excluding utensils), Articles of clad metal",
+    "rate": 18,
+    "hsn": 7326,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Copper mattes; cement copper (precipitated copper)",
+    "rate": 18,
+    "hsn": 7401,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Unrefined copper; copper anodes for electrolytic refining",
+    "rate": 18,
+    "hsn": 7402,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Refined copper and copper alloys, unwrought",
+    "rate": 18,
+    "hsn": 7403,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Copper waste and scrap",
+    "rate": 18,
+    "hsn": 7404,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Master alloys of copper",
+    "rate": 18,
+    "hsn": 7405,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Copper powders and flakes",
+    "rate": 18,
+    "hsn": 7406,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Copper bars, rods and profiles",
+    "rate": 18,
+    "hsn": 7407,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Copper wire",
+    "rate": 18,
+    "hsn": 7408,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Copper plates, sheets and strip, of a thickness exceeding 0.12.5 mm",
+    "rate": 18,
+    "hsn": 7409,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Copper foils",
+    "rate": 18,
+    "hsn": 7410,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Copper tubes and pipes",
+    "rate": 18,
+    "hsn": 7411,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Copper tube or pipe fittings (for example, couplings, elbows, sleeves)",
+    "rate": 18,
+    "hsn": 7412,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Stranded wires and cables",
+    "rate": 18,
+    "hsn": 7413,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Nails, tacks, drawing pins, staples (other than those of heading 83.05) and similar articles, of copper or of iron or steel with heads of copper; screws, bolts, nuts, screw hooks, rivets, cotters, cotter-pins, washers (including spring washers) and similar articles, of copper",
+    "rate": 18,
+    "hsn": 7415,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Metal castings",
+    "rate": 18,
+    "hsn": "7419 91 00",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Nickel mattes, nickel oxide sinters and other intermediate products of nickel metallurgy",
+    "rate": 18,
+    "hsn": 7501,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Unwrought nickel",
+    "rate": 18,
+    "hsn": 7502,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Nickel waste and scrap",
+    "rate": 18,
+    "hsn": 7503,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Nickel powders and flakes",
+    "rate": 18,
+    "hsn": 7504,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Nickel bars, rods, profiles and wire",
+    "rate": 18,
+    "hsn": 7505,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Nickel plates, sheets, strip and foil",
+    "rate": 18,
+    "hsn": 7506,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Nickel tubes, pipes and tube or pipe fittings (for example, couplings, elbows, sleeves)",
+    "rate": 18,
+    "hsn": 7507,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other articles of nickel",
+    "rate": 18,
+    "hsn": 7508,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Aluminium alloys; such as Ingots, Billets, Wire-bars, Wire-rods",
+    "rate": 18,
+    "hsn": 7601,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Aluminium waste and scrap",
+    "rate": 18,
+    "hsn": 7602,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Aluminium powders and flakes",
+    "rate": 18,
+    "hsn": 7603,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Aluminium bars, rods and profiles",
+    "rate": 18,
+    "hsn": 7604,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Aluminium wire",
+    "rate": 18,
+    "hsn": 7605,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Aluminium plates, sheets and strip, of a thickness exceeding 0.2 mm",
+    "rate": 18,
+    "hsn": 7606,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Aluminium foil (whether or not printed or backed with paper, paperboard, plastics or similar backing materials) of a thickness (excluding any backing) not exceeding 0.2 mm",
+    "rate": 18,
+    "hsn": 7607,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Aluminium tubes and pipes",
+    "rate": 18,
+    "hsn": 7608,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Aluminium tube or pipe fittings (for example, couplings, elbows, sleeves)",
+    "rate": 18,
+    "hsn": 7609,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Aluminium structures (excluding prefabricated buildings of heading 94.06 and doors, windows and their frames and thresholds for doors under 7610 10 00) and parts of structures (for example, bridges and bridge-sections, towers, lattice masts, roofs, roofing frameworks, balustrades, pillars and columns); aluminium plates. rods, profiles, tubes and the like, prepared for use in structures",
+    "rate": 18,
+    "hsn": "7610 [Except 7610 10 00]",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Aluminium reservoirs, tanks, vats and similar containers, for any material (other than compressed or liquefied gas), of a capacity exceeding 300 l, whether or not lined or heat-insulated, but not fitted with mechanical or thermal equipment",
+    "rate": 18,
+    "hsn": 7611,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Aluminium casks, drums, cans, boxes, etc.",
+    "rate": 18,
+    "hsn": 7612,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Aluminium containers for compressed or liquefied gas",
+    "rate": 18,
+    "hsn": 7613,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Stranded wires and cables",
+    "rate": 18,
+    "hsn": 7614,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other articles of aluminium",
+    "rate": 18,
+    "hsn": 7616,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Unwrought lead",
+    "rate": 18,
+    "hsn": 7801,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Lead waste and scrap",
+    "rate": 18,
+    "hsn": 7802,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Lead plates, sheets, strip and foil; lead powders and flakes",
+    "rate": 18,
+    "hsn": 7804,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other articles of lead (including sanitary fixtures and Indian lead seals)",
+    "rate": 18,
+    "hsn": 7806,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Unwrought zinc",
+    "rate": 18,
+    "hsn": 7901,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Zinc waste and scrap",
+    "rate": 18,
+    "hsn": 7902,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Zinc dust, powders and flakes",
+    "rate": 18,
+    "hsn": 7903,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Zinc bars, rods, profiles and wire",
+    "rate": 18,
+    "hsn": 7904,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Zinc plates, sheets, strip and foil",
+    "rate": 18,
+    "hsn": 7905,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other articles of zinc including sanitary fixtures",
+    "rate": 18,
+    "hsn": 7907,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Unwrought tin",
+    "rate": 18,
+    "hsn": 8001,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Tin waste and scrap",
+    "rate": 18,
+    "hsn": 8002,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Tin bars, rods, profiles and wire",
+    "rate": 18,
+    "hsn": 8003,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other articles of tin",
+    "rate": 18,
+    "hsn": 8007,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other base metals, namely, Tungsten, Molybdenum, Tantalum, Magnesium, Cobalt mattes,  and other intermediate products of cobalt metallurgy, Bismuth, Cadmium, Titanium, Zirconium, Antimony, Manganese, Beryllium, chromium, germanium, vanadium, gallium, hafnium, indium, niobium (columbium), rhenium and thallium, and articles thereof, including waste and scrap",
+    "rate": 18,
+    "hsn": "8101 to 8112",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Cermets and articles thereof, including waste and scrap",
+    "rate": 18,
+    "hsn": 8113,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Hand saws; blades for saws of all kinds (including slitting, slotting or toothless saw blades)",
+    "rate": 18,
+    "hsn": 8202,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Files, rasps, pliers (including cutting pliers), pincers, tweezers, metal cutting shears, pipe-cutters, bolt croppers, perforating punches and similar hand tools",
+    "rate": 18,
+    "hsn": 8203,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Hand-operated spanners and wrenches (including torque meter wrenches but not including tap wrenches); interchangeable spanner sockets, with or without handles",
+    "rate": 18,
+    "hsn": 8204,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Hand tools (including glaziers' diamonds), not elsewhere specified or included; blow lamps; vices, clamps and the like, other than accessories for and parts of, machine-tools or water-jet cutting machines; anvils; portable forges; hand or pedal-operated grinding wheels with frameworks",
+    "rate": 18,
+    "hsn": 8205,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Tools of two or more of the headings 8202 to 8205, put up in sets for retail sale",
+    "rate": 18,
+    "hsn": 8206,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Interchangeable tools for hand tools, whether or not power-operated, or for machine-tools (for example, for pressing, stamping, punching, tapping, threading, drilling, boring, broaching, milling, turning or screw driving), including dies for drawing or extruding metal, and rock drilling or earth boring tools",
+    "rate": 18,
+    "hsn": 8207,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Knives and cutting blades, for machines or for mechanical appliances",
+    "rate": 18,
+    "hsn": 8208,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Plates, sticks, tips and the like for tools, unmounted, of cermets",
+    "rate": 18,
+    "hsn": 8209,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Hand-operated mechanical appliances, weighing 10 kg or less, used in the preparation, conditioning or serving of food or drink",
+    "rate": 18,
+    "hsn": "8210 00 00",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Scissors, tailors' shears and similar shears, and blades therefor",
+    "rate": 18,
+    "hsn": "8213 00 00",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Padlocks and locks (key, combination or electrically operated), of base metal; clasps and frames with clasps, incorporating locks, of base metal; keys for any of the foregoing articles, of base metal",
+    "rate": 18,
+    "hsn": 8301,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Bells, gongs and the like, non-electric, of base metal; statuettes and other ornaments, of base metal; photograph, picture or similar frames, of base metal; mirrors of base metal",
+    "rate": 18,
+    "hsn": 8306,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Flexible tubing of base metal, with or without fittings",
+    "rate": 18,
+    "hsn": 8307,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Clasps, frames with clasps, buckles, buckle-clasps, hooks, eyes, eyelets and the like, of base metal, of a kind used for clothing or clothing accessories, footwear, jewellery, wrist watches, books, awnings, leather goods, travel goods or saddlery or for other made up articles; tubular or bifurcated rivets, of base metal; beads and spangles, of base metal",
+    "rate": 18,
+    "hsn": 8308,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Stoppers, caps and lids (including crown corks, screw caps and pouring stoppers), capsules for bottles, threaded bungs, bung covers, seals and other packing accessories, of base metal",
+    "rate": 18,
+    "hsn": 8309,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Wire, rods, tubes, plates, electrodes and similar products, of base metal or of metal carbides, coated or cored with flux material, of a kind used for soldering, brazing, welding or deposition of metal or of metal carbides; wire and rods, of agglomerated base metal powder, used for metal spraying",
+    "rate": 18,
+    "hsn": 8311,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Nuclear reactors; machinery and apparatus for isotopes separation",
+    "rate": 18,
+    "hsn": 8401,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Steam or other vapour generating boilers (other than central heating hot water boilers capable also of producing low pressure steam); super-heated water boilers",
+    "rate": 18,
+    "hsn": 8402,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Central heating boilers other than those of heading 8402",
+    "rate": 18,
+    "hsn": 8403,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Auxiliary plant for use with boilers of heading 8402 or 8403 (for example, economisers, super-heaters, soot removers, gas recoverers); condensers for steam or other vapour power units",
+    "rate": 18,
+    "hsn": 8404,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Producer gas or water gas generators, with or without their purifiers; acetylene gas generators and similar water process gas generators, with or without their purifiers",
+    "rate": 18,
+    "hsn": 8405,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Steam turbines and other vapour turbines",
+    "rate": 18,
+    "hsn": 8406,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Hydraulic turbines, water wheels, and regulators therefor",
+    "rate": 18,
+    "hsn": 8410,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Turbo-jets, turbo-propellers and other gas turbines - turbo-jets",
+    "rate": 18,
+    "hsn": 8411,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other engines and motors (Reaction engines other than turbo jets, Hydraulic power engines and motors, Pneumatic power engines and motors, other, parts) [other than wind turbine or engine]",
+    "rate": 18,
+    "hsn": 8412,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Furnace burners for liquid fuel, for pulverised solid fuel or for gas; mechanical stokers, including their mechanical grates, mechanical ash dischargers and similar appliances",
+    "rate": 18,
+    "hsn": 8416,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Industrial or laboratory furnaces and ovens, including incinerators, non-electric",
+    "rate": 18,
+    "hsn": 8417,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Medical, surgical or laboratory sterilisers",
+    "rate": 18,
+    "hsn": "8419 20",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Calendering or other rolling machines, other than for metals or glass, and cylinders therefor",
+    "rate": 18,
+    "hsn": 8420,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Centrifuges, including centrifugal dryers; filtering or purifying machinery and apparatus, for liquids or gases",
+    "rate": 18,
+    "hsn": 8421,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Machinery for cleaning or drying bottles or other containers; machinery for filling, closing, sealing or labelling bottles, cans, boxes, bags or other containers; machinery for capsuling bottles, jars, tubes and similar containers; other packing or wrapping machinery (including heat-shrink wrapping machinery); machinery for aerating beverages [other than dish washing machines]",
+    "rate": 18,
+    "hsn": "8422 20 00, 8422 30 00, 8422 40 00, 8522 90 [other than 8422 11 00, 8422 19 00]",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Weighing machinery (excluding balances of a sensitivity of 5 centigrams or better), including weight operated counting or checking machines; weighing machine weights of all kinds [other than electric or electronic weighing machinery]",
+    "rate": 18,
+    "hsn": 8423,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Mechanical appliances (whether or not hand-operated) for projecting, dispersing or spraying liquids or powders; spray guns and similar appliances; steam or sand blasting machines and similar jet projecting machines [other than fire extinguishers, whether or not charged]",
+    "rate": 18,
+    "hsn": 8424,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Pulley tackle and hoists other than skip hoists; winches and capstans; jacks",
+    "rate": 18,
+    "hsn": 8425,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Ship’s derricks; cranes including cable cranes; mobile lifting frames, straddle carriers and works trucks fitted with a crane",
+    "rate": 18,
+    "hsn": 8426,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Parts suitable for use solely or principally with the machinery of headings 8425 to 8430",
+    "rate": 18,
+    "hsn": 8431,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Presses, crushers and similar machinery used in the manufacture of wine, cider, fruit juices or similar beverages",
+    "rate": 18,
+    "hsn": 8435,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Machinery, not specified or included elsewhere in this Chapter, for the industrial preparation or manufacture of food or drink, other than machinery for the extraction or preparation of animal or fixed vegetable fats or oils",
+    "rate": 18,
+    "hsn": 8438,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Machinery for making pulp of fibrous cellulosic material or for making or finishing paper or paperboard",
+    "rate": 18,
+    "hsn": 8439,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Book-binding machinery, including book-sewing machines",
+    "rate": 18,
+    "hsn": 8440,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other machinery for making up paper pulp, paper or paperboard, including cutting machines of all kinds",
+    "rate": 18,
+    "hsn": 8441,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Machinery, apparatus and equipment (other than the machines of headings 8456 to 8465) for preparing or making plates, printing components; plates, cylinders and lithographic stones, prepared for printing purposes (for example, planed, grained or polished)",
+    "rate": 18,
+    "hsn": 8442,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Printing machinery used for printing by means of plates, cylinders and other printing components of heading 84.42; Printers [other than machines which perform two or more of the functions of printing, copying or facsimile transmission] capable of connecting to an automatic data processing machine or to a network printers [other than copying machines, facsimile machines]; parts and accessories thereof [other than ink cartridges with or without print head assembly and ink spray nozzle]",
+    "rate": 18,
+    "hsn": 8443,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Machines for extruding, drawing, texturing or cutting man-made textile materials",
+    "rate": 18,
+    "hsn": 8444,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Machines for preparing textile fibres; spinning, doubling or twisting machines and other machinery for producing textile yarns; textile reeling or winding (including weft-winding) machines and machines for preparing textile yarns for use on the machines of heading 8446 or 8447",
+    "rate": 18,
+    "hsn": 8445,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Weaving machines (looms)",
+    "rate": 18,
+    "hsn": 8446,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Knitting machines, stitch-bonding machines and machines for making gimped yarn, tulle, lace, embroidery, trimmings, braid or net and machines for tufting",
+    "rate": 18,
+    "hsn": 8447,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Auxiliary machinery for use with machines of heading 84.44, 84.45, 84.46 or 84.47 (for example, dobbies, Jacquards, automatic stop motions, shuttle changing mechanisms); parts and accessories suitable for use solely or principally with the machines of this heading or of heading 8444, 8445,8446 or 8447 (for example, spindles and spindles flyers, card clothing, combs, extruding nipples, shuttles, healds and heald frames, hosiery needles)",
+    "rate": 18,
+    "hsn": 8448,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Machinery for the manufacture or finishing of felt or nonwovens in the piece or in shapes, including machinery for making felt hats; blocks for making hats",
+    "rate": 18,
+    "hsn": 8449,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Machinery (other than machines of heading 8450) for washing, cleaning, wringing, drying, ironing, pressing (including fusing presses), bleaching, dyeing, dressing, finishing, coating or impregnating textile yarns, fabrics or made up textile articles and machines for applying the paste to the base fabric or other support used in the manufacture of floor covering such as linoleum; machines for reeling, unreeling, folding, cutting or pinking textile fabrics",
+    "rate": 18,
+    "hsn": 8451,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Machinery for preparing, tanning or working hides, skins or leather or for making or repairing footwear or other articles of hides, skins or leather, other than sewing machines",
+    "rate": 18,
+    "hsn": 8453,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Converters, ladles, ingot moulds and casting machines, of a kind used in metallurgy or in metal foundries",
+    "rate": 18,
+    "hsn": 8454,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Metal-rolling mills and rolls therefor",
+    "rate": 18,
+    "hsn": 8455,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Machine-tools for working any material by removal of material, by laser or other light or photon beam, ultrasonic, electro-discharge, electro-chemical, electron beam, ionic-beam or plasma arc processes",
+    "rate": 18,
+    "hsn": 8456,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Machining centres, unit construction machines (single station) and multi-station transfer machines, for working metal",
+    "rate": 18,
+    "hsn": 8457,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Lathes (including turning centres) for removing metal",
+    "rate": 18,
+    "hsn": 8458,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Machine-tools (including way-type unit head machines) for drilling, boring, milling, threading or tapping by removing metal, other than lathes (including turning centres) of heading 8458",
+    "rate": 18,
+    "hsn": 8459,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Machine-tools for deburring, sharpening, grinding, honing, lapping, polishing or otherwise finishing metal, or cermets by means of grinding stones, abrasives or polishing products, other than gear cutting, gear grinding or gear finishing machines of heading 8461",
+    "rate": 18,
+    "hsn": 8460,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Machine-tools for planing, shaping, slotting, broaching, gear cutting, gear grinding or gear finishing, sawing, cutting-off and other machine-tools working by removing metal or cermets, not elsewhere specified or included",
+    "rate": 18,
+    "hsn": 8461,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Machine-tools (including presses) for working metal by forging, hammering or die-stamping; machine-tools (including presses) for working metal by bending, folding, straightening, flattening, shearing, punching or notching; presses for working metal or metal carbides, not specified above",
+    "rate": 18,
+    "hsn": 8462,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other machine-tools for working metal, or cermets, without removing material",
+    "rate": 18,
+    "hsn": 8463,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Machine-tools for working stone, ceramics, concrete, asbestos-cement or like mineral materials or for cold working glass",
+    "rate": 18,
+    "hsn": 8464,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Machine-tools (including machines for nailing, stapling, glueing or otherwise assembling) for working wood, cork, bone, hard rubber, hard plastics or similar hard materials",
+    "rate": 18,
+    "hsn": 8465,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Parts and accessories suitable for use solely or principally with the machines of headings 8456 to 8465 including work or tool holders,   self-opening dieheads,   dividing heads and other special attachments for the machines; tool holders for any type of tool, for working in the hand",
+    "rate": 18,
+    "hsn": 8466,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Tools for working in the hand, pneumatic, hydraulic or with self-contained electric or non-electric motor",
+    "rate": 18,
+    "hsn": 8467,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Machinery and apparatus for soldering, brazing or welding, whether or not capable of cutting, other than those of heading 8512.5; gas-operated surface tempering machines and appliances",
+    "rate": 18,
+    "hsn": 8468,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Calculating machines and pocket-size data recording, reproducing and displaying machines with calculating functions; accounting machines, postage-franking machines, ticket-issuing machines and similar machines, incorporating a calculating device; cash registers",
+    "rate": 18,
+    "hsn": 8470,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Automatic data processing machines and units thereof; magnetic or optical readers, machines for transcribing data onto data media in coded form and machines for processing such data, not elsewhere specified or included",
+    "rate": 18,
+    "hsn": 8471,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Perforating or stapling machines (staplers), pencil sharpening machines",
+    "rate": 18,
+    "hsn": 8472,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Parts and accessories (other than covers, carrying cases and the like) suitable for use solely or principally with machines of headings 8470 to 8472",
+    "rate": 18,
+    "hsn": 8473,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Machinery for sorting, screening, separating, washing, crushing, grinding, mixing or kneading earth, stone, ores or other mineral substances, in solid (including powder or paste) form; machinery for agglomerating, shaping or moulding solid mineral fuels, ceramic paste, unhardened cements, plastering materials or other mineral products in powder or paste form; machines for forming foundry moulds of sand",
+    "rate": 18,
+    "hsn": 8474,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Machines for assembling electric or electronic lamps, tubes or valves or flashbulbs, in glass envelopes; machines for manufacturing or hot working glass or glassware",
+    "rate": 18,
+    "hsn": 8475,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Machinery for working rubber or plastics or for the manufacture of products from these materials, not specified or included elsewhere in this Chapter",
+    "rate": 18,
+    "hsn": 8477,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Machines and mechanical appliances having individual functions, not specified or included elsewhere in this Chapter [other than Passenger boarding bridges of a kind used in airports (8479 71 00) and other (8479 79 00)]",
+    "rate": 18,
+    "hsn": 8479,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Moulding boxes for metal foundry; mould bases; moulding patterns; moulds for metal (other than ingot moulds), metal carbides, glass, mineral materials, rubber or plastics",
+    "rate": 18,
+    "hsn": 8480,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Taps, cocks, valves and similar appliances for pipes, boiler shells, tanks, vats or the like, including pressure-reducing valves and thermostatically controlled valves",
+    "rate": 18,
+    "hsn": 8481,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Ball bearing, Roller Bearings",
+    "rate": 18,
+    "hsn": 8482,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Machines and apparatus of a kind used solely or principally for the manufacture of semiconductor boules or wafers, semiconductor devices, electronic integrated circuits or flat panel displays; machines and apparatus specified in Note 9 (C) to this Chapter; parts and accessories",
+    "rate": 18,
+    "hsn": 8486,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Machinery parts, not containing electrical connectors, insulators, coils, contacts or other electrical features not specified or included elsewhere in this chapter",
+    "rate": 18,
+    "hsn": 8487,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Electric motors and generators (excluding generating sets)",
+    "rate": 18,
+    "hsn": 8501,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Electric generating sets and rotary converters",
+    "rate": 18,
+    "hsn": 8502,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Parts suitable for use solely or principally with the machines of heading 8501 or 8502",
+    "rate": 18,
+    "hsn": 8503,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Transformers Industrial Electronics; Electrical Transformer; Static Convertors (UPS)",
+    "rate": 18,
+    "hsn": 8504,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Electro-magnets; permanent magnets and articles intended to become permanent magnets after magnetisation; electro-magnetic or permanent magnet chucks, clamps and similar holding devices; electro-magnetic couplings, clutches and brakes; electro-magnetic lifting heads",
+    "rate": 18,
+    "hsn": 8505,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Industrial or laboratory electric furnaces and ovens (including those functioning by induction or dielectric loss); other industrial or laboratory equipment for the heat treatment of materials by induction or dielectric loss",
+    "rate": 18,
+    "hsn": 8514,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Electric (including electrically heated gas), laser or other light or photo beam, ultrasonic, electron beam, magnetic pulse or plasma arc soldering, brazing or welding machines and apparatus, whether or not capable of cutting; electric machines and apparatus for hot spraying of metals or cermets",
+    "rate": 18,
+    "hsn": 8515,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Telephone sets; other apparatus for the transmission or reception of voice, images or other data, including apparatus for communication in a wired or wireless network (such as a local or wide area network), other than transmission or reception apparatus of heading 8443, 8525, 8527 or 8528",
+    "rate": 18,
+    "hsn": 8517,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Microphones and stands therefor; loudspeakers, whether or not mounted in their enclosures [other than single loudspeakers, mounted in their enclosures]; headphones and earphones, whether or not combined with a microphone, and sets consisting of a microphone and one or more loudspeakers;",
+    "rate": 18,
+    "hsn": 8518,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Video recording or reproducing apparatus, whether or not incorporating a video tuner",
+    "rate": 18,
+    "hsn": 8521,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Discs, tapes, solid-state non-volatile storage devices, \"smart cards\" and other media for the recording of sound or of other phenomena, whether or not recorded, including matrices and masters for the production of discs, but excluding products of Chapter 37",
+    "rate": 18,
+    "hsn": 8523,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Closed-circuit television (CCTV)",
+    "rate": 18,
+    "hsn": 8525,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Computer monitors not exceeding 17 inches, Set top Box for Television (TV)",
+    "rate": 18,
+    "hsn": 8528,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Electrical capacitors, fixed, variable or adjustable (pre-set)",
+    "rate": 18,
+    "hsn": 8532,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Electrical resistors (including rheostats and potentiometers), other than heating resistors",
+    "rate": 18,
+    "hsn": 8533,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Printed Circuits",
+    "rate": 18,
+    "hsn": "8534 00 00",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Electrical apparatus for switching or protecting electrical circuits, or for making connections to or in electrical circuits (for example, switches, fuses, lightning arresters, voltage limiters, surge suppressors, plugs and other connectors, junction boxes), for a voltage exceeding 1,000 volts",
+    "rate": 18,
+    "hsn": 8535,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Parts suitable for use solely or principally with the apparatus of heading 8535, 8536 or 8537",
+    "rate": 18,
+    "hsn": 8538,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Electrical Filaments or discharge lamps",
+    "rate": 18,
+    "hsn": 8539,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Thermionic, cold cathode or photo-cathode valves and tubes (for example, vacuum or vapour or gas filled valves and tubes, mercury arc rectifying valves and tubes, cathode-ray tubes, television camera tubes)",
+    "rate": 18,
+    "hsn": 8540,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Diodes,  transistors and similar semi-conductor devices; photosensitive semi-conductor devices; light-emitting diodes  (LED); mounted piezo-electric crystals",
+    "rate": 18,
+    "hsn": 8541,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Electronic integrated circuits",
+    "rate": 18,
+    "hsn": 8542,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Electrical machines and apparatus, having individual functions, not specified or included elsewhere in this Chapter",
+    "rate": 18,
+    "hsn": 8543,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Winding Wires; Coaxial cables; Optical Fiber",
+    "rate": 18,
+    "hsn": 8544,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Carbon electrodes",
+    "rate": 18,
+    "hsn": 8545,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Electrical insulators of any material",
+    "rate": 18,
+    "hsn": 8546,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Waste and scrap of primary cells, primary batteries and electric accumulators; spent primary cells, spent primary batteries and spent electric accumulators; electrical parts of machinery or apparatus, not specified or included elsewhere in this Chapter",
+    "rate": 18,
+    "hsn": 8548,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Containers (including containers for the transport of fluids) specially designed and equipped for carriage by one or more modes of transport [including refrigerated containers]",
+    "rate": 18,
+    "hsn": 8609,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "a)      Cars for physically handicapped persons, subject to the following conditions:   an officer not below the rank of Deputy Secretary to the Government of India in the Department of Heavy Industries certifies that the said goods are capable of being used by the physically handicapped persons; and  the buyer of the car gives an affidavit that he shall not dispose of the car for a period of five years after its purchase.",
+    "rate": 18,
+    "hsn": 8703,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Refrigerated motor vehicles",
+    "rate": 18,
+    "hsn": 8704,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "a.    Following parts of tractors namely: Rear Tractor wheel rim,  tractor centre housing,  tractor housing transmission,  tractor support front axle",
+    "rate": 18,
+    "hsn": 8708,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Baby carriages and parts thereof",
+    "rate": 18,
+    "hsn": 8715,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Balloons and dirigibles, gliders and other non-powered aircraft",
+    "rate": 18,
+    "hsn": 8801,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Parachutes (including dirigible parachutes and paragliders) and rotochutes; parts thereof and accessories thereto and parts thereof",
+    "rate": 18,
+    "hsn": 8804,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Aircraft launching gear, deck arrestor or similar gear; ground flying trainers and parts thereof",
+    "rate": 18,
+    "hsn": 8805,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Vessels and other floating structures for breaking up",
+    "rate": 18,
+    "hsn": "8908 00 00",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Optical fibres and optical fibre bundles; optical fibre cables other than those of heading 8544; sheets and plates of polarising material; prisms, mirrors and other optical elements, of any material, unmounted, other than such elements of glass not optically worked",
+    "rate": 18,
+    "hsn": 9001,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Lenses, prisms, mirrors and other optical elements, of any material, mounted, being parts of or fittings for instruments or apparatus, other than such elements of glass not optically worked [other than intraocular lens]",
+    "rate": 18,
+    "hsn": 9002,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Frames and mountings for spectacles, goggles or the like, and parts thereof",
+    "rate": 18,
+    "hsn": 9003,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Spectacles [other than corrective]; goggles and the like, corrective, protective or other",
+    "rate": 18,
+    "hsn": 9004,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Balances of a sensitivity of 5 cg or better, with or without weights [other than electric or electronic balances]",
+    "rate": 18,
+    "hsn": 9016,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Instruments for measuring length, for use in the hand (for example, measuring rods and tapes, micrometers, callipers), not specified or included elsewhere in the chapter",
+    "rate": 18,
+    "hsn": 9017,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Machines and appliances for testing the hardness, strength, compressibility, elasticity or other mechanical properties of materials (for example, metals, wood, textiles, paper, plastics)",
+    "rate": 18,
+    "hsn": 9024,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Hydrometers and similar floating instruments, thermometers, pyrometers, barometers, hygrometers and psychrometers, recording or not, and any combination of these instruments",
+    "rate": 18,
+    "hsn": 9025,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Instruments and apparatus for measuring or checking the flow, level, pressure or other variables of liquids or gases (for example, flow meters, level gauges, manometers, heat meters), excluding instruments and apparatus of heading 9014, 9015, 9028 or 9032",
+    "rate": 18,
+    "hsn": 9026,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Instruments and apparatus for physical or chemical analysis (for example, polarimeters, refractometers, spectrometers, gas or smoke analysis apparatus); instruments and apparatus for measuring or checking viscosity, porosity, expansion, surface tension or the like; instruments and appratus for measuring or checking quantities of heat, sound or light (including exposure meters); microtomes",
+    "rate": 18,
+    "hsn": 9027,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Gas, liquid or electricity supply or production meters, including calibrating meters therefor",
+    "rate": 18,
+    "hsn": 9028,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Revolution counters, production counters, taximeters, mileometers, pedometers and the like; speed indicators and tachometers, other than those of heading 9014 or 9015; stroboscopes",
+    "rate": 18,
+    "hsn": 9029,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Oscilloscopes, spectrum analysers and other instruments and apparatus for measuring or checking electrical quantities, excluding meters of heading 90.28; instruments and apparatus for measuring or detecting alpha, beta, gamma, X‑ray, cosmic or other ionising radiations",
+    "rate": 18,
+    "hsn": 9030,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Measuring or checking instruments, appliances and machines, not specified or included elsewhere in this Chapter; profile projectors",
+    "rate": 18,
+    "hsn": 9031,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Automatic regulating or controlling instruments and apparatus",
+    "rate": 18,
+    "hsn": 9032,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Parts and accessories (not specified or included elsewhere in this Chapter) for machines, appliances, instruments or apparatus of Chapter 90",
+    "rate": 18,
+    "hsn": 9033,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Clocks with watch movements, excluding clocks of heading 9104",
+    "rate": 18,
+    "hsn": 9103,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other clocks",
+    "rate": 18,
+    "hsn": 9105,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Clock movements, complete and assembled",
+    "rate": 18,
+    "hsn": 9109,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other clock parts",
+    "rate": 18,
+    "hsn": 9114,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Complete clock movements, unassembled or partly assembled (movement sets); incomplete clock movements, assembled; rough clock movements",
+    "rate": 18,
+    "hsn": 9110,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Clock cases, and parts thereof",
+    "rate": 18,
+    "hsn": 9112,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Military weapons other than revolvers, pistols",
+    "rate": 18,
+    "hsn": 9301,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other firearms and similar devices which operate by the firing of an explosive charge (for example, sporting shotguns and rifles, muzzle-loading firearms, very pistols and other devices designed to project only signal flares, pistols and revolvers for firing blank ammunition, captive-bolt humane killers, line-throwing guns)",
+    "rate": 18,
+    "hsn": 9303,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Other arms (for example, spring, air or gas guns and pistols, truncheons), excluding those of heading 9307",
+    "rate": 18,
+    "hsn": 9304,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Parts and accessories of articles of headings 9301 to 9304",
+    "rate": 18,
+    "hsn": 9305,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Bombs, grenades, torpedoes, mines, missiles, and similar munitions of war and parts thereof; cartridges and other ammunition and projectiles and parts thereof, including shot and cartridge wads",
+    "rate": 18,
+    "hsn": 9306,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Swords, cut lasses, bayonets, lances and similar arms and parts thereof and scabbards and sheaths therefor",
+    "rate": 18,
+    "hsn": 9307,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Medical, surgical, dental or veterinary furniture (for example, operating tables, examination tables, hospital beds with mechanical fittings, dentists' chairs); barbers' chairs and similar chairs, having rotating as well as both reclining and elevating movements; parts of the foregoing articles",
+    "rate": 18,
+    "hsn": 9402,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Bamboo furniture",
+    "rate": 18,
+    "hsn": 9403,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Coir mattresses, cotton pillows, mattress and quilts",
+    "rate": 18,
+    "hsn": 9404,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Prefabricated buildings",
+    "rate": 18,
+    "hsn": 9406,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Electronic Toys like tricycles, scooters, pedal cars etc. (including parts and accessories thereof)",
+    "rate": 18,
+    "hsn": 9503,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Swimming pools and padding pools",
+    "rate": 18,
+    "hsn": 9506,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Buttons, of plastics not covered with the textile material, of base metals, buttons of coconut shell, button blanks",
+    "rate": 18,
+    "hsn": "9606 21 00, 9606 22 00, 9606 29, 9606 30",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Brushes (including brushes constituting parts of machines, appliances or vehicles), hand operated mechanical floor sweepers, not motorised, mops and feather dusters; prepared knots and tufts for broom or brush making; paint pads and rollers; squeegees (other than roller squeegees) [other than brooms and brushes, consisting of twigs or other vegetable materials bound together, with or without handles]",
+    "rate": 18,
+    "hsn": "9603 [other than 9603 10 00]",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Hand sieves and hand riddles",
+    "rate": 18,
+    "hsn": "9604 00 00",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Travel sets for personal toilet, sewing or shoe or clothes cleaning",
+    "rate": 18,
+    "hsn": 9605,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Slide fasteners and parts thereof",
+    "rate": 18,
+    "hsn": 9607,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Fountain pens, stylograph pens and other pens",
+    "rate": 18,
+    "hsn": 9608,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Boards, with writing or drawing surface, whether or not framed",
+    "rate": 18,
+    "hsn": "9610 00 00",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Typewriter or similar ribbons, inked or otherwise prepared for giving impressions, whether or not on spools or in cartridges; ink-pads, whether or not inked, with or without boxes",
+    "rate": 18,
+    "hsn": 9612,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Monopods, bipods, tripods and similar articles",
+    "rate": 18,
+    "hsn": "9620 00 00",
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "All items of machinery including prime movers, instruments, apparatus and appliances, control gear and transmission equipment, auxiliary equipment (including those required for research and  development purposes, testing and quality control), as well as all components (whether finished or not) or raw materials for the manufacture of the aforesaid items and their components, required for the initial setting up of a unit, or the substantial expansion of an existing unit, of a specified:  industrial plant,  irrigation project,  power project,  mining project,  project for the exploration for oil or other minerals, and  such other projects as the Central Government may, having regard to the economic development of the country notify in the Official Gazette in this behalf;  and spare parts, other raw materials (including semi-finished materials of consumable stores) not exceeding 10% of the value of the goods specified above, provided that such spare parts, raw materials or consumable stores are essential for the maintenance of the plant or project mentioned in (1) to (6) above.",
+    "rate": 18,
+    "hsn": 9801,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Laboratory chemicals",
+    "rate": 18,
+    "hsn": 9802,
+    "lang": 1
+  },
+  {
+    "type": "goods",
+    "description": "Goods which are not specified in Schedule I, II, IV, V or VI",
+    "rate": 18,
+    "hsn": "Any Chapter",
+    "lang": 1
+  }
+]
