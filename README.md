@@ -9,3 +9,8 @@ GST stands for General Service Tax. The information contained in the mobile app 
 | GST Goods Rate  | GST Service Rate |
 | ------------- | -------------  |
 | ![](../master/art/GoodsRate.png)| ![](../master/art/GoodsRate.png) |
+
+
+
+#### Contributor
+* [Aditya Kadam](https://github.com/AdityaKadam1994)
